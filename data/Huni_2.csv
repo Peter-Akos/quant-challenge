@@ -1,32 +1,48 @@
-﻿County Name; Station
-Fillmore County;KFKA0
-Freeborn County;KAEL0
-Goodhue County;KSYN0
-Grant County;KY630
-Hennepin County;KMIC0
-Hennepin County;KFCM0
-Houston County;KONA0
-Houston County;KFKA0
-Hubbard County;KPKD0
-Isanti County;KCBG0
-Itasca County;KGPZ0
-Jackson County;KMJQ0
-Kanabec County;KJMR0
-Kandiyohi County;KBDH0
-Kittson County;KHCO0
-Koochiching County;72747
-Lac qui Parle County;KDXX0
-Lake County;KTWM0
-Lake County;KBFW0
-Lake of the Woods County;KFGN0
-Lake of the Woods County;KBDE0
-Le Sueur County;KMKT0
-Le Sueur County;KFBL0
-Lincoln County;KCNB0
-Lincoln County;KMML0
-Lincoln County;KPQN0
-Lyon County;KMML0
-McLeod County;KGYL0
-McLeod County;KHCD0
-Mahnomen County;KFSE0
-Mahnomen County;KDTL0
+﻿County Name; Station;;;
+Fillmore County;72644;;;
+Fillmore County;KONA0;;;
+Fillmore County;KFKA0;;;
+Freeborn County;KAUM0;;;
+Freeborn County;KAEL0;;;
+Goodhue County;KRGK0;;;
+Goodhue County;KSYN0;;;
+Grant County;KAXN0;;;
+Grant County;KETH0;;;
+Grant County;KY630;;;
+Hennepin County;KMIC0;;;
+Hennepin County;KFCM0;;;
+Houston County;KONA0;;;
+Houston County;KFKA0;;;
+Hubbard County;KY490;;;
+Hubbard County;KPKD0;;;
+Isanti County;KROS0;;;
+Isanti County;KCBG0;;;
+Itasca County;KHIB0;;;
+Itasca County;KGPZ0;;;
+Jackson County;KOTG0;;;
+Jackson County;KMJQ0;;;
+Kanabec County;KROS0;;;
+Kanabec County;KJMR0;;;
+Kandiyohi County;KPEX0;;;
+Kandiyohi County;KBDH0;;;
+Kittson County;P6529;;;
+Kittson County;KHCO0;;;
+Koochiching County;KCDD0;;;
+Koochiching County;72747;;;
+Lac qui Parle County;KAQP0;;;
+Lac qui Parle County;KDXX0;;;
+Lake County;KTWM0;;;
+Lake County;KBFW0;;;
+Lake of the Woods County;KFGN0;;;
+Lake of the Woods County;KBDE0;;;
+Le Sueur County;KMKT0;;;
+Le Sueur County;KFBL0;;;
+Lincoln County;KCNB0;;;
+Lincoln County;KMML0;;;
+Lincoln County;KPQN0;;;
+Lyon County;KHCO0;;;
+Lyon County;KMML0;;;
+McLeod County;KGYL0;;;
+McLeod County;KHCD0;;;
+Mahnomen County;KFSE0;;;
+Mahnomen County;KDTL0;;;

@@ -1,0 +1,230 @@
+,County Name, Station
+0,Saint Louis County,72745
+1,Saint Louis County,KDYT0
+2,Saint Louis County,KCOQ0
+3,Scott County,KFCM0
+4,Scott County,KGYL0
+5,Scott County,KLVN0
+6,Sherburne County,KPNM0
+7,Sherburne County,KCFE0
+8,Sherburne County,KMGG0
+9,Sherburne County,9NRIJ
+10,Sherburne County,KCBG0
+11,Sherburne County,72655
+12,Sibley County,KGYL0
+13,Sibley County,KULM0
+14,Sibley County,KMKT0
+15,Stearns County,72655
+16,Stearns County,KMGG0
+17,Stearns County,KPEX0
+18,Stearns County,KD390
+19,Steele County,KOWA0
+20,Steele County,KACQ0
+21,Steele County,KAEL0
+22,Steele County,KAUM0
+23,Steele County,KTOB0
+24,Stevens County,KMOX0
+25,Stevens County,KY630
+26,Stevens County,KETH0
+27,Stevens County,KVVV0
+28,Stevens County,KAQP0
+29,Stevens County,KBBB0
+30,Stevens County,KGHW0
+31,Stevens County,KAXN0
+32,Swift County,KBBB0
+33,Swift County,KGHW0
+34,Swift County,KAQP0
+35,Swift County,KMOX0
+36,Swift County,KBDH0
+37,Todd County,KRYM0
+38,Todd County,KLXL0
+39,Todd County,KD390
+40,Todd County,KAXN0
+41,Traverse County,KETH0
+42,Traverse County,KFFM0
+43,Traverse County,KY630
+44,Traverse County,KMOX0
+45,Traverse County,KVVV0
+46,Wabasha County,KONA0
+47,Wabasha County,KRGK0
+48,Wabasha County,72644
+49,Wabasha County,KTOB0
+50,Wadena County,KPKD0
+51,Wadena County,KPWC0
+52,Wadena County,KADC0
+53,Wadena County,KSAZ0
+54,Waseca County,KACQ0
+55,Waseca County,KMKT0
+56,Waseca County,KOWA0
+57,Waseca County,KAEL0
+58,Washington County,KSTP0
+59,Washington County,72658
+60,Washington County,KSGS0
+61,Watonwan County,KJYG0
+62,Watonwan County,KULM0
+63,Watonwan County,KMWM0
+64,Watonwan County,KMJQ0
+65,Watonwan County,KFRM0
+66,Wilkin County,KFFM0
+67,Wilkin County,KJKJ0
+68,Wilkin County,KY630
+69,Wilkin County,KETH0
+70,Winona County,KONA0
+71,Winona County,KFKA0
+72,Wright County,KMGG0
+73,Wright County,KCFE0
+74,Wright County,KGYL0
+75,Wright County,KLJF0
+76,Wright County,KHCD0
+77,Yellow Medicine County,KGDB0
+78,Yellow Medicine County,KMVE0
+79,Yellow Medicine County,KOVL0
+80,Yellow Medicine County,KMML0
+81,Yellow Medicine County,KCNB0
+82,Marshall County,KCKN0
+83,Marshall County,UYB6K
+84,Martin County,KFRM0
+85,Martin County,KMJQ0
+86,Martin County,KJYG0
+87,Martin County,KAEL0
+88,Meeker County,KLJF0
+89,Mille Lacs County,KPNM0
+90,Mille Lacs County,KCBG0
+91,Mille Lacs County,KJMR0
+92,Mille Lacs County,72655
+93,Mille Lacs County,KLXL0
+94,Morrison County,KLXL0
+95,Morrison County,KRYM0
+96,Morrison County,KBRD0
+97,Morrison County,KD390
+98,Mower County,KAUM0
+99,Mower County,KAEL0
+100,Mower County,72644
+101,Murray County,KTKC0
+102,Murray County,KPQN0
+103,Nicollet County,KMKT0
+104,Nicollet County,KULM0
+105,Nicollet County,KFBL0
+106,Nobles County,KOTG0
+107,Nobles County,KLYV0
+108,Nobles County,KMJQ0
+109,Norman County,KJKJ0
+110,Norman County,KCKN0
+111,Olmsted County,72644
+112,Olmsted County,KTOB0
+113,Olmsted County,KONA0
+114,Otter Tail County,KFFM0
+115,Otter Tail County,KY630
+116,Otter Tail County,KDTL0
+117,Pennington County,UYB6K
+118,Pennington County,KCKN0
+119,Pennington County,KFSE0
+120,Pennington County,KHCO0
+121,Pennington County,P6529
+122,Pine County,KROS0
+123,Pine County,KJMR0
+124,Pipestone County,KPQN0
+125,Pipestone County,KLYV0
+126,Pipestone County,KTKC0
+127,Polk County,KCKN0
+128,Polk County,UYB6K
+129,Pope County,KFSE0
+130,Pope County,KAXN0
+131,Pope County,KD390
+132,Pope County,KBBB0
+133,Ramsey County,KSTP0
+134,Ramsey County,72658
+135,Ramsey County,KSGS0
+136,Red Lake County,KCKN0
+137,Red Lake County,UYB6K
+138,Redwood County,Z7ZOG
+139,Redwood County,KOVL0
+140,Redwood County,KGDB0
+141,Redwood County,KMML0
+142,Redwood County,KTKC0
+143,Redwood County,KULM0
+144,Renville County,KOVL0
+145,Renville County,KBDH0
+146,Renville County,KGDB0
+147,Renville County,Z7ZOG
+148,Renville County,KHCD0
+149,Rice County,KFRM0
+150,Rice County,KAEL0
+151,Rice County,KJYG0
+152,Rice County,KACQ0
+153,Rock County,KLYV0
+154,Rock County,KPQN0
+155,Rock County,KOTG0
+156,Roseau County,P6529
+157,Roseau County,KHCO0
+158,Roseau County,KRRT0
+159,Roseau County,X9FED
+160,Aitkin County,KAIT0
+161,Aitkin County,KHZX0
+162,Anoka County,9NRIJ
+163,Becker County,KDTL0
+164,Becker County,KPKD0
+165,Beltrami County,X9FED
+166,Beltrami County,72755
+167,Benton County,72655
+168,Big Stone County,KVVV0
+169,Blue Earth County,KMKT0
+170,Brown County,KULM0
+171,Carlton County,KCOQ0
+172,Carlton County,KMZH0
+173,Carver County,KFCM0
+174,Carver County,KGYL0
+175,Cass County,KY490
+176,Cass County,KXVG0
+177,Cass County,KPWC0
+178,Cass County,KSAZ0
+179,Chippewa County,KMVE0
+180,Chippewa County,KBDH0
+181,Chisago County,KROS0
+182,Clay County,KJKJ0
+183,Clay County,KDTL0
+184,Clearwater County,KFSE0
+185,Clearwater County,72755
+186,Cook County,KGNA0
+187,Cook County,KCKC0
+188,Cottonwood County,KMWM0
+189,Crow Wing County,KBRD0
+190,Crow Wing County,KAIT0
+191,Crow Wing County,KPWC0
+192,Dakota County,KSYN0
+193,Dakota County,KLVN0
+194,Dodge County,KTOB0
+195,Douglas County,KAXN0
+196,Faribault County,KFRM0
+197,Faribault County,KAEL0
+198,Fillmore County,KFKA0
+199,Freeborn County,KAEL0
+200,Goodhue County,KSYN0
+201,Grant County,KY630
+202,Hennepin County,KMIC0
+203,Hennepin County,KFCM0
+204,Houston County,KONA0
+205,Houston County,KFKA0
+206,Hubbard County,KPKD0
+207,Isanti County,KCBG0
+208,Itasca County,KGPZ0
+209,Jackson County,KMJQ0
+210,Kanabec County,KJMR0
+211,Kandiyohi County,KBDH0
+212,Kittson County,KHCO0
+213,Koochiching County,72747
+214,Lac qui Parle County,KDXX0
+215,Lake County,KTWM0
+216,Lake County,KBFW0
+217,Lake of the Woods County,KFGN0
+218,Lake of the Woods County,KBDE0
+219,Le Sueur County,KMKT0
+220,Le Sueur County,KFBL0
+221,Lincoln County,KCNB0
+222,Lincoln County,KMML0
+223,Lincoln County,KPQN0
+224,Lyon County,KMML0
+225,McLeod County,KGYL0
+226,McLeod County,KHCD0
+227,Mahnomen County,KFSE0
+228,Mahnomen County,KDTL0
