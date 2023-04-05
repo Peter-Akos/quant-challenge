@@ -25,7 +25,7 @@ def get_stations(county):
 
 
 def get_data_from_station(station):
-    station_df = pd.read_csv('data/weather/minnesota_daily/' + station + '.csv', names=['data', 'avg', 'min', 'max', 'prec'], header=None, index_col='data').interpolate()
+    station_df = pd.read_csv('../data/weather/minnesota_daily/' + station + '.csv', names=['data', 'avg', 'min', 'max', 'prec'], header=None, index_col='data').interpolate()
 
     if station_df.isna().sum()[:3].sum() > 0:
         station_df = station_df.apply(fill_missing, axis=1)
