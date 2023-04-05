@@ -1,0 +1,4849 @@
+new_index,County,BU / ACRE
+1950-Aitkin County,AITKIN,7.0
+1950-Anoka County,ANOKA,7.0
+1950-Becker County,BECKER,9.0
+1950-Benton County,BENTON,8.0
+1950-Big Stone County,BIG STONE,13.0
+1950-Blue Earth County,BLUE EARTH,21.0
+1950-Brown County,BROWN,17.0
+1950-Carver County,CARVER,14.0
+1950-Chippewa County,CHIPPEWA,13.0
+1950-Chisago County,CHISAGO,5.0
+1950-Clay County,CLAY,11.0
+1950-Cottonwood County,COTTONWOOD,17.0
+1950-Crow Wing County,CROW WING,6.0
+1950-Douglas County,DOUGLAS,13.0
+1950-Faribault County,FARIBAULT,20.0
+1950-Freeborn County,FREEBORN,17.0
+1950-Grant County,GRANT,11.0
+1950-Hennepin County,HENNEPIN,7.0
+1950-Isanti County,ISANTI,6.0
+1950-Jackson County,JACKSON,16.0
+1950-Kanabec County,KANABEC,5.0
+1950-Kandiyohi County,KANDIYOHI,11.0
+1950-Kittson County,KITTSON,11.0
+1950-Lac Qui Parle County,LAC QUI PARLE,11.0
+1950-Le Sueur County,LE SUEUR,18.0
+1950-Lincoln County,LINCOLN,12.0
+1950-Lyon County,LYON,12.0
+1950-Mahnomen County,MAHNOMEN,10.0
+1950-Martin County,MARTIN,21.0
+1950-Mcleod County,MCLEOD,15.0
+1950-Meeker County,MEEKER,13.0
+1950-Mille Lacs County,MILLE LACS,6.0
+1950-Morrison County,MORRISON,5.0
+1950-Murray County,MURRAY,16.0
+1950-Nicollet County,NICOLLET,17.0
+1950-Nobles County,NOBLES,16.0
+1950-Norman County,NORMAN,10.0
+1950-Otter Tail County,OTTER TAIL,9.0
+1950-Pine County,PINE,6.0
+1950-Pipestone County,PIPESTONE,9.0
+1950-Polk County,POLK,8.0
+1950-Pope County,POPE,8.0
+1950-Ramsey County,RAMSEY,8.0
+1950-Redwood County,REDWOOD,15.0
+1950-Renville County,RENVILLE,15.0
+1950-Rice County,RICE,18.0
+1950-Rock County,ROCK,11.0
+1950-Scott County,SCOTT,16.0
+1950-Sherburne County,SHERBURNE,5.0
+1950-Sibley County,SIBLEY,17.0
+1950-Stearns County,STEARNS,8.0
+1950-Steele County,STEELE,18.0
+1950-Stevens County,STEVENS,13.0
+1950-Swift County,SWIFT,11.0
+1950-Todd County,TODD,8.0
+1950-Traverse County,TRAVERSE,10.0
+1950-Wadena County,WADENA,10.0
+1950-Waseca County,WASECA,20.0
+1950-Washington County,WASHINGTON,13.0
+1950-Watonwan County,WATONWAN,19.0
+1950-Wilkin County,WILKIN,9.0
+1950-Wright County,WRIGHT,12.0
+1950-Yellow Medicine County,YELLOW MEDICINE,14.0
+1951-Anoka County,ANOKA,12.0
+1951-Becker County,BECKER,8.0
+1951-Benton County,BENTON,11.0
+1951-Big Stone County,BIG STONE,13.0
+1951-Blue Earth County,BLUE EARTH,22.0
+1951-Brown County,BROWN,20.0
+1951-Carver County,CARVER,18.0
+1951-Chippewa County,CHIPPEWA,16.0
+1951-Chisago County,CHISAGO,15.0
+1951-Clay County,CLAY,13.0
+1951-Cottonwood County,COTTONWOOD,16.0
+1951-Douglas County,DOUGLAS,12.0
+1951-Faribault County,FARIBAULT,20.0
+1951-Freeborn County,FREEBORN,18.0
+1951-Grant County,GRANT,13.0
+1951-Hennepin County,HENNEPIN,18.0
+1951-Isanti County,ISANTI,12.0
+1951-Jackson County,JACKSON,16.0
+1951-Kanabec County,KANABEC,10.0
+1951-Kandiyohi County,KANDIYOHI,18.0
+1951-Lac Qui Parle County,LAC QUI PARLE,18.0
+1951-Le Sueur County,LE SUEUR,22.0
+1951-Lincoln County,LINCOLN,11.0
+1951-Lyon County,LYON,17.0
+1951-Mahnomen County,MAHNOMEN,8.0
+1951-Martin County,MARTIN,19.0
+1951-Mcleod County,MCLEOD,20.0
+1951-Meeker County,MEEKER,16.0
+1951-Mille Lacs County,MILLE LACS,9.0
+1951-Morrison County,MORRISON,12.0
+1951-Murray County,MURRAY,15.0
+1951-Nicollet County,NICOLLET,20.0
+1951-Nobles County,NOBLES,17.0
+1951-Norman County,NORMAN,13.0
+1951-Otter Tail County,OTTER TAIL,10.0
+1951-Pine County,PINE,9.0
+1951-Pipestone County,PIPESTONE,13.0
+1951-Pope County,POPE,15.0
+1951-Ramsey County,RAMSEY,16.0
+1951-Redwood County,REDWOOD,18.0
+1951-Renville County,RENVILLE,19.0
+1951-Rice County,RICE,17.0
+1951-Rock County,ROCK,18.0
+1951-Scott County,SCOTT,19.0
+1951-Sherburne County,SHERBURNE,12.0
+1951-Sibley County,SIBLEY,19.0
+1951-Stearns County,STEARNS,14.0
+1951-Steele County,STEELE,18.0
+1951-Stevens County,STEVENS,16.0
+1951-Swift County,SWIFT,16.0
+1951-Todd County,TODD,13.0
+1951-Traverse County,TRAVERSE,13.0
+1951-Waseca County,WASECA,19.0
+1951-Washington County,WASHINGTON,16.0
+1951-Watonwan County,WATONWAN,18.0
+1951-Wilkin County,WILKIN,14.0
+1951-Wright County,WRIGHT,16.0
+1951-Yellow Medicine County,YELLOW MEDICINE,18.0
+1952-Aitkin County,AITKIN,14.0
+1952-Anoka County,ANOKA,14.0
+1952-Becker County,BECKER,11.0
+1952-Benton County,BENTON,13.0
+1952-Big Stone County,BIG STONE,11.0
+1952-Blue Earth County,BLUE EARTH,24.0
+1952-Brown County,BROWN,20.0
+1952-Carver County,CARVER,24.0
+1952-Chippewa County,CHIPPEWA,16.0
+1952-Chisago County,CHISAGO,14.0
+1952-Clay County,CLAY,10.0
+1952-Cottonwood County,COTTONWOOD,20.0
+1952-Crow Wing County,CROW WING,12.0
+1952-Douglas County,DOUGLAS,14.0
+1952-Faribault County,FARIBAULT,22.0
+1952-Freeborn County,FREEBORN,21.0
+1952-Grant County,GRANT,13.0
+1952-Hennepin County,HENNEPIN,19.0
+1952-Isanti County,ISANTI,13.0
+1952-Jackson County,JACKSON,19.0
+1952-Kanabec County,KANABEC,18.0
+1952-Kandiyohi County,KANDIYOHI,17.0
+1952-Lac Qui Parle County,LAC QUI PARLE,17.0
+1952-Le Sueur County,LE SUEUR,24.0
+1952-Lincoln County,LINCOLN,17.0
+1952-Lyon County,LYON,16.0
+1952-Mahnomen County,MAHNOMEN,10.0
+1952-Marshall County,MARSHALL,10.0
+1952-Martin County,MARTIN,23.0
+1952-Mcleod County,MCLEOD,23.0
+1952-Meeker County,MEEKER,20.0
+1952-Mille Lacs County,MILLE LACS,11.0
+1952-Morrison County,MORRISON,11.0
+1952-Murray County,MURRAY,16.0
+1952-Nicollet County,NICOLLET,24.0
+1952-Nobles County,NOBLES,19.0
+1952-Norman County,NORMAN,14.0
+1952-Otter Tail County,OTTER TAIL,10.0
+1952-Pine County,PINE,15.0
+1952-Pipestone County,PIPESTONE,16.0
+1952-Polk County,POLK,12.0
+1952-Pope County,POPE,12.0
+1952-Ramsey County,RAMSEY,16.0
+1952-Redwood County,REDWOOD,19.0
+1952-Renville County,RENVILLE,20.0
+1952-Rice County,RICE,18.0
+1952-Rock County,ROCK,18.0
+1952-Scott County,SCOTT,17.0
+1952-Sherburne County,SHERBURNE,13.0
+1952-Sibley County,SIBLEY,19.0
+1952-Stearns County,STEARNS,12.0
+1952-Steele County,STEELE,21.0
+1952-Stevens County,STEVENS,14.0
+1952-Swift County,SWIFT,13.0
+1952-Todd County,TODD,14.0
+1952-Traverse County,TRAVERSE,10.0
+1952-Wadena County,WADENA,14.0
+1952-Waseca County,WASECA,23.0
+1952-Washington County,WASHINGTON,17.0
+1952-Watonwan County,WATONWAN,20.0
+1952-Wilkin County,WILKIN,10.0
+1952-Wright County,WRIGHT,21.0
+1952-Yellow Medicine County,YELLOW MEDICINE,16.0
+1953-Aitkin County,AITKIN,15.0
+1953-Anoka County,ANOKA,12.0
+1953-Becker County,BECKER,22.0
+1953-Benton County,BENTON,18.0
+1953-Big Stone County,BIG STONE,18.0
+1953-Blue Earth County,BLUE EARTH,23.0
+1953-Brown County,BROWN,21.0
+1953-Carver County,CARVER,22.0
+1953-Cass County,CASS,17.0
+1953-Chippewa County,CHIPPEWA,20.0
+1953-Chisago County,CHISAGO,17.0
+1953-Clay County,CLAY,15.0
+1953-Cottonwood County,COTTONWOOD,19.0
+1953-Crow Wing County,CROW WING,19.1
+1953-Douglas County,DOUGLAS,17.0
+1953-Faribault County,FARIBAULT,23.0
+1953-Freeborn County,FREEBORN,23.0
+1953-Grant County,GRANT,16.0
+1953-Hennepin County,HENNEPIN,20.0
+1953-Hubbard County,HUBBARD,17.0
+1953-Isanti County,ISANTI,16.0
+1953-Jackson County,JACKSON,20.0
+1953-Kanabec County,KANABEC,13.0
+1953-Kandiyohi County,KANDIYOHI,19.0
+1953-Lac Qui Parle County,LAC QUI PARLE,20.0
+1953-Le Sueur County,LE SUEUR,24.0
+1953-Lincoln County,LINCOLN,16.0
+1953-Lyon County,LYON,19.0
+1953-Mahnomen County,MAHNOMEN,13.0
+1953-Marshall County,MARSHALL,14.0
+1953-Martin County,MARTIN,22.0
+1953-Mcleod County,MCLEOD,20.0
+1953-Meeker County,MEEKER,20.0
+1953-Mille Lacs County,MILLE LACS,13.0
+1953-Morrison County,MORRISON,11.0
+1953-Murray County,MURRAY,19.0
+1953-Nicollet County,NICOLLET,24.0
+1953-Nobles County,NOBLES,17.0
+1953-Norman County,NORMAN,15.0
+1953-Otter Tail County,OTTER TAIL,16.0
+1953-Pine County,PINE,12.0
+1953-Pipestone County,PIPESTONE,23.0
+1953-Polk County,POLK,14.0
+1953-Pope County,POPE,17.0
+1953-Ramsey County,RAMSEY,15.0
+1953-Redwood County,REDWOOD,20.0
+1953-Renville County,RENVILLE,22.0
+1953-Rice County,RICE,21.0
+1953-Rock County,ROCK,20.0
+1953-Scott County,SCOTT,20.0
+1953-Sherburne County,SHERBURNE,12.0
+1953-Sibley County,SIBLEY,22.0
+1953-Stearns County,STEARNS,18.0
+1953-Steele County,STEELE,23.0
+1953-Stevens County,STEVENS,18.0
+1953-Swift County,SWIFT,17.0
+1953-Todd County,TODD,15.0
+1953-Traverse County,TRAVERSE,16.0
+1953-Waseca County,WASECA,23.0
+1953-Washington County,WASHINGTON,23.0
+1953-Watonwan County,WATONWAN,20.0
+1953-Wilkin County,WILKIN,15.0
+1953-Wright County,WRIGHT,18.0
+1953-Yellow Medicine County,YELLOW MEDICINE,20.0
+1954-Aitkin County,AITKIN,13.0
+1954-Anoka County,ANOKA,16.0
+1954-Becker County,BECKER,15.0
+1954-Benton County,BENTON,16.0
+1954-Big Stone County,BIG STONE,16.0
+1954-Blue Earth County,BLUE EARTH,25.0
+1954-Brown County,BROWN,23.0
+1954-Carver County,CARVER,23.0
+1954-Cass County,CASS,10.0
+1954-Chippewa County,CHIPPEWA,19.0
+1954-Chisago County,CHISAGO,16.0
+1954-Clay County,CLAY,14.0
+1954-Cottonwood County,COTTONWOOD,21.0
+1954-Crow Wing County,CROW WING,12.0
+1954-Douglas County,DOUGLAS,17.0
+1954-Faribault County,FARIBAULT,26.0
+1954-Freeborn County,FREEBORN,24.0
+1954-Grant County,GRANT,15.0
+1954-Hennepin County,HENNEPIN,22.0
+1954-Hubbard County,HUBBARD,14.9
+1954-Isanti County,ISANTI,15.0
+1954-Jackson County,JACKSON,23.0
+1954-Kanabec County,KANABEC,16.0
+1954-Kandiyohi County,KANDIYOHI,20.0
+1954-Lac Qui Parle County,LAC QUI PARLE,20.0
+1954-Le Sueur County,LE SUEUR,24.0
+1954-Lincoln County,LINCOLN,18.0
+1954-Lyon County,LYON,20.0
+1954-Mahnomen County,MAHNOMEN,15.0
+1954-Marshall County,MARSHALL,10.0
+1954-Martin County,MARTIN,26.0
+1954-Mcleod County,MCLEOD,21.0
+1954-Meeker County,MEEKER,21.0
+1954-Mille Lacs County,MILLE LACS,19.0
+1954-Morrison County,MORRISON,14.0
+1954-Murray County,MURRAY,20.0
+1954-Nicollet County,NICOLLET,24.0
+1954-Nobles County,NOBLES,23.0
+1954-Norman County,NORMAN,15.0
+1954-Otter Tail County,OTTER TAIL,14.0
+1954-Pine County,PINE,17.0
+1954-Pipestone County,PIPESTONE,19.0
+1954-Polk County,POLK,12.9
+1954-Pope County,POPE,16.0
+1954-Ramsey County,RAMSEY,20.0
+1954-Redwood County,REDWOOD,22.0
+1954-Renville County,RENVILLE,23.0
+1954-Rice County,RICE,18.0
+1954-Rock County,ROCK,19.0
+1954-Scott County,SCOTT,23.0
+1954-Sherburne County,SHERBURNE,14.0
+1954-Sibley County,SIBLEY,22.0
+1954-Stearns County,STEARNS,14.0
+1954-Steele County,STEELE,22.0
+1954-Stevens County,STEVENS,17.0
+1954-Swift County,SWIFT,16.0
+1954-Todd County,TODD,14.0
+1954-Traverse County,TRAVERSE,15.0
+1954-Wadena County,WADENA,15.0
+1954-Waseca County,WASECA,24.0
+1954-Washington County,WASHINGTON,18.0
+1954-Watonwan County,WATONWAN,22.0
+1954-Wilkin County,WILKIN,15.0
+1954-Wright County,WRIGHT,16.0
+1954-Yellow Medicine County,YELLOW MEDICINE,20.0
+1955-Aitkin County,AITKIN,10.0
+1955-Anoka County,ANOKA,11.0
+1955-Becker County,BECKER,13.0
+1955-Beltrami County,BELTRAMI,10.0
+1955-Benton County,BENTON,14.0
+1955-Big Stone County,BIG STONE,15.0
+1955-Blue Earth County,BLUE EARTH,24.0
+1955-Brown County,BROWN,22.0
+1955-Carver County,CARVER,26.0
+1955-Cass County,CASS,10.0
+1955-Chippewa County,CHIPPEWA,20.0
+1955-Chisago County,CHISAGO,14.0
+1955-Clay County,CLAY,14.0
+1955-Clearwater County,CLEARWATER,8.0
+1955-Cottonwood County,COTTONWOOD,19.0
+1955-Crow Wing County,CROW WING,14.0
+1955-Douglas County,DOUGLAS,14.0
+1955-Faribault County,FARIBAULT,23.0
+1955-Freeborn County,FREEBORN,21.0
+1955-Grant County,GRANT,15.0
+1955-Hennepin County,HENNEPIN,13.0
+1955-Hubbard County,HUBBARD,10.0
+1955-Isanti County,ISANTI,13.0
+1955-Jackson County,JACKSON,20.0
+1955-Kanabec County,KANABEC,14.0
+1955-Kandiyohi County,KANDIYOHI,20.0
+1955-Kittson County,KITTSON,8.0
+1955-Lac Qui Parle County,LAC QUI PARLE,21.0
+1955-Le Sueur County,LE SUEUR,23.0
+1955-Lincoln County,LINCOLN,12.0
+1955-Lyon County,LYON,19.0
+1955-Mahnomen County,MAHNOMEN,11.0
+1955-Marshall County,MARSHALL,8.0
+1955-Martin County,MARTIN,22.0
+1955-Mcleod County,MCLEOD,24.0
+1955-Meeker County,MEEKER,22.0
+1955-Mille Lacs County,MILLE LACS,14.0
+1955-Morrison County,MORRISON,13.0
+1955-Murray County,MURRAY,15.0
+1955-Nicollet County,NICOLLET,24.0
+1955-Nobles County,NOBLES,18.0
+1955-Norman County,NORMAN,13.0
+1955-Otter Tail County,OTTER TAIL,14.0
+1955-Pennington County,PENNINGTON,9.0
+1955-Pine County,PINE,14.0
+1955-Pipestone County,PIPESTONE,13.0
+1955-Polk County,POLK,10.0
+1955-Pope County,POPE,15.0
+1955-Ramsey County,RAMSEY,16.0
+1955-Red Lake County,RED LAKE,8.0
+1955-Redwood County,REDWOOD,20.0
+1955-Renville County,RENVILLE,22.0
+1955-Rice County,RICE,21.0
+1955-Rock County,ROCK,17.0
+1955-Roseau County,ROSEAU,7.0
+1955-Scott County,SCOTT,25.0
+1955-Sherburne County,SHERBURNE,16.0
+1955-Sibley County,SIBLEY,25.0
+1955-Stearns County,STEARNS,15.0
+1955-Steele County,STEELE,20.0
+1955-Stevens County,STEVENS,16.0
+1955-Swift County,SWIFT,16.0
+1955-Todd County,TODD,12.0
+1955-Traverse County,TRAVERSE,14.0
+1955-Wadena County,WADENA,10.0
+1955-Waseca County,WASECA,22.0
+1955-Washington County,WASHINGTON,20.0
+1955-Watonwan County,WATONWAN,23.0
+1955-Wilkin County,WILKIN,14.0
+1955-Wright County,WRIGHT,21.0
+1955-Yellow Medicine County,YELLOW MEDICINE,21.0
+1956-Aitkin County,AITKIN,13.0
+1956-Anoka County,ANOKA,13.0
+1956-Becker County,BECKER,10.0
+1956-Beltrami County,BELTRAMI,9.0
+1956-Benton County,BENTON,21.0
+1956-Big Stone County,BIG STONE,16.0
+1956-Blue Earth County,BLUE EARTH,25.0
+1956-Brown County,BROWN,22.0
+1956-Carver County,CARVER,18.0
+1956-Cass County,CASS,12.0
+1956-Chippewa County,CHIPPEWA,20.0
+1956-Chisago County,CHISAGO,15.0
+1956-Clay County,CLAY,13.0
+1956-Clearwater County,CLEARWATER,10.0
+1956-Cottonwood County,COTTONWOOD,19.0
+1956-Crow Wing County,CROW WING,13.0
+1956-Douglas County,DOUGLAS,16.0
+1956-Faribault County,FARIBAULT,25.0
+1956-Freeborn County,FREEBORN,24.0
+1956-Grant County,GRANT,14.0
+1956-Hennepin County,HENNEPIN,23.0
+1956-Hubbard County,HUBBARD,11.0
+1956-Isanti County,ISANTI,12.0
+1956-Jackson County,JACKSON,21.0
+1956-Kanabec County,KANABEC,17.0
+1956-Kandiyohi County,KANDIYOHI,17.0
+1956-Kittson County,KITTSON,8.0
+1956-Lac Qui Parle County,LAC QUI PARLE,18.0
+1956-Lake Of The Woods County,LAKE OF THE WOODS,8.0
+1956-Le Sueur County,LE SUEUR,27.0
+1956-Lincoln County,LINCOLN,18.0
+1956-Lyon County,LYON,18.0
+1956-Mahnomen County,MAHNOMEN,12.0
+1956-Marshall County,MARSHALL,10.0
+1956-Martin County,MARTIN,24.0
+1956-Mcleod County,MCLEOD,25.0
+1956-Meeker County,MEEKER,20.0
+1956-Mille Lacs County,MILLE LACS,19.0
+1956-Morrison County,MORRISON,16.0
+1956-Murray County,MURRAY,18.0
+1956-Nicollet County,NICOLLET,26.0
+1956-Nobles County,NOBLES,19.0
+1956-Norman County,NORMAN,10.0
+1956-Otter Tail County,OTTER TAIL,14.0
+1956-Pennington County,PENNINGTON,9.0
+1956-Pine County,PINE,18.0
+1956-Pipestone County,PIPESTONE,10.0
+1956-Polk County,POLK,12.0
+1956-Pope County,POPE,17.0
+1956-Ramsey County,RAMSEY,23.0
+1956-Red Lake County,RED LAKE,10.0
+1956-Redwood County,REDWOOD,20.0
+1956-Renville County,RENVILLE,22.0
+1956-Rice County,RICE,24.0
+1956-Rock County,ROCK,17.0
+1956-Roseau County,ROSEAU,8.0
+1956-Scott County,SCOTT,25.0
+1956-Sherburne County,SHERBURNE,13.0
+1956-Sibley County,SIBLEY,24.0
+1956-Stearns County,STEARNS,16.0
+1956-Steele County,STEELE,25.0
+1956-Stevens County,STEVENS,16.0
+1956-Swift County,SWIFT,17.0
+1956-Todd County,TODD,13.0
+1956-Traverse County,TRAVERSE,16.0
+1956-Wadena County,WADENA,13.0
+1956-Waseca County,WASECA,23.0
+1956-Washington County,WASHINGTON,22.0
+1956-Watonwan County,WATONWAN,22.0
+1956-Wilkin County,WILKIN,15.0
+1956-Wright County,WRIGHT,25.0
+1956-Yellow Medicine County,YELLOW MEDICINE,20.0
+1957-Anoka County,ANOKA,18.0
+1957-Becker County,BECKER,13.0
+1957-Benton County,BENTON,15.0
+1957-Big Stone County,BIG STONE,10.0
+1957-Blue Earth County,BLUE EARTH,27.0
+1957-Brown County,BROWN,26.0
+1957-Carver County,CARVER,26.0
+1957-Cass County,CASS,15.0
+1957-Chippewa County,CHIPPEWA,14.0
+1957-Chisago County,CHISAGO,18.0
+1957-Clay County,CLAY,17.0
+1957-Cottonwood County,COTTONWOOD,22.0
+1957-Crow Wing County,CROW WING,17.0
+1957-Douglas County,DOUGLAS,19.0
+1957-Faribault County,FARIBAULT,27.0
+1957-Freeborn County,FREEBORN,25.0
+1957-Grant County,GRANT,18.0
+1957-Hennepin County,HENNEPIN,23.0
+1957-Hubbard County,HUBBARD,13.0
+1957-Isanti County,ISANTI,16.0
+1957-Jackson County,JACKSON,26.0
+1957-Kanabec County,KANABEC,17.0
+1957-Kandiyohi County,KANDIYOHI,18.0
+1957-Kittson County,KITTSON,14.0
+1957-Lac Qui Parle County,LAC QUI PARLE,15.0
+1957-Le Sueur County,LE SUEUR,27.0
+1957-Lincoln County,LINCOLN,21.0
+1957-Lyon County,LYON,19.0
+1957-Mahnomen County,MAHNOMEN,15.0
+1957-Marshall County,MARSHALL,12.0
+1957-Martin County,MARTIN,27.0
+1957-Mcleod County,MCLEOD,26.0
+1957-Meeker County,MEEKER,20.0
+1957-Mille Lacs County,MILLE LACS,14.0
+1957-Morrison County,MORRISON,15.0
+1957-Murray County,MURRAY,22.0
+1957-Nicollet County,NICOLLET,28.0
+1957-Nobles County,NOBLES,25.0
+1957-Norman County,NORMAN,16.0
+1957-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,11.0
+1957-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,13.3
+1957-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.3
+1957-Otter Tail County,OTTER TAIL,16.0
+1957-Pine County,PINE,15.0
+1957-Pipestone County,PIPESTONE,21.0
+1957-Polk County,POLK,16.0
+1957-Pope County,POPE,17.0
+1957-Red Lake County,RED LAKE,12.0
+1957-Redwood County,REDWOOD,22.0
+1957-Renville County,RENVILLE,21.0
+1957-Rice County,RICE,24.0
+1957-Rock County,ROCK,26.0
+1957-Scott County,SCOTT,24.0
+1957-Sherburne County,SHERBURNE,16.0
+1957-Sibley County,SIBLEY,24.0
+1957-Stearns County,STEARNS,16.0
+1957-Steele County,STEELE,27.0
+1957-Stevens County,STEVENS,16.0
+1957-Swift County,SWIFT,16.0
+1957-Todd County,TODD,16.0
+1957-Traverse County,TRAVERSE,16.0
+1957-Wadena County,WADENA,13.0
+1957-Waseca County,WASECA,29.0
+1957-Washington County,WASHINGTON,23.0
+1957-Watonwan County,WATONWAN,24.0
+1957-Wilkin County,WILKIN,18.0
+1957-Wright County,WRIGHT,22.0
+1957-Yellow Medicine County,YELLOW MEDICINE,19.0
+1958-Anoka County,ANOKA,12.0
+1958-Becker County,BECKER,12.0
+1958-Benton County,BENTON,15.0
+1958-Big Stone County,BIG STONE,12.0
+1958-Blue Earth County,BLUE EARTH,20.0
+1958-Brown County,BROWN,19.0
+1958-Carver County,CARVER,21.0
+1958-Cass County,CASS,11.0
+1958-Chippewa County,CHIPPEWA,16.0
+1958-Chisago County,CHISAGO,12.0
+1958-Clay County,CLAY,15.0
+1958-Clearwater County,CLEARWATER,10.0
+1958-Cottonwood County,COTTONWOOD,19.0
+1958-Crow Wing County,CROW WING,10.0
+1958-Douglas County,DOUGLAS,12.0
+1958-Faribault County,FARIBAULT,22.0
+1958-Freeborn County,FREEBORN,20.0
+1958-Grant County,GRANT,14.0
+1958-Hennepin County,HENNEPIN,18.0
+1958-Hubbard County,HUBBARD,12.0
+1958-Isanti County,ISANTI,12.0
+1958-Itasca County,ITASCA,11.0
+1958-Jackson County,JACKSON,19.0
+1958-Kanabec County,KANABEC,16.0
+1958-Kandiyohi County,KANDIYOHI,17.0
+1958-Kittson County,KITTSON,11.0
+1958-Lac Qui Parle County,LAC QUI PARLE,18.0
+1958-Le Sueur County,LE SUEUR,21.0
+1958-Lincoln County,LINCOLN,15.0
+1958-Lyon County,LYON,17.0
+1958-Mahnomen County,MAHNOMEN,11.0
+1958-Marshall County,MARSHALL,15.0
+1958-Martin County,MARTIN,22.0
+1958-Mcleod County,MCLEOD,20.0
+1958-Meeker County,MEEKER,18.0
+1958-Mille Lacs County,MILLE LACS,14.0
+1958-Morrison County,MORRISON,9.0
+1958-Murray County,MURRAY,17.0
+1958-Nicollet County,NICOLLET,22.0
+1958-Nobles County,NOBLES,18.0
+1958-Norman County,NORMAN,12.0
+1958-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,14.8
+1958-Otter Tail County,OTTER TAIL,13.0
+1958-Pennington County,PENNINGTON,10.0
+1958-Pine County,PINE,11.0
+1958-Pipestone County,PIPESTONE,13.0
+1958-Polk County,POLK,11.5
+1958-Pope County,POPE,13.0
+1958-Redwood County,REDWOOD,20.0
+1958-Renville County,RENVILLE,20.0
+1958-Rice County,RICE,19.0
+1958-Rock County,ROCK,15.0
+1958-Scott County,SCOTT,21.0
+1958-Sherburne County,SHERBURNE,14.0
+1958-Sibley County,SIBLEY,20.0
+1958-Stearns County,STEARNS,10.0
+1958-Steele County,STEELE,19.0
+1958-Stevens County,STEVENS,12.0
+1958-Swift County,SWIFT,13.0
+1958-Todd County,TODD,11.0
+1958-Traverse County,TRAVERSE,12.0
+1958-Wadena County,WADENA,12.0
+1958-Waseca County,WASECA,19.0
+1958-Washington County,WASHINGTON,15.0
+1958-Watonwan County,WATONWAN,20.0
+1958-Wilkin County,WILKIN,15.0
+1958-Wright County,WRIGHT,21.0
+1958-Yellow Medicine County,YELLOW MEDICINE,19.0
+1959-Aitkin County,AITKIN,14.0
+1959-Anoka County,ANOKA,14.0
+1959-Becker County,BECKER,13.0
+1959-Beltrami County,BELTRAMI,14.0
+1959-Benton County,BENTON,13.0
+1959-Big Stone County,BIG STONE,9.0
+1959-Blue Earth County,BLUE EARTH,23.0
+1959-Brown County,BROWN,21.0
+1959-Carver County,CARVER,25.0
+1959-Cass County,CASS,12.0
+1959-Chippewa County,CHIPPEWA,18.0
+1959-Chisago County,CHISAGO,16.0
+1959-Clay County,CLAY,17.0
+1959-Cottonwood County,COTTONWOOD,18.0
+1959-Crow Wing County,CROW WING,12.0
+1959-Douglas County,DOUGLAS,16.0
+1959-Faribault County,FARIBAULT,26.0
+1959-Freeborn County,FREEBORN,25.0
+1959-Grant County,GRANT,15.0
+1959-Hennepin County,HENNEPIN,20.0
+1959-Hubbard County,HUBBARD,13.0
+1959-Isanti County,ISANTI,16.0
+1959-Jackson County,JACKSON,21.0
+1959-Kanabec County,KANABEC,16.0
+1959-Kandiyohi County,KANDIYOHI,19.0
+1959-Kittson County,KITTSON,15.0
+1959-Lac Qui Parle County,LAC QUI PARLE,13.0
+1959-Lake Of The Woods County,LAKE OF THE WOODS,16.0
+1959-Le Sueur County,LE SUEUR,24.0
+1959-Lincoln County,LINCOLN,9.0
+1959-Lyon County,LYON,12.0
+1959-Mahnomen County,MAHNOMEN,14.0
+1959-Marshall County,MARSHALL,13.0
+1959-Martin County,MARTIN,23.0
+1959-Mcleod County,MCLEOD,25.0
+1959-Meeker County,MEEKER,20.0
+1959-Mille Lacs County,MILLE LACS,15.0
+1959-Morrison County,MORRISON,11.0
+1959-Murray County,MURRAY,19.0
+1959-Nicollet County,NICOLLET,24.0
+1959-Nobles County,NOBLES,20.0
+1959-Norman County,NORMAN,17.0
+1959-Otter Tail County,OTTER TAIL,15.0
+1959-Pennington County,PENNINGTON,14.0
+1959-Pine County,PINE,13.0
+1959-Pipestone County,PIPESTONE,14.0
+1959-Polk County,POLK,15.0
+1959-Pope County,POPE,16.0
+1959-Ramsey County,RAMSEY,19.0
+1959-Red Lake County,RED LAKE,16.0
+1959-Redwood County,REDWOOD,17.0
+1959-Renville County,RENVILLE,22.0
+1959-Rice County,RICE,25.0
+1959-Rock County,ROCK,19.0
+1959-Roseau County,ROSEAU,15.0
+1959-Scott County,SCOTT,24.0
+1959-Sherburne County,SHERBURNE,13.0
+1959-Sibley County,SIBLEY,25.0
+1959-Stearns County,STEARNS,14.0
+1959-Steele County,STEELE,24.0
+1959-Stevens County,STEVENS,10.0
+1959-Swift County,SWIFT,14.0
+1959-Todd County,TODD,12.0
+1959-Traverse County,TRAVERSE,11.0
+1959-Wadena County,WADENA,12.0
+1959-Waseca County,WASECA,25.0
+1959-Washington County,WASHINGTON,22.0
+1959-Watonwan County,WATONWAN,20.0
+1959-Wilkin County,WILKIN,14.0
+1959-Wright County,WRIGHT,23.0
+1959-Yellow Medicine County,YELLOW MEDICINE,14.0
+1960-Aitkin County,AITKIN,11.0
+1960-Anoka County,ANOKA,12.0
+1960-Becker County,BECKER,15.0
+1960-Benton County,BENTON,12.0
+1960-Big Stone County,BIG STONE,15.0
+1960-Blue Earth County,BLUE EARTH,20.0
+1960-Brown County,BROWN,22.0
+1960-Carver County,CARVER,24.0
+1960-Cass County,CASS,14.0
+1960-Chippewa County,CHIPPEWA,18.0
+1960-Chisago County,CHISAGO,11.0
+1960-Clay County,CLAY,16.0
+1960-Cottonwood County,COTTONWOOD,21.0
+1960-Crow Wing County,CROW WING,9.0
+1960-Douglas County,DOUGLAS,16.0
+1960-Faribault County,FARIBAULT,21.0
+1960-Freeborn County,FREEBORN,20.0
+1960-Grant County,GRANT,15.0
+1960-Hennepin County,HENNEPIN,19.0
+1960-Hubbard County,HUBBARD,15.0
+1960-Isanti County,ISANTI,11.0
+1960-Jackson County,JACKSON,24.0
+1960-Kanabec County,KANABEC,12.0
+1960-Kandiyohi County,KANDIYOHI,22.0
+1960-Kittson County,KITTSON,13.0
+1960-Lac Qui Parle County,LAC QUI PARLE,20.0
+1960-Lake Of The Woods County,LAKE OF THE WOODS,10.0
+1960-Le Sueur County,LE SUEUR,23.0
+1960-Lincoln County,LINCOLN,19.0
+1960-Lyon County,LYON,22.0
+1960-Mahnomen County,MAHNOMEN,14.0
+1960-Marshall County,MARSHALL,13.0
+1960-Martin County,MARTIN,22.0
+1960-Mcleod County,MCLEOD,26.0
+1960-Meeker County,MEEKER,21.0
+1960-Mille Lacs County,MILLE LACS,11.0
+1960-Morrison County,MORRISON,7.0
+1960-Murray County,MURRAY,21.0
+1960-Nicollet County,NICOLLET,24.0
+1960-Nobles County,NOBLES,24.0
+1960-Norman County,NORMAN,14.0
+1960-Otter Tail County,OTTER TAIL,12.0
+1960-Pennington County,PENNINGTON,13.0
+1960-Pine County,PINE,12.0
+1960-Pipestone County,PIPESTONE,18.0
+1960-Polk County,POLK,15.0
+1960-Pope County,POPE,15.0
+1960-Ramsey County,RAMSEY,15.0
+1960-Red Lake County,RED LAKE,13.0
+1960-Redwood County,REDWOOD,21.0
+1960-Renville County,RENVILLE,24.0
+1960-Rice County,RICE,19.0
+1960-Rock County,ROCK,24.0
+1960-Roseau County,ROSEAU,12.0
+1960-Scott County,SCOTT,23.0
+1960-Sherburne County,SHERBURNE,9.0
+1960-Sibley County,SIBLEY,25.0
+1960-Stearns County,STEARNS,9.0
+1960-Steele County,STEELE,18.0
+1960-Stevens County,STEVENS,16.0
+1960-Swift County,SWIFT,16.0
+1960-Todd County,TODD,10.0
+1960-Traverse County,TRAVERSE,14.0
+1960-Wadena County,WADENA,8.0
+1960-Waseca County,WASECA,19.0
+1960-Washington County,WASHINGTON,17.0
+1960-Watonwan County,WATONWAN,22.0
+1960-Wilkin County,WILKIN,14.0
+1960-Wright County,WRIGHT,17.0
+1960-Yellow Medicine County,YELLOW MEDICINE,21.0
+1961-Aitkin County,AITKIN,9.0
+1961-Anoka County,ANOKA,15.0
+1961-Becker County,BECKER,13.0
+1961-Benton County,BENTON,18.0
+1961-Big Stone County,BIG STONE,19.0
+1961-Blue Earth County,BLUE EARTH,27.0
+1961-Brown County,BROWN,26.0
+1961-Carver County,CARVER,27.0
+1961-Cass County,CASS,9.0
+1961-Chippewa County,CHIPPEWA,19.0
+1961-Chisago County,CHISAGO,15.0
+1961-Clay County,CLAY,16.0
+1961-Cottonwood County,COTTONWOOD,24.0
+1961-Crow Wing County,CROW WING,14.0
+1961-Douglas County,DOUGLAS,17.0
+1961-Faribault County,FARIBAULT,29.0
+1961-Freeborn County,FREEBORN,28.0
+1961-Grant County,GRANT,18.0
+1961-Hennepin County,HENNEPIN,22.0
+1961-Hubbard County,HUBBARD,7.0
+1961-Isanti County,ISANTI,15.0
+1961-Itasca County,ITASCA,8.0
+1961-Jackson County,JACKSON,26.0
+1961-Kanabec County,KANABEC,15.0
+1961-Kandiyohi County,KANDIYOHI,21.0
+1961-Kittson County,KITTSON,9.0
+1961-Lac Qui Parle County,LAC QUI PARLE,18.0
+1961-Le Sueur County,LE SUEUR,29.0
+1961-Lincoln County,LINCOLN,18.0
+1961-Lyon County,LYON,22.0
+1961-Mahnomen County,MAHNOMEN,14.0
+1961-Marshall County,MARSHALL,9.0
+1961-Martin County,MARTIN,28.0
+1961-Mcleod County,MCLEOD,26.0
+1961-Meeker County,MEEKER,21.0
+1961-Mille Lacs County,MILLE LACS,16.0
+1961-Morrison County,MORRISON,13.0
+1961-Murray County,MURRAY,24.0
+1961-Nicollet County,NICOLLET,26.0
+1961-Nobles County,NOBLES,26.0
+1961-Norman County,NORMAN,13.0
+1961-Otter Tail County,OTTER TAIL,16.0
+1961-Pine County,PINE,13.0
+1961-Pipestone County,PIPESTONE,24.0
+1961-Polk County,POLK,10.0
+1961-Pope County,POPE,15.0
+1961-Ramsey County,RAMSEY,18.0
+1961-Red Lake County,RED LAKE,14.0
+1961-Redwood County,REDWOOD,24.0
+1961-Renville County,RENVILLE,22.0
+1961-Rice County,RICE,28.0
+1961-Rock County,ROCK,27.0
+1961-Scott County,SCOTT,26.0
+1961-Sherburne County,SHERBURNE,18.0
+1961-Sibley County,SIBLEY,28.0
+1961-Stearns County,STEARNS,17.0
+1961-Steele County,STEELE,27.0
+1961-Stevens County,STEVENS,18.0
+1961-Swift County,SWIFT,18.0
+1961-Todd County,TODD,17.0
+1961-Traverse County,TRAVERSE,16.0
+1961-Wadena County,WADENA,12.0
+1961-Waseca County,WASECA,26.0
+1961-Washington County,WASHINGTON,18.0
+1961-Watonwan County,WATONWAN,26.0
+1961-Wilkin County,WILKIN,17.0
+1961-Wright County,WRIGHT,22.0
+1961-Yellow Medicine County,YELLOW MEDICINE,19.0
+1962-Aitkin County,AITKIN,10.0
+1962-Anoka County,ANOKA,14.0
+1962-Becker County,BECKER,14.0
+1962-Benton County,BENTON,15.0
+1962-Big Stone County,BIG STONE,9.0
+1962-Blue Earth County,BLUE EARTH,23.0
+1962-Brown County,BROWN,21.0
+1962-Carver County,CARVER,20.0
+1962-Cass County,CASS,9.0
+1962-Chippewa County,CHIPPEWA,17.0
+1962-Chisago County,CHISAGO,14.0
+1962-Clay County,CLAY,13.0
+1962-Cottonwood County,COTTONWOOD,21.0
+1962-Crow Wing County,CROW WING,8.0
+1962-Douglas County,DOUGLAS,11.0
+1962-Faribault County,FARIBAULT,24.0
+1962-Freeborn County,FREEBORN,24.0
+1962-Grant County,GRANT,11.0
+1962-Hennepin County,HENNEPIN,17.0
+1962-Hubbard County,HUBBARD,7.0
+1962-Isanti County,ISANTI,15.0
+1962-Jackson County,JACKSON,24.0
+1962-Kanabec County,KANABEC,13.0
+1962-Kandiyohi County,KANDIYOHI,18.0
+1962-Kittson County,KITTSON,9.0
+1962-Lac Qui Parle County,LAC QUI PARLE,16.0
+1962-Le Sueur County,LE SUEUR,23.0
+1962-Lincoln County,LINCOLN,15.0
+1962-Lyon County,LYON,19.0
+1962-Mahnomen County,MAHNOMEN,15.0
+1962-Marshall County,MARSHALL,10.0
+1962-Martin County,MARTIN,23.0
+1962-Mcleod County,MCLEOD,21.0
+1962-Meeker County,MEEKER,18.0
+1962-Mille Lacs County,MILLE LACS,10.0
+1962-Morrison County,MORRISON,12.0
+1962-Murray County,MURRAY,19.0
+1962-Nicollet County,NICOLLET,21.0
+1962-Nobles County,NOBLES,21.0
+1962-Norman County,NORMAN,14.0
+1962-Otter Tail County,OTTER TAIL,16.0
+1962-Pennington County,PENNINGTON,9.0
+1962-Pine County,PINE,13.0
+1962-Pipestone County,PIPESTONE,15.0
+1962-Polk County,POLK,11.0
+1962-Pope County,POPE,13.0
+1962-Ramsey County,RAMSEY,17.0
+1962-Red Lake County,RED LAKE,9.0
+1962-Redwood County,REDWOOD,20.0
+1962-Renville County,RENVILLE,21.0
+1962-Rice County,RICE,20.0
+1962-Rock County,ROCK,24.0
+1962-Scott County,SCOTT,19.0
+1962-Sherburne County,SHERBURNE,12.0
+1962-Sibley County,SIBLEY,20.0
+1962-Stearns County,STEARNS,14.0
+1962-Steele County,STEELE,21.0
+1962-Stevens County,STEVENS,12.0
+1962-Swift County,SWIFT,15.0
+1962-Todd County,TODD,13.0
+1962-Traverse County,TRAVERSE,9.0
+1962-Wadena County,WADENA,10.0
+1962-Waseca County,WASECA,23.0
+1962-Washington County,WASHINGTON,16.0
+1962-Watonwan County,WATONWAN,23.0
+1962-Wilkin County,WILKIN,10.0
+1962-Wright County,WRIGHT,18.0
+1962-Yellow Medicine County,YELLOW MEDICINE,20.0
+1963-Aitkin County,AITKIN,17.0
+1963-Anoka County,ANOKA,15.0
+1963-Becker County,BECKER,19.0
+1963-Benton County,BENTON,22.0
+1963-Big Stone County,BIG STONE,22.0
+1963-Blue Earth County,BLUE EARTH,26.0
+1963-Brown County,BROWN,26.0
+1963-Carver County,CARVER,25.0
+1963-Cass County,CASS,17.0
+1963-Chippewa County,CHIPPEWA,27.0
+1963-Chisago County,CHISAGO,15.0
+1963-Clay County,CLAY,22.0
+1963-Cottonwood County,COTTONWOOD,25.0
+1963-Crow Wing County,CROW WING,17.0
+1963-Douglas County,DOUGLAS,22.0
+1963-Faribault County,FARIBAULT,27.0
+1963-Freeborn County,FREEBORN,27.0
+1963-Grant County,GRANT,22.0
+1963-Hennepin County,HENNEPIN,19.0
+1963-Hubbard County,HUBBARD,21.0
+1963-Isanti County,ISANTI,17.0
+1963-Jackson County,JACKSON,27.0
+1963-Kanabec County,KANABEC,17.0
+1963-Kandiyohi County,KANDIYOHI,25.0
+1963-Kittson County,KITTSON,19.0
+1963-Lac Qui Parle County,LAC QUI PARLE,27.0
+1963-Le Sueur County,LE SUEUR,27.0
+1963-Lincoln County,LINCOLN,22.0
+1963-Lyon County,LYON,24.0
+1963-Mahnomen County,MAHNOMEN,19.0
+1963-Marshall County,MARSHALL,19.0
+1963-Martin County,MARTIN,26.0
+1963-Mcleod County,MCLEOD,27.0
+1963-Meeker County,MEEKER,22.0
+1963-Mille Lacs County,MILLE LACS,17.0
+1963-Morrison County,MORRISON,18.0
+1963-Murray County,MURRAY,23.0
+1963-Nicollet County,NICOLLET,27.0
+1963-Nobles County,NOBLES,25.0
+1963-Norman County,NORMAN,23.0
+1963-Otter Tail County,OTTER TAIL,21.0
+1963-Pennington County,PENNINGTON,19.0
+1963-Pine County,PINE,17.0
+1963-Pipestone County,PIPESTONE,24.0
+1963-Polk County,POLK,20.0
+1963-Pope County,POPE,20.0
+1963-Ramsey County,RAMSEY,18.0
+1963-Red Lake County,RED LAKE,19.0
+1963-Redwood County,REDWOOD,24.0
+1963-Renville County,RENVILLE,26.0
+1963-Rice County,RICE,23.0
+1963-Rock County,ROCK,23.0
+1963-Scott County,SCOTT,22.0
+1963-Sherburne County,SHERBURNE,14.0
+1963-Sibley County,SIBLEY,26.0
+1963-Stearns County,STEARNS,18.0
+1963-Steele County,STEELE,26.0
+1963-Stevens County,STEVENS,24.0
+1963-Swift County,SWIFT,25.0
+1963-Todd County,TODD,20.0
+1963-Traverse County,TRAVERSE,21.0
+1963-Wadena County,WADENA,20.0
+1963-Waseca County,WASECA,27.0
+1963-Washington County,WASHINGTON,18.0
+1963-Watonwan County,WATONWAN,25.0
+1963-Wilkin County,WILKIN,20.0
+1963-Wright County,WRIGHT,22.0
+1963-Yellow Medicine County,YELLOW MEDICINE,26.0
+1964-Aitkin County,AITKIN,11.0
+1964-Anoka County,ANOKA,12.0
+1964-Becker County,BECKER,14.0
+1964-Beltrami County,BELTRAMI,7.0
+1964-Benton County,BENTON,12.0
+1964-Big Stone County,BIG STONE,14.0
+1964-Blue Earth County,BLUE EARTH,26.0
+1964-Brown County,BROWN,26.0
+1964-Carver County,CARVER,23.0
+1964-Cass County,CASS,7.0
+1964-Chippewa County,CHIPPEWA,19.0
+1964-Chisago County,CHISAGO,11.0
+1964-Clay County,CLAY,15.0
+1964-Clearwater County,CLEARWATER,9.0
+1964-Cottonwood County,COTTONWOOD,24.0
+1964-Crow Wing County,CROW WING,9.0
+1964-Douglas County,DOUGLAS,11.0
+1964-Faribault County,FARIBAULT,27.0
+1964-Freeborn County,FREEBORN,23.0
+1964-Grant County,GRANT,11.0
+1964-Hennepin County,HENNEPIN,17.0
+1964-Hubbard County,HUBBARD,8.0
+1964-Isanti County,ISANTI,14.0
+1964-Jackson County,JACKSON,27.0
+1964-Kanabec County,KANABEC,14.0
+1964-Kandiyohi County,KANDIYOHI,17.0
+1964-Kittson County,KITTSON,8.0
+1964-Lac Qui Parle County,LAC QUI PARLE,15.0
+1964-Le Sueur County,LE SUEUR,26.0
+1964-Lincoln County,LINCOLN,18.0
+1964-Lyon County,LYON,19.0
+1964-Mahnomen County,MAHNOMEN,10.0
+1964-Marshall County,MARSHALL,8.0
+1964-Martin County,MARTIN,26.0
+1964-Mcleod County,MCLEOD,24.0
+1964-Meeker County,MEEKER,19.0
+1964-Mille Lacs County,MILLE LACS,8.0
+1964-Morrison County,MORRISON,10.0
+1964-Murray County,MURRAY,20.0
+1964-Nicollet County,NICOLLET,26.0
+1964-Nobles County,NOBLES,22.0
+1964-Norman County,NORMAN,10.0
+1964-Otter Tail County,OTTER TAIL,14.0
+1964-Pine County,PINE,11.0
+1964-Pipestone County,PIPESTONE,17.0
+1964-Polk County,POLK,9.0
+1964-Pope County,POPE,9.0
+1964-Ramsey County,RAMSEY,16.0
+1964-Red Lake County,RED LAKE,9.0
+1964-Redwood County,REDWOOD,21.0
+1964-Renville County,RENVILLE,22.0
+1964-Rice County,RICE,23.0
+1964-Rock County,ROCK,21.0
+1964-Roseau County,ROSEAU,8.0
+1964-Scott County,SCOTT,20.0
+1964-Sherburne County,SHERBURNE,13.0
+1964-Sibley County,SIBLEY,24.0
+1964-Stearns County,STEARNS,12.0
+1964-Steele County,STEELE,22.0
+1964-Stevens County,STEVENS,12.0
+1964-Swift County,SWIFT,14.0
+1964-Todd County,TODD,12.0
+1964-Traverse County,TRAVERSE,12.0
+1964-Wadena County,WADENA,11.0
+1964-Waseca County,WASECA,27.0
+1964-Washington County,WASHINGTON,16.0
+1964-Watonwan County,WATONWAN,25.0
+1964-Wilkin County,WILKIN,15.0
+1964-Wright County,WRIGHT,16.0
+1964-Yellow Medicine County,YELLOW MEDICINE,20.0
+1965-Aitkin County,AITKIN,8.0
+1965-Anoka County,ANOKA,9.0
+1965-Becker County,BECKER,12.0
+1965-Beltrami County,BELTRAMI,9.0
+1965-Benton County,BENTON,7.0
+1965-Big Stone County,BIG STONE,15.0
+1965-Blue Earth County,BLUE EARTH,22.0
+1965-Brown County,BROWN,19.0
+1965-Carver County,CARVER,17.0
+1965-Cass County,CASS,8.0
+1965-Chippewa County,CHIPPEWA,16.0
+1965-Chisago County,CHISAGO,9.0
+1965-Clay County,CLAY,17.0
+1965-Clearwater County,CLEARWATER,5.0
+1965-Cottonwood County,COTTONWOOD,17.0
+1965-Crow Wing County,CROW WING,8.0
+1965-Douglas County,DOUGLAS,10.0
+1965-Faribault County,FARIBAULT,25.0
+1965-Freeborn County,FREEBORN,24.0
+1965-Grant County,GRANT,14.0
+1965-Hennepin County,HENNEPIN,13.0
+1965-Hubbard County,HUBBARD,9.0
+1965-Isanti County,ISANTI,11.0
+1965-Jackson County,JACKSON,18.0
+1965-Kanabec County,KANABEC,9.0
+1965-Kandiyohi County,KANDIYOHI,16.0
+1965-Kittson County,KITTSON,8.0
+1965-Lac Qui Parle County,LAC QUI PARLE,16.0
+1965-Le Sueur County,LE SUEUR,22.0
+1965-Lincoln County,LINCOLN,14.0
+1965-Lyon County,LYON,15.0
+1965-Mahnomen County,MAHNOMEN,11.0
+1965-Marshall County,MARSHALL,10.0
+1965-Martin County,MARTIN,26.0
+1965-Mcleod County,MCLEOD,19.0
+1965-Meeker County,MEEKER,17.0
+1965-Mille Lacs County,MILLE LACS,8.0
+1965-Morrison County,MORRISON,8.0
+1965-Murray County,MURRAY,15.0
+1965-Nicollet County,NICOLLET,20.0
+1965-Nobles County,NOBLES,18.0
+1965-Norman County,NORMAN,17.0
+1965-Otter Tail County,OTTER TAIL,16.0
+1965-Pine County,PINE,8.0
+1965-Pipestone County,PIPESTONE,15.0
+1965-Polk County,POLK,12.0
+1965-Pope County,POPE,11.0
+1965-Ramsey County,RAMSEY,14.0
+1965-Red Lake County,RED LAKE,9.0
+1965-Redwood County,REDWOOD,20.0
+1965-Renville County,RENVILLE,20.0
+1965-Rice County,RICE,22.0
+1965-Rock County,ROCK,18.0
+1965-Roseau County,ROSEAU,8.0
+1965-Scott County,SCOTT,19.0
+1965-Sherburne County,SHERBURNE,8.0
+1965-Sibley County,SIBLEY,17.0
+1965-Stearns County,STEARNS,10.0
+1965-Steele County,STEELE,23.0
+1965-Stevens County,STEVENS,15.0
+1965-Swift County,SWIFT,15.0
+1965-Todd County,TODD,9.0
+1965-Traverse County,TRAVERSE,13.0
+1965-Wadena County,WADENA,8.0
+1965-Waseca County,WASECA,23.0
+1965-Washington County,WASHINGTON,16.0
+1965-Watonwan County,WATONWAN,21.0
+1965-Wilkin County,WILKIN,19.0
+1965-Wright County,WRIGHT,16.0
+1965-Yellow Medicine County,YELLOW MEDICINE,18.0
+1966-Aitkin County,AITKIN,18.0
+1966-Anoka County,ANOKA,15.0
+1966-Becker County,BECKER,16.0
+1966-Benton County,BENTON,19.0
+1966-Big Stone County,BIG STONE,19.0
+1966-Blue Earth County,BLUE EARTH,29.0
+1966-Brown County,BROWN,26.0
+1966-Carver County,CARVER,26.0
+1966-Cass County,CASS,16.0
+1966-Chippewa County,CHIPPEWA,22.0
+1966-Chisago County,CHISAGO,16.0
+1966-Clay County,CLAY,20.0
+1966-Clearwater County,CLEARWATER,13.0
+1966-Cottonwood County,COTTONWOOD,24.0
+1966-Crow Wing County,CROW WING,18.0
+1966-Douglas County,DOUGLAS,16.0
+1966-Faribault County,FARIBAULT,29.0
+1966-Freeborn County,FREEBORN,27.0
+1966-Grant County,GRANT,19.0
+1966-Hennepin County,HENNEPIN,18.0
+1966-Hubbard County,HUBBARD,16.0
+1966-Isanti County,ISANTI,14.0
+1966-Jackson County,JACKSON,27.0
+1966-Kanabec County,KANABEC,15.0
+1966-Kandiyohi County,KANDIYOHI,23.0
+1966-Lac Qui Parle County,LAC QUI PARLE,21.0
+1966-Le Sueur County,LE SUEUR,28.0
+1966-Lincoln County,LINCOLN,20.0
+1966-Lyon County,LYON,21.0
+1966-Mahnomen County,MAHNOMEN,14.0
+1966-Marshall County,MARSHALL,14.0
+1966-Martin County,MARTIN,29.0
+1966-Mcleod County,MCLEOD,27.0
+1966-Meeker County,MEEKER,25.0
+1966-Mille Lacs County,MILLE LACS,18.0
+1966-Morrison County,MORRISON,19.0
+1966-Murray County,MURRAY,23.0
+1966-Nicollet County,NICOLLET,30.0
+1966-Nobles County,NOBLES,23.0
+1966-Norman County,NORMAN,24.0
+1966-Otter Tail County,OTTER TAIL,18.0
+1966-Pennington County,PENNINGTON,14.0
+1966-Pine County,PINE,17.0
+1966-Pipestone County,PIPESTONE,19.0
+1966-Polk County,POLK,14.0
+1966-Pope County,POPE,15.0
+1966-Ramsey County,RAMSEY,20.0
+1966-Red Lake County,RED LAKE,14.0
+1966-Redwood County,REDWOOD,25.0
+1966-Renville County,RENVILLE,26.0
+1966-Rice County,RICE,28.0
+1966-Rock County,ROCK,25.0
+1966-Scott County,SCOTT,26.0
+1966-Sherburne County,SHERBURNE,15.0
+1966-Sibley County,SIBLEY,28.0
+1966-Stearns County,STEARNS,19.0
+1966-Steele County,STEELE,29.0
+1966-Stevens County,STEVENS,18.0
+1966-Swift County,SWIFT,20.0
+1966-Todd County,TODD,18.0
+1966-Traverse County,TRAVERSE,18.0
+1966-Wadena County,WADENA,17.0
+1966-Waseca County,WASECA,30.0
+1966-Washington County,WASHINGTON,20.0
+1966-Watonwan County,WATONWAN,30.0
+1966-Wilkin County,WILKIN,20.0
+1966-Wright County,WRIGHT,25.0
+1966-Yellow Medicine County,YELLOW MEDICINE,22.0
+1967-Aitkin County,AITKIN,11.0
+1967-Anoka County,ANOKA,11.0
+1967-Becker County,BECKER,10.0
+1967-Beltrami County,BELTRAMI,10.0
+1967-Benton County,BENTON,13.0
+1967-Big Stone County,BIG STONE,13.0
+1967-Blue Earth County,BLUE EARTH,24.0
+1967-Brown County,BROWN,23.0
+1967-Carver County,CARVER,21.0
+1967-Cass County,CASS,9.0
+1967-Chippewa County,CHIPPEWA,20.0
+1967-Chisago County,CHISAGO,14.0
+1967-Clay County,CLAY,13.0
+1967-Clearwater County,CLEARWATER,10.0
+1967-Cottonwood County,COTTONWOOD,22.0
+1967-Crow Wing County,CROW WING,9.0
+1967-Douglas County,DOUGLAS,13.0
+1967-Faribault County,FARIBAULT,25.0
+1967-Freeborn County,FREEBORN,25.0
+1967-Grant County,GRANT,14.0
+1967-Hennepin County,HENNEPIN,18.0
+1967-Hubbard County,HUBBARD,10.0
+1967-Isanti County,ISANTI,14.0
+1967-Itasca County,ITASCA,9.0
+1967-Jackson County,JACKSON,22.0
+1967-Kanabec County,KANABEC,15.0
+1967-Kandiyohi County,KANDIYOHI,18.0
+1967-Kittson County,KITTSON,10.0
+1967-Lac Qui Parle County,LAC QUI PARLE,14.0
+1967-Le Sueur County,LE SUEUR,25.0
+1967-Lincoln County,LINCOLN,14.0
+1967-Lyon County,LYON,18.0
+1967-Mahnomen County,MAHNOMEN,10.0
+1967-Marshall County,MARSHALL,12.0
+1967-Martin County,MARTIN,24.0
+1967-Mcleod County,MCLEOD,17.0
+1967-Meeker County,MEEKER,18.0
+1967-Mille Lacs County,MILLE LACS,12.0
+1967-Morrison County,MORRISON,9.0
+1967-Murray County,MURRAY,23.0
+1967-Nicollet County,NICOLLET,26.0
+1967-Nobles County,NOBLES,20.0
+1967-Norman County,NORMAN,12.0
+1967-Otter Tail County,OTTER TAIL,12.0
+1967-Pennington County,PENNINGTON,11.0
+1967-Pine County,PINE,15.0
+1967-Pipestone County,PIPESTONE,17.0
+1967-Polk County,POLK,12.0
+1967-Pope County,POPE,11.0
+1967-Ramsey County,RAMSEY,14.0
+1967-Red Lake County,RED LAKE,11.0
+1967-Redwood County,REDWOOD,22.0
+1967-Renville County,RENVILLE,22.0
+1967-Rice County,RICE,24.0
+1967-Rock County,ROCK,21.0
+1967-Scott County,SCOTT,15.0
+1967-Sherburne County,SHERBURNE,9.0
+1967-Sibley County,SIBLEY,25.0
+1967-Stearns County,STEARNS,12.0
+1967-Steele County,STEELE,22.0
+1967-Stevens County,STEVENS,14.0
+1967-Swift County,SWIFT,14.0
+1967-Todd County,TODD,11.0
+1967-Traverse County,TRAVERSE,13.0
+1967-Wadena County,WADENA,11.0
+1967-Waseca County,WASECA,25.0
+1967-Washington County,WASHINGTON,14.0
+1967-Watonwan County,WATONWAN,25.0
+1967-Wilkin County,WILKIN,13.0
+1967-Wright County,WRIGHT,17.0
+1967-Yellow Medicine County,YELLOW MEDICINE,18.0
+1968-Aitkin County,AITKIN,13.0
+1968-Anoka County,ANOKA,15.0
+1968-Becker County,BECKER,16.0
+1968-Beltrami County,BELTRAMI,12.0
+1968-Benton County,BENTON,11.0
+1968-Big Stone County,BIG STONE,15.0
+1968-Blue Earth County,BLUE EARTH,25.0
+1968-Brown County,BROWN,24.0
+1968-Carver County,CARVER,26.0
+1968-Cass County,CASS,12.0
+1968-Chippewa County,CHIPPEWA,21.0
+1968-Chisago County,CHISAGO,16.0
+1968-Clay County,CLAY,17.0
+1968-Clearwater County,CLEARWATER,14.0
+1968-Cottonwood County,COTTONWOOD,21.0
+1968-Crow Wing County,CROW WING,12.0
+1968-Douglas County,DOUGLAS,14.0
+1968-Faribault County,FARIBAULT,27.0
+1968-Freeborn County,FREEBORN,23.0
+1968-Grant County,GRANT,15.0
+1968-Hennepin County,HENNEPIN,20.0
+1968-Hubbard County,HUBBARD,12.0
+1968-Isanti County,ISANTI,16.0
+1968-Itasca County,ITASCA,12.0
+1968-Jackson County,JACKSON,25.0
+1968-Kanabec County,KANABEC,20.0
+1968-Kandiyohi County,KANDIYOHI,21.0
+1968-Kittson County,KITTSON,15.0
+1968-Lac Qui Parle County,LAC QUI PARLE,19.0
+1968-Le Sueur County,LE SUEUR,27.0
+1968-Lincoln County,LINCOLN,22.0
+1968-Lyon County,LYON,23.0
+1968-Mahnomen County,MAHNOMEN,13.0
+1968-Marshall County,MARSHALL,15.0
+1968-Martin County,MARTIN,28.0
+1968-Mcleod County,MCLEOD,25.0
+1968-Meeker County,MEEKER,19.0
+1968-Mille Lacs County,MILLE LACS,12.0
+1968-Morrison County,MORRISON,12.0
+1968-Murray County,MURRAY,21.0
+1968-Nicollet County,NICOLLET,26.0
+1968-Nobles County,NOBLES,22.0
+1968-Norman County,NORMAN,17.0
+1968-Otter Tail County,OTTER TAIL,15.0
+1968-Pennington County,PENNINGTON,14.0
+1968-Pine County,PINE,17.0
+1968-Pipestone County,PIPESTONE,18.0
+1968-Polk County,POLK,15.0
+1968-Pope County,POPE,16.0
+1968-Ramsey County,RAMSEY,17.0
+1968-Red Lake County,RED LAKE,14.0
+1968-Redwood County,REDWOOD,24.0
+1968-Renville County,RENVILLE,22.0
+1968-Rice County,RICE,25.0
+1968-Rock County,ROCK,18.0
+1968-Scott County,SCOTT,22.0
+1968-Sherburne County,SHERBURNE,10.0
+1968-Sibley County,SIBLEY,25.0
+1968-Stearns County,STEARNS,16.0
+1968-Steele County,STEELE,25.0
+1968-Stevens County,STEVENS,16.0
+1968-Swift County,SWIFT,19.0
+1968-Todd County,TODD,16.0
+1968-Traverse County,TRAVERSE,17.0
+1968-Wadena County,WADENA,15.0
+1968-Waseca County,WASECA,24.0
+1968-Washington County,WASHINGTON,21.0
+1968-Watonwan County,WATONWAN,23.0
+1968-Wilkin County,WILKIN,16.0
+1968-Wright County,WRIGHT,21.0
+1968-Yellow Medicine County,YELLOW MEDICINE,23.0
+1969-Anoka County,ANOKA,10.0
+1969-Becker County,BECKER,16.0
+1969-Beltrami County,BELTRAMI,10.0
+1969-Benton County,BENTON,10.0
+1969-Big Stone County,BIG STONE,16.0
+1969-Blue Earth County,BLUE EARTH,29.0
+1969-Brown County,BROWN,26.0
+1969-Carver County,CARVER,22.0
+1969-Cass County,CASS,11.0
+1969-Chippewa County,CHIPPEWA,24.0
+1969-Chisago County,CHISAGO,10.0
+1969-Clay County,CLAY,16.0
+1969-Clearwater County,CLEARWATER,15.0
+1969-Cottonwood County,COTTONWOOD,28.0
+1969-Crow Wing County,CROW WING,10.0
+1969-Douglas County,DOUGLAS,14.0
+1969-Faribault County,FARIBAULT,32.0
+1969-Freeborn County,FREEBORN,28.0
+1969-Grant County,GRANT,15.0
+1969-Hennepin County,HENNEPIN,19.0
+1969-Hubbard County,HUBBARD,10.0
+1969-Isanti County,ISANTI,11.0
+1969-Itasca County,ITASCA,11.0
+1969-Jackson County,JACKSON,31.0
+1969-Kanabec County,KANABEC,16.0
+1969-Kandiyohi County,KANDIYOHI,21.0
+1969-Kittson County,KITTSON,14.0
+1969-Lac Qui Parle County,LAC QUI PARLE,22.0
+1969-Lake Of The Woods County,LAKE OF THE WOODS,10.0
+1969-Le Sueur County,LE SUEUR,25.0
+1969-Lincoln County,LINCOLN,21.0
+1969-Lyon County,LYON,25.0
+1969-Mahnomen County,MAHNOMEN,15.0
+1969-Marshall County,MARSHALL,15.0
+1969-Martin County,MARTIN,32.0
+1969-Mcleod County,MCLEOD,24.0
+1969-Meeker County,MEEKER,20.0
+1969-Mille Lacs County,MILLE LACS,13.0
+1969-Morrison County,MORRISON,11.0
+1969-Murray County,MURRAY,26.0
+1969-Nicollet County,NICOLLET,28.0
+1969-Nobles County,NOBLES,29.0
+1969-Norman County,NORMAN,17.0
+1969-Otter Tail County,OTTER TAIL,14.0
+1969-Pennington County,PENNINGTON,14.0
+1969-Pine County,PINE,10.0
+1969-Pipestone County,PIPESTONE,27.0
+1969-Polk County,POLK,15.0
+1969-Pope County,POPE,14.0
+1969-Ramsey County,RAMSEY,12.0
+1969-Red Lake County,RED LAKE,15.0
+1969-Redwood County,REDWOOD,25.0
+1969-Renville County,RENVILLE,25.0
+1969-Rice County,RICE,23.0
+1969-Rock County,ROCK,30.0
+1969-Roseau County,ROSEAU,14.0
+1969-Scott County,SCOTT,20.0
+1969-Sherburne County,SHERBURNE,11.0
+1969-Sibley County,SIBLEY,27.0
+1969-Stearns County,STEARNS,14.0
+1969-Steele County,STEELE,28.0
+1969-Stevens County,STEVENS,18.0
+1969-Swift County,SWIFT,18.0
+1969-Todd County,TODD,17.0
+1969-Traverse County,TRAVERSE,14.0
+1969-Wadena County,WADENA,10.0
+1969-Waseca County,WASECA,28.0
+1969-Washington County,WASHINGTON,16.0
+1969-Watonwan County,WATONWAN,29.0
+1969-Wilkin County,WILKIN,14.0
+1969-Wright County,WRIGHT,20.0
+1969-Yellow Medicine County,YELLOW MEDICINE,24.0
+1970-Anoka County,ANOKA,26.0
+1970-Becker County,BECKER,13.0
+1970-Beltrami County,BELTRAMI,14.0
+1970-Benton County,BENTON,15.0
+1970-Big Stone County,BIG STONE,16.0
+1970-Blue Earth County,BLUE EARTH,31.0
+1970-Brown County,BROWN,28.0
+1970-Carver County,CARVER,28.0
+1970-Cass County,CASS,12.0
+1970-Chippewa County,CHIPPEWA,24.0
+1970-Chisago County,CHISAGO,21.0
+1970-Clay County,CLAY,18.0
+1970-Clearwater County,CLEARWATER,14.0
+1970-Cottonwood County,COTTONWOOD,28.0
+1970-Crow Wing County,CROW WING,13.0
+1970-Douglas County,DOUGLAS,14.0
+1970-Faribault County,FARIBAULT,34.0
+1970-Freeborn County,FREEBORN,31.0
+1970-Grant County,GRANT,14.0
+1970-Hennepin County,HENNEPIN,24.0
+1970-Hubbard County,HUBBARD,12.0
+1970-Isanti County,ISANTI,20.0
+1970-Itasca County,ITASCA,12.0
+1970-Jackson County,JACKSON,32.0
+1970-Kanabec County,KANABEC,22.0
+1970-Kandiyohi County,KANDIYOHI,23.0
+1970-Kittson County,KITTSON,14.0
+1970-Lac Qui Parle County,LAC QUI PARLE,23.0
+1970-Lake Of The Woods County,LAKE OF THE WOODS,13.0
+1970-Le Sueur County,LE SUEUR,30.0
+1970-Lincoln County,LINCOLN,20.0
+1970-Lyon County,LYON,26.0
+1970-Mahnomen County,MAHNOMEN,15.0
+1970-Marshall County,MARSHALL,18.0
+1970-Martin County,MARTIN,33.0
+1970-Mcleod County,MCLEOD,26.0
+1970-Meeker County,MEEKER,24.0
+1970-Mille Lacs County,MILLE LACS,16.0
+1970-Morrison County,MORRISON,13.0
+1970-Murray County,MURRAY,27.0
+1970-Nicollet County,NICOLLET,32.0
+1970-Nobles County,NOBLES,28.0
+1970-Norman County,NORMAN,17.0
+1970-Otter Tail County,OTTER TAIL,13.0
+1970-Pennington County,PENNINGTON,16.0
+1970-Pine County,PINE,16.0
+1970-Pipestone County,PIPESTONE,21.0
+1970-Polk County,POLK,17.0
+1970-Pope County,POPE,15.0
+1970-Ramsey County,RAMSEY,23.0
+1970-Red Lake County,RED LAKE,17.0
+1970-Redwood County,REDWOOD,27.0
+1970-Renville County,RENVILLE,26.0
+1970-Rice County,RICE,27.0
+1970-Rock County,ROCK,25.0
+1970-Roseau County,ROSEAU,15.0
+1970-Scott County,SCOTT,25.0
+1970-Sherburne County,SHERBURNE,13.0
+1970-Sibley County,SIBLEY,28.0
+1970-Stearns County,STEARNS,18.0
+1970-Steele County,STEELE,29.0
+1970-Stevens County,STEVENS,17.0
+1970-Swift County,SWIFT,21.0
+1970-Todd County,TODD,18.0
+1970-Traverse County,TRAVERSE,13.0
+1970-Wadena County,WADENA,13.0
+1970-Waseca County,WASECA,32.0
+1970-Washington County,WASHINGTON,24.0
+1970-Watonwan County,WATONWAN,31.0
+1970-Wilkin County,WILKIN,14.0
+1970-Wright County,WRIGHT,24.0
+1970-Yellow Medicine County,YELLOW MEDICINE,25.0
+1971-Anoka County,ANOKA,15.0
+1971-Becker County,BECKER,11.0
+1971-Beltrami County,BELTRAMI,11.0
+1971-Benton County,BENTON,17.0
+1971-Big Stone County,BIG STONE,17.0
+1971-Blue Earth County,BLUE EARTH,26.0
+1971-Brown County,BROWN,25.0
+1971-Carlton County,CARLTON,14.0
+1971-Carver County,CARVER,25.0
+1971-Cass County,CASS,14.0
+1971-Chippewa County,CHIPPEWA,19.0
+1971-Chisago County,CHISAGO,15.0
+1971-Clay County,CLAY,15.0
+1971-Clearwater County,CLEARWATER,12.0
+1971-Cottonwood County,COTTONWOOD,24.0
+1971-Crow Wing County,CROW WING,12.0
+1971-Douglas County,DOUGLAS,15.0
+1971-Faribault County,FARIBAULT,30.0
+1971-Freeborn County,FREEBORN,25.0
+1971-Grant County,GRANT,14.0
+1971-Hennepin County,HENNEPIN,23.0
+1971-Hubbard County,HUBBARD,13.0
+1971-Isanti County,ISANTI,14.0
+1971-Itasca County,ITASCA,12.0
+1971-Jackson County,JACKSON,28.0
+1971-Kanabec County,KANABEC,15.0
+1971-Kandiyohi County,KANDIYOHI,21.0
+1971-Kittson County,KITTSON,11.0
+1971-Lac Qui Parle County,LAC QUI PARLE,22.0
+1971-Le Sueur County,LE SUEUR,22.0
+1971-Lincoln County,LINCOLN,20.0
+1971-Lyon County,LYON,22.0
+1971-Mahnomen County,MAHNOMEN,13.0
+1971-Marshall County,MARSHALL,12.0
+1971-Martin County,MARTIN,31.0
+1971-Mcleod County,MCLEOD,23.0
+1971-Meeker County,MEEKER,22.0
+1971-Mille Lacs County,MILLE LACS,14.0
+1971-Morrison County,MORRISON,13.0
+1971-Murray County,MURRAY,22.0
+1971-Nicollet County,NICOLLET,23.0
+1971-Nobles County,NOBLES,25.0
+1971-Norman County,NORMAN,14.0
+1971-Otter Tail County,OTTER TAIL,14.0
+1971-Pennington County,PENNINGTON,12.0
+1971-Pine County,PINE,10.0
+1971-Pipestone County,PIPESTONE,20.0
+1971-Polk County,POLK,13.0
+1971-Pope County,POPE,13.0
+1971-Ramsey County,RAMSEY,20.0
+1971-Red Lake County,RED LAKE,12.0
+1971-Redwood County,REDWOOD,23.0
+1971-Renville County,RENVILLE,21.0
+1971-Rice County,RICE,24.0
+1971-Rock County,ROCK,23.0
+1971-Roseau County,ROSEAU,10.0
+1971-Scott County,SCOTT,25.0
+1971-Sherburne County,SHERBURNE,14.0
+1971-Sibley County,SIBLEY,27.0
+1971-Stearns County,STEARNS,17.0
+1971-Steele County,STEELE,24.0
+1971-Stevens County,STEVENS,18.0
+1971-Swift County,SWIFT,17.0
+1971-Todd County,TODD,14.0
+1971-Traverse County,TRAVERSE,12.0
+1971-Wadena County,WADENA,13.0
+1971-Waseca County,WASECA,27.0
+1971-Washington County,WASHINGTON,21.0
+1971-Watonwan County,WATONWAN,27.0
+1971-Wilkin County,WILKIN,13.0
+1971-Wright County,WRIGHT,22.0
+1971-Yellow Medicine County,YELLOW MEDICINE,21.0
+1972-Anoka County,ANOKA,20.0
+1972-Becker County,BECKER,19.0
+1972-Benton County,BENTON,21.0
+1972-Big Stone County,BIG STONE,15.0
+1972-Blue Earth County,BLUE EARTH,32.0
+1972-Brown County,BROWN,30.0
+1972-Carlton County,CARLTON,19.0
+1972-Carver County,CARVER,22.0
+1972-Cass County,CASS,17.0
+1972-Chippewa County,CHIPPEWA,24.0
+1972-Chisago County,CHISAGO,20.0
+1972-Clay County,CLAY,22.0
+1972-Cottonwood County,COTTONWOOD,32.0
+1972-Crow Wing County,CROW WING,17.0
+1972-Douglas County,DOUGLAS,15.0
+1972-Faribault County,FARIBAULT,34.0
+1972-Freeborn County,FREEBORN,32.0
+1972-Grant County,GRANT,17.0
+1972-Hennepin County,HENNEPIN,19.0
+1972-Hubbard County,HUBBARD,17.0
+1972-Isanti County,ISANTI,20.0
+1972-Jackson County,JACKSON,33.0
+1972-Kanabec County,KANABEC,23.0
+1972-Kandiyohi County,KANDIYOHI,22.0
+1972-Lac Qui Parle County,LAC QUI PARLE,21.0
+1972-Le Sueur County,LE SUEUR,31.0
+1972-Lincoln County,LINCOLN,25.0
+1972-Lyon County,LYON,28.0
+1972-Mahnomen County,MAHNOMEN,19.0
+1972-Marshall County,MARSHALL,15.0
+1972-Martin County,MARTIN,34.0
+1972-Mcleod County,MCLEOD,27.0
+1972-Meeker County,MEEKER,23.0
+1972-Mille Lacs County,MILLE LACS,19.0
+1972-Morrison County,MORRISON,17.0
+1972-Murray County,MURRAY,29.0
+1972-Nicollet County,NICOLLET,32.0
+1972-Nobles County,NOBLES,33.0
+1972-Norman County,NORMAN,23.0
+1972-Otter Tail County,OTTER TAIL,20.0
+1972-Pennington County,PENNINGTON,16.0
+1972-Pine County,PINE,19.0
+1972-Pipestone County,PIPESTONE,26.0
+1972-Polk County,POLK,16.0
+1972-Pope County,POPE,20.0
+1972-Ramsey County,RAMSEY,24.0
+1972-Red Lake County,RED LAKE,16.0
+1972-Redwood County,REDWOOD,30.0
+1972-Renville County,RENVILLE,26.0
+1972-Rice County,RICE,29.0
+1972-Rock County,ROCK,32.0
+1972-Roseau County,ROSEAU,15.0
+1972-Scott County,SCOTT,28.0
+1972-Sherburne County,SHERBURNE,21.0
+1972-Sibley County,SIBLEY,31.0
+1972-Stearns County,STEARNS,17.0
+1972-Steele County,STEELE,31.0
+1972-Stevens County,STEVENS,17.0
+1972-Swift County,SWIFT,18.0
+1972-Todd County,TODD,17.0
+1972-Traverse County,TRAVERSE,16.0
+1972-Wadena County,WADENA,17.0
+1972-Waseca County,WASECA,33.0
+1972-Washington County,WASHINGTON,26.0
+1972-Watonwan County,WATONWAN,34.0
+1972-Wilkin County,WILKIN,18.0
+1972-Wright County,WRIGHT,25.0
+1972-Yellow Medicine County,YELLOW MEDICINE,25.0
+1973-Aitkin County,AITKIN,20.0
+1973-Anoka County,ANOKA,20.0
+1973-Becker County,BECKER,21.0
+1973-Benton County,BENTON,24.0
+1973-Big Stone County,BIG STONE,21.0
+1973-Blue Earth County,BLUE EARTH,34.6
+1973-Brown County,BROWN,29.0
+1973-Carlton County,CARLTON,19.0
+1973-Carver County,CARVER,26.0
+1973-Cass County,CASS,17.0
+1973-Chippewa County,CHIPPEWA,29.0
+1973-Chisago County,CHISAGO,22.0
+1973-Clay County,CLAY,24.0
+1973-Cottonwood County,COTTONWOOD,27.0
+1973-Crow Wing County,CROW WING,22.0
+1973-Douglas County,DOUGLAS,27.0
+1973-Faribault County,FARIBAULT,37.0
+1973-Freeborn County,FREEBORN,30.0
+1973-Grant County,GRANT,25.0
+1973-Hennepin County,HENNEPIN,25.0
+1973-Hubbard County,HUBBARD,17.0
+1973-Isanti County,ISANTI,25.0
+1973-Jackson County,JACKSON,28.0
+1973-Kanabec County,KANABEC,22.0
+1973-Kandiyohi County,KANDIYOHI,24.0
+1973-Lac Qui Parle County,LAC QUI PARLE,25.0
+1973-Le Sueur County,LE SUEUR,33.0
+1973-Lincoln County,LINCOLN,20.0
+1973-Lyon County,LYON,24.0
+1973-Mahnomen County,MAHNOMEN,21.0
+1973-Marshall County,MARSHALL,16.0
+1973-Martin County,MARTIN,35.0
+1973-Mcleod County,MCLEOD,29.0
+1973-Meeker County,MEEKER,24.0
+1973-Mille Lacs County,MILLE LACS,16.0
+1973-Morrison County,MORRISON,22.0
+1973-Murray County,MURRAY,25.0
+1973-Nicollet County,NICOLLET,34.0
+1973-Nobles County,NOBLES,28.0
+1973-Norman County,NORMAN,23.0
+1973-Otter Tail County,OTTER TAIL,23.0
+1973-Pennington County,PENNINGTON,18.0
+1973-Pine County,PINE,17.0
+1973-Pipestone County,PIPESTONE,23.0
+1973-Polk County,POLK,19.0
+1973-Pope County,POPE,25.0
+1973-Ramsey County,RAMSEY,23.0
+1973-Red Lake County,RED LAKE,18.0
+1973-Redwood County,REDWOOD,29.0
+1973-Renville County,RENVILLE,30.0
+1973-Rice County,RICE,28.0
+1973-Rock County,ROCK,28.0
+1973-Roseau County,ROSEAU,17.0
+1973-Scott County,SCOTT,31.0
+1973-Sherburne County,SHERBURNE,22.0
+1973-Sibley County,SIBLEY,32.0
+1973-Stearns County,STEARNS,25.0
+1973-Steele County,STEELE,32.6
+1973-Stevens County,STEVENS,26.0
+1973-Swift County,SWIFT,27.0
+1973-Todd County,TODD,23.0
+1973-Traverse County,TRAVERSE,24.0
+1973-Wadena County,WADENA,21.0
+1973-Waseca County,WASECA,37.0
+1973-Washington County,WASHINGTON,27.0
+1973-Watonwan County,WATONWAN,34.0
+1973-Wilkin County,WILKIN,22.0
+1973-Wright County,WRIGHT,29.0
+1973-Yellow Medicine County,YELLOW MEDICINE,27.0
+1974-Aitkin County,AITKIN,8.0
+1974-Anoka County,ANOKA,10.5
+1974-Becker County,BECKER,15.0
+1974-Benton County,BENTON,13.5
+1974-Big Stone County,BIG STONE,15.0
+1974-Blue Earth County,BLUE EARTH,24.0
+1974-Brown County,BROWN,23.5
+1974-Carlton County,CARLTON,16.0
+1974-Carver County,CARVER,21.0
+1974-Cass County,CASS,13.0
+1974-Chippewa County,CHIPPEWA,21.0
+1974-Chisago County,CHISAGO,10.5
+1974-Clay County,CLAY,16.0
+1974-Clearwater County,CLEARWATER,14.0
+1974-Cottonwood County,COTTONWOOD,23.5
+1974-Crow Wing County,CROW WING,10.5
+1974-Douglas County,DOUGLAS,15.5
+1974-Faribault County,FARIBAULT,26.5
+1974-Freeborn County,FREEBORN,25.5
+1974-Grant County,GRANT,17.5
+1974-Hennepin County,HENNEPIN,16.0
+1974-Hubbard County,HUBBARD,12.0
+1974-Isanti County,ISANTI,11.5
+1974-Itasca County,ITASCA,14.0
+1974-Jackson County,JACKSON,26.0
+1974-Kanabec County,KANABEC,13.0
+1974-Kandiyohi County,KANDIYOHI,17.5
+1974-Kittson County,KITTSON,13.5
+1974-Lac Qui Parle County,LAC QUI PARLE,18.0
+1974-Lake Of The Woods County,LAKE OF THE WOODS,20.0
+1974-Le Sueur County,LE SUEUR,19.5
+1974-Lincoln County,LINCOLN,19.0
+1974-Lyon County,LYON,21.5
+1974-Mahnomen County,MAHNOMEN,12.0
+1974-Marshall County,MARSHALL,19.5
+1974-Martin County,MARTIN,30.0
+1974-Mcleod County,MCLEOD,19.0
+1974-Meeker County,MEEKER,17.5
+1974-Mille Lacs County,MILLE LACS,11.0
+1974-Morrison County,MORRISON,15.5
+1974-Murray County,MURRAY,22.0
+1974-Nicollet County,NICOLLET,23.0
+1974-Nobles County,NOBLES,23.0
+1974-Norman County,NORMAN,15.5
+1974-Otter Tail County,OTTER TAIL,17.5
+1974-Pennington County,PENNINGTON,18.0
+1974-Pine County,PINE,16.0
+1974-Pipestone County,PIPESTONE,20.5
+1974-Polk County,POLK,17.5
+1974-Pope County,POPE,16.5
+1974-Ramsey County,RAMSEY,11.0
+1974-Red Lake County,RED LAKE,14.0
+1974-Redwood County,REDWOOD,23.5
+1974-Renville County,RENVILLE,23.0
+1974-Rice County,RICE,21.5
+1974-Rock County,ROCK,23.5
+1974-Roseau County,ROSEAU,13.0
+1974-Scott County,SCOTT,19.0
+1974-Sherburne County,SHERBURNE,12.5
+1974-Sibley County,SIBLEY,21.0
+1974-Stearns County,STEARNS,14.0
+1974-Steele County,STEELE,24.5
+1974-Stevens County,STEVENS,18.5
+1974-Swift County,SWIFT,18.5
+1974-Todd County,TODD,14.0
+1974-Traverse County,TRAVERSE,14.5
+1974-Wadena County,WADENA,12.0
+1974-Waseca County,WASECA,22.5
+1974-Washington County,WASHINGTON,17.0
+1974-Watonwan County,WATONWAN,28.0
+1974-Wilkin County,WILKIN,18.0
+1974-Wright County,WRIGHT,19.0
+1974-Yellow Medicine County,YELLOW MEDICINE,20.5
+1975-Aitkin County,AITKIN,18.5
+1975-Anoka County,ANOKA,16.0
+1975-Becker County,BECKER,15.5
+1975-Benton County,BENTON,15.0
+1975-Big Stone County,BIG STONE,18.4
+1975-Blue Earth County,BLUE EARTH,31.2
+1975-Brown County,BROWN,26.4
+1975-Carlton County,CARLTON,19.0
+1975-Carver County,CARVER,26.4
+1975-Cass County,CASS,12.0
+1975-Chippewa County,CHIPPEWA,24.4
+1975-Chisago County,CHISAGO,16.0
+1975-Clay County,CLAY,16.0
+1975-Clearwater County,CLEARWATER,15.0
+1975-Cottonwood County,COTTONWOOD,27.6
+1975-Crow Wing County,CROW WING,15.0
+1975-Douglas County,DOUGLAS,14.8
+1975-Faribault County,FARIBAULT,30.3
+1975-Freeborn County,FREEBORN,27.2
+1975-Grant County,GRANT,20.2
+1975-Hennepin County,HENNEPIN,27.0
+1975-Hubbard County,HUBBARD,11.0
+1975-Isanti County,ISANTI,21.0
+1975-Itasca County,ITASCA,11.0
+1975-Jackson County,JACKSON,34.3
+1975-Kanabec County,KANABEC,16.5
+1975-Kandiyohi County,KANDIYOHI,23.2
+1975-Kittson County,KITTSON,15.0
+1975-Lac Qui Parle County,LAC QUI PARLE,19.9
+1975-Le Sueur County,LE SUEUR,29.8
+1975-Lincoln County,LINCOLN,19.0
+1975-Lyon County,LYON,20.8
+1975-Mahnomen County,MAHNOMEN,16.0
+1975-Marshall County,MARSHALL,15.5
+1975-Martin County,MARTIN,35.6
+1975-Mcleod County,MCLEOD,28.5
+1975-Meeker County,MEEKER,27.1
+1975-Mille Lacs County,MILLE LACS,16.5
+1975-Morrison County,MORRISON,14.5
+1975-Murray County,MURRAY,22.9
+1975-Nicollet County,NICOLLET,32.4
+1975-Nobles County,NOBLES,32.9
+1975-Norman County,NORMAN,15.0
+1975-Otter Tail County,OTTER TAIL,21.3
+1975-Pennington County,PENNINGTON,16.0
+1975-Pine County,PINE,15.6
+1975-Pipestone County,PIPESTONE,29.4
+1975-Polk County,POLK,15.0
+1975-Pope County,POPE,17.5
+1975-Ramsey County,RAMSEY,15.0
+1975-Red Lake County,RED LAKE,15.0
+1975-Redwood County,REDWOOD,25.8
+1975-Renville County,RENVILLE,27.8
+1975-Rice County,RICE,27.3
+1975-Rock County,ROCK,33.9
+1975-Roseau County,ROSEAU,15.0
+1975-Scott County,SCOTT,29.4
+1975-Sherburne County,SHERBURNE,16.0
+1975-Sibley County,SIBLEY,29.8
+1975-Stearns County,STEARNS,19.0
+1975-Steele County,STEELE,27.1
+1975-Stevens County,STEVENS,23.2
+1975-Swift County,SWIFT,26.6
+1975-Todd County,TODD,21.3
+1975-Traverse County,TRAVERSE,19.9
+1975-Wadena County,WADENA,15.0
+1975-Waseca County,WASECA,31.2
+1975-Washington County,WASHINGTON,21.0
+1975-Watonwan County,WATONWAN,31.0
+1975-Wilkin County,WILKIN,20.1
+1975-Wright County,WRIGHT,23.5
+1975-Yellow Medicine County,YELLOW MEDICINE,19.6
+1976-Aitkin County,AITKIN,14.0
+1976-Anoka County,ANOKA,11.2
+1976-Becker County,BECKER,12.0
+1976-Benton County,BENTON,16.0
+1976-Big Stone County,BIG STONE,7.0
+1976-Blue Earth County,BLUE EARTH,31.0
+1976-Brown County,BROWN,20.0
+1976-Carlton County,CARLTON,13.0
+1976-Carver County,CARVER,23.5
+1976-Cass County,CASS,13.0
+1976-Chippewa County,CHIPPEWA,11.0
+1976-Chisago County,CHISAGO,13.6
+1976-Clay County,CLAY,15.8
+1976-Cottonwood County,COTTONWOOD,24.5
+1976-Crow Wing County,CROW WING,8.3
+1976-Douglas County,DOUGLAS,13.0
+1976-Faribault County,FARIBAULT,32.9
+1976-Freeborn County,FREEBORN,29.6
+1976-Grant County,GRANT,11.5
+1976-Hennepin County,HENNEPIN,19.2
+1976-Isanti County,ISANTI,10.5
+1976-Jackson County,JACKSON,25.0
+1976-Kanabec County,KANABEC,16.4
+1976-Kandiyohi County,KANDIYOHI,18.2
+1976-Lac Qui Parle County,LAC QUI PARLE,7.5
+1976-Le Sueur County,LE SUEUR,28.5
+1976-Lincoln County,LINCOLN,9.7
+1976-Lyon County,LYON,14.0
+1976-Mahnomen County,MAHNOMEN,15.0
+1976-Martin County,MARTIN,27.7
+1976-Mcleod County,MCLEOD,21.4
+1976-Meeker County,MEEKER,21.8
+1976-Mille Lacs County,MILLE LACS,17.2
+1976-Morrison County,MORRISON,8.0
+1976-Murray County,MURRAY,17.7
+1976-Nicollet County,NICOLLET,27.9
+1976-Nobles County,NOBLES,20.8
+1976-Norman County,NORMAN,16.0
+1976-Otter Tail County,OTTER TAIL,10.4
+1976-Pine County,PINE,12.4
+1976-Pipestone County,PIPESTONE,13.0
+1976-Polk County,POLK,19.0
+1976-Pope County,POPE,11.0
+1976-Ramsey County,RAMSEY,13.0
+1976-Red Lake County,RED LAKE,15.8
+1976-Redwood County,REDWOOD,18.2
+1976-Renville County,RENVILLE,20.8
+1976-Rice County,RICE,26.0
+1976-Rock County,ROCK,19.3
+1976-Scott County,SCOTT,23.4
+1976-Sherburne County,SHERBURNE,7.0
+1976-Sibley County,SIBLEY,24.2
+1976-Stearns County,STEARNS,13.7
+1976-Steele County,STEELE,25.8
+1976-Stevens County,STEVENS,10.9
+1976-Swift County,SWIFT,13.3
+1976-Todd County,TODD,12.0
+1976-Traverse County,TRAVERSE,9.5
+1976-Wadena County,WADENA,10.0
+1976-Waseca County,WASECA,30.8
+1976-Washington County,WASHINGTON,17.0
+1976-Watonwan County,WATONWAN,28.1
+1976-Wilkin County,WILKIN,9.7
+1976-Wright County,WRIGHT,20.9
+1976-Yellow Medicine County,YELLOW MEDICINE,12.4
+1977-Aitkin County,AITKIN,22.0
+1977-Anoka County,ANOKA,21.3
+1977-Becker County,BECKER,19.0
+1977-Benton County,BENTON,31.7
+1977-Big Stone County,BIG STONE,24.7
+1977-Blue Earth County,BLUE EARTH,40.9
+1977-Brown County,BROWN,37.0
+1977-Carlton County,CARLTON,21.0
+1977-Carver County,CARVER,37.1
+1977-Cass County,CASS,15.0
+1977-Chippewa County,CHIPPEWA,28.9
+1977-Chisago County,CHISAGO,21.3
+1977-Clay County,CLAY,17.9
+1977-Cottonwood County,COTTONWOOD,39.9
+1977-Crow Wing County,CROW WING,18.0
+1977-Douglas County,DOUGLAS,27.0
+1977-Faribault County,FARIBAULT,40.2
+1977-Freeborn County,FREEBORN,40.5
+1977-Grant County,GRANT,27.9
+1977-Hennepin County,HENNEPIN,36.1
+1977-Isanti County,ISANTI,23.4
+1977-Jackson County,JACKSON,34.7
+1977-Kanabec County,KANABEC,25.0
+1977-Kandiyohi County,KANDIYOHI,30.2
+1977-Kittson County,KITTSON,17.0
+1977-Lac Qui Parle County,LAC QUI PARLE,31.4
+1977-Le Sueur County,LE SUEUR,40.4
+1977-Lincoln County,LINCOLN,27.1
+1977-Lyon County,LYON,36.2
+1977-Mahnomen County,MAHNOMEN,16.0
+1977-Marshall County,MARSHALL,17.0
+1977-Martin County,MARTIN,36.1
+1977-Mcleod County,MCLEOD,36.8
+1977-Meeker County,MEEKER,33.7
+1977-Mille Lacs County,MILLE LACS,26.0
+1977-Morrison County,MORRISON,15.3
+1977-Murray County,MURRAY,34.8
+1977-Nicollet County,NICOLLET,40.6
+1977-Nobles County,NOBLES,34.9
+1977-Norman County,NORMAN,12.0
+1977-Otter Tail County,OTTER TAIL,27.9
+1977-Pennington County,PENNINGTON,17.0
+1977-Pine County,PINE,24.0
+1977-Pipestone County,PIPESTONE,28.3
+1977-Polk County,POLK,21.5
+1977-Pope County,POPE,25.8
+1977-Ramsey County,RAMSEY,24.0
+1977-Red Lake County,RED LAKE,17.0
+1977-Redwood County,REDWOOD,36.8
+1977-Renville County,RENVILLE,37.2
+1977-Rice County,RICE,35.3
+1977-Rock County,ROCK,37.7
+1977-Scott County,SCOTT,35.6
+1977-Sherburne County,SHERBURNE,20.3
+1977-Sibley County,SIBLEY,40.1
+1977-Stearns County,STEARNS,25.0
+1977-Steele County,STEELE,39.3
+1977-Stevens County,STEVENS,26.1
+1977-Swift County,SWIFT,27.1
+1977-Todd County,TODD,27.9
+1977-Traverse County,TRAVERSE,26.9
+1977-Wadena County,WADENA,24.5
+1977-Waseca County,WASECA,43.6
+1977-Washington County,WASHINGTON,32.5
+1977-Watonwan County,WATONWAN,39.7
+1977-Wilkin County,WILKIN,20.0
+1977-Wright County,WRIGHT,31.6
+1977-Yellow Medicine County,YELLOW MEDICINE,32.4
+1978-Aitkin County,AITKIN,24.0
+1978-Anoka County,ANOKA,24.8
+1978-Becker County,BECKER,33.3
+1978-Benton County,BENTON,30.1
+1978-Big Stone County,BIG STONE,24.8
+1978-Blue Earth County,BLUE EARTH,39.8
+1978-Brown County,BROWN,39.4
+1978-Carlton County,CARLTON,23.0
+1978-Carver County,CARVER,36.1
+1978-Cass County,CASS,25.0
+1978-Chippewa County,CHIPPEWA,31.3
+1978-Chisago County,CHISAGO,21.5
+1978-Clay County,CLAY,32.6
+1978-Cottonwood County,COTTONWOOD,39.9
+1978-Crow Wing County,CROW WING,17.4
+1978-Douglas County,DOUGLAS,21.7
+1978-Faribault County,FARIBAULT,35.7
+1978-Freeborn County,FREEBORN,36.6
+1978-Grant County,GRANT,25.4
+1978-Hennepin County,HENNEPIN,29.3
+1978-Isanti County,ISANTI,26.6
+1978-Jackson County,JACKSON,38.8
+1978-Kanabec County,KANABEC,30.9
+1978-Kandiyohi County,KANDIYOHI,35.5
+1978-Kittson County,KITTSON,29.0
+1978-Lac Qui Parle County,LAC QUI PARLE,29.7
+1978-Le Sueur County,LE SUEUR,39.5
+1978-Lincoln County,LINCOLN,27.8
+1978-Lyon County,LYON,34.3
+1978-Mahnomen County,MAHNOMEN,32.8
+1978-Marshall County,MARSHALL,28.8
+1978-Martin County,MARTIN,43.6
+1978-Mcleod County,MCLEOD,39.1
+1978-Meeker County,MEEKER,34.3
+1978-Mille Lacs County,MILLE LACS,31.9
+1978-Morrison County,MORRISON,18.5
+1978-Murray County,MURRAY,39.1
+1978-Nicollet County,NICOLLET,39.0
+1978-Nobles County,NOBLES,38.2
+1978-Norman County,NORMAN,30.6
+1978-Otter Tail County,OTTER TAIL,23.9
+1978-Pennington County,PENNINGTON,28.0
+1978-Pine County,PINE,25.9
+1978-Pipestone County,PIPESTONE,33.0
+1978-Polk County,POLK,34.1
+1978-Pope County,POPE,25.7
+1978-Ramsey County,RAMSEY,25.0
+1978-Red Lake County,RED LAKE,34.0
+1978-Redwood County,REDWOOD,39.9
+1978-Renville County,RENVILLE,36.6
+1978-Rice County,RICE,39.4
+1978-Rock County,ROCK,38.2
+1978-Roseau County,ROSEAU,27.0
+1978-Scott County,SCOTT,33.3
+1978-Sherburne County,SHERBURNE,19.6
+1978-Sibley County,SIBLEY,39.2
+1978-St. Louis County,ST. LOUIS,25.0
+1978-Stearns County,STEARNS,22.3
+1978-Steele County,STEELE,39.1
+1978-Stevens County,STEVENS,28.9
+1978-Swift County,SWIFT,30.9
+1978-Todd County,TODD,24.2
+1978-Traverse County,TRAVERSE,25.3
+1978-Wadena County,WADENA,23.2
+1978-Waseca County,WASECA,39.9
+1978-Washington County,WASHINGTON,34.4
+1978-Watonwan County,WATONWAN,42.1
+1978-Wilkin County,WILKIN,25.0
+1978-Wright County,WRIGHT,30.0
+1978-Yellow Medicine County,YELLOW MEDICINE,33.2
+1979-Aitkin County,AITKIN,21.0
+1979-Anoka County,ANOKA,26.5
+1979-Becker County,BECKER,26.5
+1979-Beltrami County,BELTRAMI,21.0
+1979-Benton County,BENTON,28.0
+1979-Big Stone County,BIG STONE,27.5
+1979-Blue Earth County,BLUE EARTH,37.0
+1979-Brown County,BROWN,32.0
+1979-Carver County,CARVER,37.0
+1979-Cass County,CASS,25.0
+1979-Chippewa County,CHIPPEWA,31.0
+1979-Chisago County,CHISAGO,25.0
+1979-Clay County,CLAY,27.5
+1979-Clearwater County,CLEARWATER,26.0
+1979-Cottonwood County,COTTONWOOD,31.0
+1979-Crow Wing County,CROW WING,21.0
+1979-Douglas County,DOUGLAS,26.0
+1979-Faribault County,FARIBAULT,33.0
+1979-Freeborn County,FREEBORN,36.0
+1979-Grant County,GRANT,27.5
+1979-Hennepin County,HENNEPIN,35.0
+1979-Hubbard County,HUBBARD,25.0
+1979-Isanti County,ISANTI,27.5
+1979-Itasca County,ITASCA,24.0
+1979-Jackson County,JACKSON,34.0
+1979-Kanabec County,KANABEC,28.5
+1979-Kandiyohi County,KANDIYOHI,30.5
+1979-Kittson County,KITTSON,26.0
+1979-Lac Qui Parle County,LAC QUI PARLE,31.5
+1979-Lake Of The Woods County,LAKE OF THE WOODS,26.0
+1979-Le Sueur County,LE SUEUR,37.5
+1979-Lincoln County,LINCOLN,30.0
+1979-Lyon County,LYON,27.5
+1979-Mahnomen County,MAHNOMEN,28.0
+1979-Marshall County,MARSHALL,27.0
+1979-Martin County,MARTIN,31.5
+1979-Mcleod County,MCLEOD,37.0
+1979-Meeker County,MEEKER,31.0
+1979-Mille Lacs County,MILLE LACS,30.0
+1979-Morrison County,MORRISON,20.0
+1979-Murray County,MURRAY,32.5
+1979-Nicollet County,NICOLLET,36.0
+1979-Nobles County,NOBLES,33.0
+1979-Norman County,NORMAN,29.0
+1979-Otter Tail County,OTTER TAIL,25.0
+1979-Pine County,PINE,25.0
+1979-Pipestone County,PIPESTONE,31.0
+1979-Polk County,POLK,30.0
+1979-Pope County,POPE,26.0
+1979-Ramsey County,RAMSEY,26.0
+1979-Redwood County,REDWOOD,27.5
+1979-Renville County,RENVILLE,30.0
+1979-Rice County,RICE,36.0
+1979-Rock County,ROCK,35.0
+1979-Roseau County,ROSEAU,26.0
+1979-Scott County,SCOTT,34.0
+1979-Sherburne County,SHERBURNE,27.0
+1979-Sibley County,SIBLEY,35.0
+1979-Stearns County,STEARNS,28.0
+1979-Steele County,STEELE,35.5
+1979-Stevens County,STEVENS,28.5
+1979-Swift County,SWIFT,28.0
+1979-Todd County,TODD,28.0
+1979-Traverse County,TRAVERSE,28.5
+1979-Wadena County,WADENA,26.0
+1979-Waseca County,WASECA,36.5
+1979-Washington County,WASHINGTON,35.5
+1979-Watonwan County,WATONWAN,34.5
+1979-Wilkin County,WILKIN,25.0
+1979-Wright County,WRIGHT,35.0
+1979-Yellow Medicine County,YELLOW MEDICINE,32.0
+1980-Aitkin County,AITKIN,19.0
+1980-Anoka County,ANOKA,28.0
+1980-Becker County,BECKER,17.0
+1980-Beltrami County,BELTRAMI,19.0
+1980-Benton County,BENTON,25.0
+1980-Big Stone County,BIG STONE,24.0
+1980-Blue Earth County,BLUE EARTH,34.0
+1980-Brown County,BROWN,35.0
+1980-Carver County,CARVER,33.0
+1980-Cass County,CASS,23.0
+1980-Chippewa County,CHIPPEWA,25.0
+1980-Chisago County,CHISAGO,26.0
+1980-Clay County,CLAY,19.0
+1980-Clearwater County,CLEARWATER,17.0
+1980-Cottonwood County,COTTONWOOD,35.0
+1980-Crow Wing County,CROW WING,20.0
+1980-Douglas County,DOUGLAS,22.0
+1980-Faribault County,FARIBAULT,36.0
+1980-Freeborn County,FREEBORN,28.0
+1980-Grant County,GRANT,24.0
+1980-Hennepin County,HENNEPIN,28.0
+1980-Hubbard County,HUBBARD,23.0
+1980-Isanti County,ISANTI,25.0
+1980-Itasca County,ITASCA,22.0
+1980-Jackson County,JACKSON,36.0
+1980-Kanabec County,KANABEC,22.0
+1980-Kandiyohi County,KANDIYOHI,30.0
+1980-Kittson County,KITTSON,16.0
+1980-Koochiching County,KOOCHICHING,23.0
+1980-Lac Qui Parle County,LAC QUI PARLE,29.0
+1980-Lake Of The Woods County,LAKE OF THE WOODS,23.0
+1980-Le Sueur County,LE SUEUR,29.0
+1980-Lincoln County,LINCOLN,28.0
+1980-Lyon County,LYON,29.0
+1980-Mahnomen County,MAHNOMEN,18.0
+1980-Marshall County,MARSHALL,18.0
+1980-Martin County,MARTIN,38.0
+1980-Mcleod County,MCLEOD,33.0
+1980-Meeker County,MEEKER,32.0
+1980-Mille Lacs County,MILLE LACS,27.0
+1980-Morrison County,MORRISON,17.0
+1980-Murray County,MURRAY,32.0
+1980-Nicollet County,NICOLLET,35.0
+1980-Nobles County,NOBLES,31.0
+1980-Norman County,NORMAN,18.0
+1980-Otter Tail County,OTTER TAIL,23.0
+1980-Pine County,PINE,21.0
+1980-Pipestone County,PIPESTONE,34.0
+1980-Polk County,POLK,21.0
+1980-Pope County,POPE,26.0
+1980-Ramsey County,RAMSEY,28.0
+1980-Redwood County,REDWOOD,33.0
+1980-Renville County,RENVILLE,32.0
+1980-Rice County,RICE,32.0
+1980-Rock County,ROCK,36.0
+1980-Roseau County,ROSEAU,17.0
+1980-Scott County,SCOTT,29.0
+1980-Sherburne County,SHERBURNE,30.0
+1980-Sibley County,SIBLEY,32.0
+1980-Stearns County,STEARNS,26.0
+1980-Steele County,STEELE,34.0
+1980-Stevens County,STEVENS,29.0
+1980-Swift County,SWIFT,26.0
+1980-Todd County,TODD,29.0
+1980-Traverse County,TRAVERSE,23.0
+1980-Wadena County,WADENA,25.0
+1980-Waseca County,WASECA,34.0
+1980-Washington County,WASHINGTON,31.0
+1980-Watonwan County,WATONWAN,34.0
+1980-Wilkin County,WILKIN,22.0
+1980-Wright County,WRIGHT,32.0
+1980-Yellow Medicine County,YELLOW MEDICINE,33.0
+1981-Aitkin County,AITKIN,18.0
+1981-Anoka County,ANOKA,25.0
+1981-Becker County,BECKER,25.0
+1981-Beltrami County,BELTRAMI,23.0
+1981-Benton County,BENTON,25.0
+1981-Big Stone County,BIG STONE,27.0
+1981-Blue Earth County,BLUE EARTH,23.6
+1981-Brown County,BROWN,28.3
+1981-Carver County,CARVER,42.0
+1981-Cass County,CASS,24.0
+1981-Chippewa County,CHIPPEWA,27.0
+1981-Chisago County,CHISAGO,23.0
+1981-Clay County,CLAY,31.0
+1981-Cottonwood County,COTTONWOOD,36.0
+1981-Crow Wing County,CROW WING,20.0
+1981-Douglas County,DOUGLAS,24.0
+1981-Faribault County,FARIBAULT,29.2
+1981-Freeborn County,FREEBORN,28.3
+1981-Grant County,GRANT,28.0
+1981-Hennepin County,HENNEPIN,33.0
+1981-Hubbard County,HUBBARD,25.0
+1981-Isanti County,ISANTI,22.0
+1981-Itasca County,ITASCA,25.0
+1981-Jackson County,JACKSON,36.0
+1981-Kanabec County,KANABEC,25.0
+1981-Kandiyohi County,KANDIYOHI,33.0
+1981-Kittson County,KITTSON,31.0
+1981-Koochiching County,KOOCHICHING,24.0
+1981-Lac Qui Parle County,LAC QUI PARLE,26.0
+1981-Lake Of The Woods County,LAKE OF THE WOODS,25.0
+1981-Le Sueur County,LE SUEUR,33.0
+1981-Lincoln County,LINCOLN,30.3
+1981-Lyon County,LYON,32.2
+1981-Mahnomen County,MAHNOMEN,27.0
+1981-Marshall County,MARSHALL,33.0
+1981-Martin County,MARTIN,34.9
+1981-Mcleod County,MCLEOD,33.0
+1981-Meeker County,MEEKER,36.0
+1981-Mille Lacs County,MILLE LACS,25.0
+1981-Morrison County,MORRISON,28.0
+1981-Murray County,MURRAY,33.1
+1981-Nicollet County,NICOLLET,33.0
+1981-Nobles County,NOBLES,34.1
+1981-Norman County,NORMAN,31.0
+1981-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,27.0
+1981-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,25.0
+1981-Otter Tail County,OTTER TAIL,33.0
+1981-Pine County,PINE,18.0
+1981-Pipestone County,PIPESTONE,29.4
+1981-Polk County,POLK,30.0
+1981-Pope County,POPE,32.0
+1981-Red Lake County,RED LAKE,29.0
+1981-Redwood County,REDWOOD,29.3
+1981-Renville County,RENVILLE,34.0
+1981-Rice County,RICE,36.8
+1981-Rock County,ROCK,36.9
+1981-Scott County,SCOTT,37.0
+1981-Sherburne County,SHERBURNE,28.0
+1981-Sibley County,SIBLEY,36.0
+1981-Stearns County,STEARNS,29.0
+1981-Steele County,STEELE,34.9
+1981-Stevens County,STEVENS,33.0
+1981-Swift County,SWIFT,31.0
+1981-Todd County,TODD,27.0
+1981-Traverse County,TRAVERSE,25.0
+1981-Wadena County,WADENA,32.0
+1981-Waseca County,WASECA,32.0
+1981-Washington County,WASHINGTON,35.0
+1981-Watonwan County,WATONWAN,29.2
+1981-Wilkin County,WILKIN,28.0
+1981-Wright County,WRIGHT,34.0
+1981-Yellow Medicine County,YELLOW MEDICINE,33.0
+1982-Aitkin County,AITKIN,24.0
+1982-Anoka County,ANOKA,28.0
+1982-Becker County,BECKER,25.0
+1982-Benton County,BENTON,28.0
+1982-Big Stone County,BIG STONE,27.0
+1982-Blue Earth County,BLUE EARTH,37.8
+1982-Brown County,BROWN,38.7
+1982-Carver County,CARVER,35.0
+1982-Chippewa County,CHIPPEWA,35.0
+1982-Chisago County,CHISAGO,22.0
+1982-Clay County,CLAY,27.0
+1982-Cottonwood County,COTTONWOOD,38.3
+1982-Crow Wing County,CROW WING,18.0
+1982-Douglas County,DOUGLAS,31.0
+1982-Faribault County,FARIBAULT,36.9
+1982-Freeborn County,FREEBORN,36.7
+1982-Grant County,GRANT,33.0
+1982-Hennepin County,HENNEPIN,36.0
+1982-Isanti County,ISANTI,22.0
+1982-Jackson County,JACKSON,39.3
+1982-Kanabec County,KANABEC,24.0
+1982-Kandiyohi County,KANDIYOHI,38.0
+1982-Kittson County,KITTSON,20.0
+1982-Lac Qui Parle County,LAC QUI PARLE,28.0
+1982-Le Sueur County,LE SUEUR,34.5
+1982-Lincoln County,LINCOLN,31.2
+1982-Lyon County,LYON,37.3
+1982-Mahnomen County,MAHNOMEN,20.0
+1982-Marshall County,MARSHALL,16.0
+1982-Martin County,MARTIN,38.8
+1982-Mcleod County,MCLEOD,37.0
+1982-Meeker County,MEEKER,35.0
+1982-Mille Lacs County,MILLE LACS,27.0
+1982-Morrison County,MORRISON,20.0
+1982-Murray County,MURRAY,36.3
+1982-Nicollet County,NICOLLET,38.8
+1982-Nobles County,NOBLES,34.3
+1982-Norman County,NORMAN,25.0
+1982-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,17.0
+1982-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,25.3
+1982-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,28.0
+1982-Otter Tail County,OTTER TAIL,35.0
+1982-Pine County,PINE,22.0
+1982-Pipestone County,PIPESTONE,35.1
+1982-Polk County,POLK,18.0
+1982-Pope County,POPE,31.0
+1982-Red Lake County,RED LAKE,16.0
+1982-Redwood County,REDWOOD,36.3
+1982-Renville County,RENVILLE,37.3
+1982-Rice County,RICE,34.5
+1982-Rock County,ROCK,35.1
+1982-Scott County,SCOTT,34.0
+1982-Sherburne County,SHERBURNE,32.0
+1982-Sibley County,SIBLEY,37.0
+1982-Stearns County,STEARNS,31.0
+1982-Steele County,STEELE,33.0
+1982-Stevens County,STEVENS,33.0
+1982-Swift County,SWIFT,35.0
+1982-Todd County,TODD,31.0
+1982-Traverse County,TRAVERSE,25.0
+1982-Wadena County,WADENA,30.0
+1982-Waseca County,WASECA,36.9
+1982-Washington County,WASHINGTON,23.0
+1982-Watonwan County,WATONWAN,41.1
+1982-Wilkin County,WILKIN,29.0
+1982-Wright County,WRIGHT,33.0
+1982-Yellow Medicine County,YELLOW MEDICINE,38.0
+1983-Anoka County,ANOKA,26.0
+1983-Becker County,BECKER,35.0
+1983-Benton County,BENTON,26.0
+1983-Big Stone County,BIG STONE,32.0
+1983-Blue Earth County,BLUE EARTH,36.0
+1983-Brown County,BROWN,36.0
+1983-Carver County,CARVER,38.0
+1983-Chippewa County,CHIPPEWA,30.5
+1983-Chisago County,CHISAGO,26.0
+1983-Clay County,CLAY,34.0
+1983-Clearwater County,CLEARWATER,26.0
+1983-Cottonwood County,COTTONWOOD,32.0
+1983-Crow Wing County,CROW WING,20.0
+1983-Douglas County,DOUGLAS,32.0
+1983-Faribault County,FARIBAULT,34.0
+1983-Freeborn County,FREEBORN,34.0
+1983-Grant County,GRANT,33.0
+1983-Hennepin County,HENNEPIN,32.0
+1983-Isanti County,ISANTI,29.0
+1983-Jackson County,JACKSON,33.0
+1983-Kanabec County,KANABEC,25.0
+1983-Kandiyohi County,KANDIYOHI,34.0
+1983-Kittson County,KITTSON,19.0
+1983-Lac Qui Parle County,LAC QUI PARLE,29.0
+1983-Le Sueur County,LE SUEUR,31.0
+1983-Lincoln County,LINCOLN,30.0
+1983-Lyon County,LYON,32.0
+1983-Mahnomen County,MAHNOMEN,25.0
+1983-Marshall County,MARSHALL,26.0
+1983-Martin County,MARTIN,35.0
+1983-Mcleod County,MCLEOD,37.0
+1983-Meeker County,MEEKER,31.0
+1983-Mille Lacs County,MILLE LACS,30.0
+1983-Morrison County,MORRISON,29.0
+1983-Murray County,MURRAY,31.0
+1983-Nicollet County,NICOLLET,32.0
+1983-Nobles County,NOBLES,31.0
+1983-Norman County,NORMAN,31.0
+1983-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,29.0
+1983-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,22.3
+1983-Otter Tail County,OTTER TAIL,30.0
+1983-Pennington County,PENNINGTON,15.0
+1983-Pine County,PINE,25.0
+1983-Pipestone County,PIPESTONE,30.0
+1983-Polk County,POLK,27.0
+1983-Pope County,POPE,34.0
+1983-Ramsey County,RAMSEY,26.0
+1983-Red Lake County,RED LAKE,23.0
+1983-Redwood County,REDWOOD,35.0
+1983-Renville County,RENVILLE,38.0
+1983-Rice County,RICE,34.0
+1983-Rock County,ROCK,35.0
+1983-Roseau County,ROSEAU,29.0
+1983-Scott County,SCOTT,32.0
+1983-Sherburne County,SHERBURNE,23.0
+1983-Sibley County,SIBLEY,32.0
+1983-Stearns County,STEARNS,33.0
+1983-Steele County,STEELE,34.0
+1983-Stevens County,STEVENS,33.0
+1983-Swift County,SWIFT,34.0
+1983-Todd County,TODD,25.0
+1983-Traverse County,TRAVERSE,30.0
+1983-Wadena County,WADENA,16.0
+1983-Waseca County,WASECA,36.0
+1983-Washington County,WASHINGTON,33.0
+1983-Watonwan County,WATONWAN,36.0
+1983-Wilkin County,WILKIN,30.0
+1983-Wright County,WRIGHT,29.0
+1983-Yellow Medicine County,YELLOW MEDICINE,32.0
+1984-Anoka County,ANOKA,25.0
+1984-Becker County,BECKER,25.0
+1984-Benton County,BENTON,22.0
+1984-Big Stone County,BIG STONE,30.0
+1984-Blue Earth County,BLUE EARTH,38.0
+1984-Brown County,BROWN,37.0
+1984-Carver County,CARVER,38.0
+1984-Chippewa County,CHIPPEWA,31.0
+1984-Chisago County,CHISAGO,24.0
+1984-Clay County,CLAY,23.0
+1984-Clearwater County,CLEARWATER,25.0
+1984-Cottonwood County,COTTONWOOD,37.0
+1984-Crow Wing County,CROW WING,22.0
+1984-Douglas County,DOUGLAS,29.0
+1984-Faribault County,FARIBAULT,36.0
+1984-Freeborn County,FREEBORN,35.0
+1984-Grant County,GRANT,29.0
+1984-Hennepin County,HENNEPIN,28.0
+1984-Isanti County,ISANTI,22.0
+1984-Jackson County,JACKSON,34.0
+1984-Kanabec County,KANABEC,18.0
+1984-Kandiyohi County,KANDIYOHI,31.0
+1984-Kittson County,KITTSON,22.0
+1984-Lac Qui Parle County,LAC QUI PARLE,28.0
+1984-Le Sueur County,LE SUEUR,38.0
+1984-Lincoln County,LINCOLN,26.0
+1984-Lyon County,LYON,32.0
+1984-Mahnomen County,MAHNOMEN,25.0
+1984-Marshall County,MARSHALL,24.0
+1984-Martin County,MARTIN,38.0
+1984-Mcleod County,MCLEOD,37.0
+1984-Meeker County,MEEKER,30.0
+1984-Mille Lacs County,MILLE LACS,25.0
+1984-Morrison County,MORRISON,25.0
+1984-Murray County,MURRAY,32.0
+1984-Nicollet County,NICOLLET,40.0
+1984-Nobles County,NOBLES,32.0
+1984-Norman County,NORMAN,24.0
+1984-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,21.0
+1984-Otter Tail County,OTTER TAIL,24.0
+1984-Pennington County,PENNINGTON,19.0
+1984-Pine County,PINE,25.0
+1984-Pipestone County,PIPESTONE,28.0
+1984-Polk County,POLK,25.0
+1984-Pope County,POPE,28.0
+1984-Ramsey County,RAMSEY,31.0
+1984-Red Lake County,RED LAKE,23.0
+1984-Redwood County,REDWOOD,37.0
+1984-Renville County,RENVILLE,38.0
+1984-Rice County,RICE,36.0
+1984-Rock County,ROCK,35.0
+1984-Roseau County,ROSEAU,24.0
+1984-Scott County,SCOTT,33.0
+1984-Sherburne County,SHERBURNE,30.0
+1984-Sibley County,SIBLEY,38.0
+1984-Stearns County,STEARNS,28.0
+1984-Steele County,STEELE,34.0
+1984-Stevens County,STEVENS,34.0
+1984-Swift County,SWIFT,33.0
+1984-Todd County,TODD,29.0
+1984-Traverse County,TRAVERSE,31.0
+1984-Wadena County,WADENA,23.0
+1984-Waseca County,WASECA,37.0
+1984-Washington County,WASHINGTON,34.0
+1984-Watonwan County,WATONWAN,40.0
+1984-Wilkin County,WILKIN,25.0
+1984-Wright County,WRIGHT,31.0
+1984-Yellow Medicine County,YELLOW MEDICINE,32.0
+1985-Anoka County,ANOKA,23.0
+1985-Becker County,BECKER,15.0
+1985-Benton County,BENTON,29.0
+1985-Big Stone County,BIG STONE,31.0
+1985-Blue Earth County,BLUE EARTH,37.0
+1985-Brown County,BROWN,37.0
+1985-Carver County,CARVER,32.0
+1985-Chippewa County,CHIPPEWA,34.0
+1985-Chisago County,CHISAGO,25.0
+1985-Clay County,CLAY,23.0
+1985-Clearwater County,CLEARWATER,19.0
+1985-Cottonwood County,COTTONWOOD,33.0
+1985-Douglas County,DOUGLAS,26.0
+1985-Faribault County,FARIBAULT,36.0
+1985-Freeborn County,FREEBORN,34.0
+1985-Grant County,GRANT,23.0
+1985-Hennepin County,HENNEPIN,32.0
+1985-Isanti County,ISANTI,24.0
+1985-Jackson County,JACKSON,34.0
+1985-Kanabec County,KANABEC,23.0
+1985-Kandiyohi County,KANDIYOHI,30.0
+1985-Kittson County,KITTSON,16.0
+1985-Lac Qui Parle County,LAC QUI PARLE,31.0
+1985-Le Sueur County,LE SUEUR,37.0
+1985-Lincoln County,LINCOLN,28.0
+1985-Lyon County,LYON,36.0
+1985-Mahnomen County,MAHNOMEN,10.0
+1985-Marshall County,MARSHALL,20.0
+1985-Martin County,MARTIN,36.0
+1985-Mcleod County,MCLEOD,33.0
+1985-Meeker County,MEEKER,29.0
+1985-Mille Lacs County,MILLE LACS,27.0
+1985-Morrison County,MORRISON,29.0
+1985-Murray County,MURRAY,32.0
+1985-Nicollet County,NICOLLET,38.0
+1985-Nobles County,NOBLES,29.0
+1985-Norman County,NORMAN,18.0
+1985-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,13.0
+1985-Otter Tail County,OTTER TAIL,27.0
+1985-Pennington County,PENNINGTON,19.0
+1985-Pine County,PINE,25.0
+1985-Pipestone County,PIPESTONE,30.0
+1985-Polk County,POLK,21.0
+1985-Pope County,POPE,27.0
+1985-Ramsey County,RAMSEY,31.0
+1985-Red Lake County,RED LAKE,11.0
+1985-Redwood County,REDWOOD,35.0
+1985-Renville County,RENVILLE,35.0
+1985-Rice County,RICE,30.0
+1985-Rock County,ROCK,34.0
+1985-Roseau County,ROSEAU,9.0
+1985-Scott County,SCOTT,32.0
+1985-Sherburne County,SHERBURNE,34.0
+1985-Sibley County,SIBLEY,36.0
+1985-Stearns County,STEARNS,30.0
+1985-Steele County,STEELE,32.0
+1985-Stevens County,STEVENS,29.0
+1985-Swift County,SWIFT,29.0
+1985-Todd County,TODD,19.0
+1985-Traverse County,TRAVERSE,33.0
+1985-Wadena County,WADENA,20.0
+1985-Waseca County,WASECA,36.0
+1985-Washington County,WASHINGTON,31.0
+1985-Watonwan County,WATONWAN,39.0
+1985-Wilkin County,WILKIN,29.0
+1985-Wright County,WRIGHT,33.0
+1985-Yellow Medicine County,YELLOW MEDICINE,35.0
+1986-Anoka County,ANOKA,29.0
+1986-Becker County,BECKER,30.0
+1986-Beltrami County,BELTRAMI,21.0
+1986-Benton County,BENTON,30.0
+1986-Big Stone County,BIG STONE,33.0
+1986-Blue Earth County,BLUE EARTH,40.0
+1986-Brown County,BROWN,38.0
+1986-Carver County,CARVER,36.0
+1986-Cass County,CASS,24.0
+1986-Chippewa County,CHIPPEWA,33.0
+1986-Chisago County,CHISAGO,30.0
+1986-Clay County,CLAY,35.0
+1986-Clearwater County,CLEARWATER,22.0
+1986-Cottonwood County,COTTONWOOD,36.0
+1986-Douglas County,DOUGLAS,30.0
+1986-Faribault County,FARIBAULT,42.0
+1986-Freeborn County,FREEBORN,41.0
+1986-Grant County,GRANT,30.0
+1986-Hennepin County,HENNEPIN,30.0
+1986-Hubbard County,HUBBARD,25.0
+1986-Isanti County,ISANTI,31.0
+1986-Itasca County,ITASCA,
+1986-Jackson County,JACKSON,36.0
+1986-Kanabec County,KANABEC,29.0
+1986-Kandiyohi County,KANDIYOHI,31.0
+1986-Kittson County,KITTSON,21.0
+1986-Koochiching County,KOOCHICHING,20.0
+1986-Lac Qui Parle County,LAC QUI PARLE,33.0
+1986-Lake Of The Woods County,LAKE OF THE WOODS,20.0
+1986-Le Sueur County,LE SUEUR,40.0
+1986-Lincoln County,LINCOLN,30.0
+1986-Lyon County,LYON,35.0
+1986-Mahnomen County,MAHNOMEN,26.0
+1986-Marshall County,MARSHALL,27.0
+1986-Martin County,MARTIN,44.0
+1986-Mcleod County,MCLEOD,32.0
+1986-Meeker County,MEEKER,30.0
+1986-Mille Lacs County,MILLE LACS,29.0
+1986-Morrison County,MORRISON,29.0
+1986-Murray County,MURRAY,34.0
+1986-Nicollet County,NICOLLET,38.0
+1986-Nobles County,NOBLES,31.0
+1986-Norman County,NORMAN,31.0
+1986-Otter Tail County,OTTER TAIL,32.0
+1986-Pennington County,PENNINGTON,25.0
+1986-Pine County,PINE,29.0
+1986-Pipestone County,PIPESTONE,31.0
+1986-Polk County,POLK,31.0
+1986-Pope County,POPE,30.0
+1986-Ramsey County,RAMSEY,36.0
+1986-Red Lake County,RED LAKE,29.0
+1986-Redwood County,REDWOOD,35.0
+1986-Renville County,RENVILLE,34.0
+1986-Rice County,RICE,41.0
+1986-Rock County,ROCK,31.0
+1986-Roseau County,ROSEAU,23.0
+1986-Scott County,SCOTT,36.0
+1986-Sherburne County,SHERBURNE,40.0
+1986-Sibley County,SIBLEY,34.0
+1986-Stearns County,STEARNS,31.0
+1986-Steele County,STEELE,39.0
+1986-Stevens County,STEVENS,32.0
+1986-Swift County,SWIFT,30.0
+1986-Todd County,TODD,33.0
+1986-Traverse County,TRAVERSE,31.0
+1986-Wadena County,WADENA,30.0
+1986-Waseca County,WASECA,40.0
+1986-Washington County,WASHINGTON,35.0
+1986-Watonwan County,WATONWAN,41.0
+1986-Wilkin County,WILKIN,32.0
+1986-Wright County,WRIGHT,33.0
+1986-Yellow Medicine County,YELLOW MEDICINE,31.0
+1987-Anoka County,ANOKA,31.0
+1987-Becker County,BECKER,35.0
+1987-Benton County,BENTON,31.0
+1987-Big Stone County,BIG STONE,31.0
+1987-Blue Earth County,BLUE EARTH,44.0
+1987-Brown County,BROWN,42.0
+1987-Carver County,CARVER,40.0
+1987-Chippewa County,CHIPPEWA,39.0
+1987-Chisago County,CHISAGO,32.0
+1987-Clay County,CLAY,33.0
+1987-Clearwater County,CLEARWATER,26.0
+1987-Cottonwood County,COTTONWOOD,41.0
+1987-Douglas County,DOUGLAS,30.0
+1987-Faribault County,FARIBAULT,42.0
+1987-Freeborn County,FREEBORN,44.0
+1987-Grant County,GRANT,31.0
+1987-Hennepin County,HENNEPIN,34.0
+1987-Isanti County,ISANTI,31.0
+1987-Jackson County,JACKSON,42.0
+1987-Kanabec County,KANABEC,38.0
+1987-Kandiyohi County,KANDIYOHI,37.0
+1987-Kittson County,KITTSON,24.0
+1987-Lac Qui Parle County,LAC QUI PARLE,34.0
+1987-Le Sueur County,LE SUEUR,42.0
+1987-Lincoln County,LINCOLN,35.0
+1987-Lyon County,LYON,38.0
+1987-Mahnomen County,MAHNOMEN,31.0
+1987-Marshall County,MARSHALL,25.0
+1987-Martin County,MARTIN,44.0
+1987-Mcleod County,MCLEOD,40.0
+1987-Meeker County,MEEKER,38.0
+1987-Mille Lacs County,MILLE LACS,33.0
+1987-Morrison County,MORRISON,20.0
+1987-Murray County,MURRAY,39.0
+1987-Nicollet County,NICOLLET,43.0
+1987-Nobles County,NOBLES,39.0
+1987-Norman County,NORMAN,33.0
+1987-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,24.5
+1987-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,26.0
+1987-Otter Tail County,OTTER TAIL,32.0
+1987-Pennington County,PENNINGTON,30.0
+1987-Pine County,PINE,30.0
+1987-Pipestone County,PIPESTONE,37.0
+1987-Polk County,POLK,31.0
+1987-Pope County,POPE,33.0
+1987-Red Lake County,RED LAKE,31.0
+1987-Redwood County,REDWOOD,40.0
+1987-Renville County,RENVILLE,43.0
+1987-Rice County,RICE,43.0
+1987-Rock County,ROCK,40.0
+1987-Roseau County,ROSEAU,20.0
+1987-Scott County,SCOTT,40.0
+1987-Sherburne County,SHERBURNE,30.0
+1987-Sibley County,SIBLEY,41.0
+1987-Stearns County,STEARNS,32.0
+1987-Steele County,STEELE,44.0
+1987-Stevens County,STEVENS,33.0
+1987-Swift County,SWIFT,33.0
+1987-Todd County,TODD,34.0
+1987-Traverse County,TRAVERSE,30.0
+1987-Wadena County,WADENA,33.0
+1987-Waseca County,WASECA,43.0
+1987-Washington County,WASHINGTON,39.0
+1987-Watonwan County,WATONWAN,43.0
+1987-Wilkin County,WILKIN,30.0
+1987-Wright County,WRIGHT,37.0
+1987-Yellow Medicine County,YELLOW MEDICINE,38.0
+1988-Anoka County,ANOKA,19.0
+1988-Becker County,BECKER,29.0
+1988-Benton County,BENTON,21.0
+1988-Big Stone County,BIG STONE,14.0
+1988-Blue Earth County,BLUE EARTH,33.0
+1988-Brown County,BROWN,24.0
+1988-Carver County,CARVER,22.0
+1988-Chippewa County,CHIPPEWA,18.0
+1988-Chisago County,CHISAGO,22.0
+1988-Clay County,CLAY,19.0
+1988-Clearwater County,CLEARWATER,22.0
+1988-Cottonwood County,COTTONWOOD,29.0
+1988-Crow Wing County,CROW WING,20.0
+1988-Douglas County,DOUGLAS,18.0
+1988-Faribault County,FARIBAULT,35.0
+1988-Freeborn County,FREEBORN,35.0
+1988-Grant County,GRANT,18.0
+1988-Hennepin County,HENNEPIN,18.0
+1988-Isanti County,ISANTI,23.0
+1988-Jackson County,JACKSON,34.0
+1988-Kanabec County,KANABEC,23.0
+1988-Kandiyohi County,KANDIYOHI,24.0
+1988-Kittson County,KITTSON,10.0
+1988-Lac Qui Parle County,LAC QUI PARLE,16.0
+1988-Le Sueur County,LE SUEUR,27.0
+1988-Lincoln County,LINCOLN,22.0
+1988-Lyon County,LYON,20.0
+1988-Mahnomen County,MAHNOMEN,25.0
+1988-Marshall County,MARSHALL,11.0
+1988-Martin County,MARTIN,34.0
+1988-Mcleod County,MCLEOD,29.0
+1988-Meeker County,MEEKER,22.0
+1988-Mille Lacs County,MILLE LACS,19.0
+1988-Morrison County,MORRISON,20.0
+1988-Murray County,MURRAY,31.0
+1988-Nicollet County,NICOLLET,25.0
+1988-Nobles County,NOBLES,35.0
+1988-Norman County,NORMAN,27.0
+1988-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,22.0
+1988-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.7
+1988-Otter Tail County,OTTER TAIL,19.0
+1988-Pennington County,PENNINGTON,19.0
+1988-Pine County,PINE,13.0
+1988-Pipestone County,PIPESTONE,23.0
+1988-Polk County,POLK,19.0
+1988-Pope County,POPE,19.0
+1988-Red Lake County,RED LAKE,19.0
+1988-Redwood County,REDWOOD,24.0
+1988-Renville County,RENVILLE,23.0
+1988-Rice County,RICE,29.0
+1988-Rock County,ROCK,37.0
+1988-Roseau County,ROSEAU,22.0
+1988-Scott County,SCOTT,26.0
+1988-Sherburne County,SHERBURNE,25.0
+1988-Sibley County,SIBLEY,27.0
+1988-Stearns County,STEARNS,21.0
+1988-Steele County,STEELE,31.0
+1988-Stevens County,STEVENS,16.0
+1988-Swift County,SWIFT,19.0
+1988-Todd County,TODD,22.0
+1988-Traverse County,TRAVERSE,14.0
+1988-Wadena County,WADENA,25.0
+1988-Waseca County,WASECA,35.0
+1988-Washington County,WASHINGTON,17.0
+1988-Watonwan County,WATONWAN,30.0
+1988-Wilkin County,WILKIN,16.0
+1988-Wright County,WRIGHT,20.0
+1988-Yellow Medicine County,YELLOW MEDICINE,18.0
+1989-Anoka County,ANOKA,21.0
+1989-Becker County,BECKER,21.0
+1989-Benton County,BENTON,22.0
+1989-Big Stone County,BIG STONE,34.0
+1989-Blue Earth County,BLUE EARTH,43.0
+1989-Brown County,BROWN,42.0
+1989-Carver County,CARVER,41.0
+1989-Chippewa County,CHIPPEWA,32.0
+1989-Chisago County,CHISAGO,25.0
+1989-Clay County,CLAY,22.0
+1989-Clearwater County,CLEARWATER,17.0
+1989-Cottonwood County,COTTONWOOD,40.0
+1989-Douglas County,DOUGLAS,24.0
+1989-Faribault County,FARIBAULT,43.0
+1989-Freeborn County,FREEBORN,43.0
+1989-Grant County,GRANT,30.0
+1989-Hennepin County,HENNEPIN,35.0
+1989-Isanti County,ISANTI,25.0
+1989-Jackson County,JACKSON,41.0
+1989-Kanabec County,KANABEC,21.0
+1989-Kandiyohi County,KANDIYOHI,33.0
+1989-Kittson County,KITTSON,20.0
+1989-Lac Qui Parle County,LAC QUI PARLE,34.0
+1989-Le Sueur County,LE SUEUR,43.0
+1989-Lincoln County,LINCOLN,33.0
+1989-Lyon County,LYON,35.0
+1989-Mahnomen County,MAHNOMEN,24.0
+1989-Marshall County,MARSHALL,14.0
+1989-Martin County,MARTIN,43.0
+1989-Mcleod County,MCLEOD,40.0
+1989-Meeker County,MEEKER,36.0
+1989-Mille Lacs County,MILLE LACS,24.0
+1989-Murray County,MURRAY,37.0
+1989-Nicollet County,NICOLLET,44.0
+1989-Nobles County,NOBLES,41.0
+1989-Norman County,NORMAN,19.0
+1989-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.5
+1989-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,32.5
+1989-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,22.1
+1989-Otter Tail County,OTTER TAIL,33.0
+1989-Pennington County,PENNINGTON,20.0
+1989-Pine County,PINE,20.0
+1989-Pipestone County,PIPESTONE,33.0
+1989-Polk County,POLK,19.0
+1989-Pope County,POPE,32.0
+1989-Red Lake County,RED LAKE,22.0
+1989-Redwood County,REDWOOD,38.0
+1989-Renville County,RENVILLE,40.0
+1989-Rice County,RICE,43.0
+1989-Rock County,ROCK,40.0
+1989-Roseau County,ROSEAU,16.0
+1989-Scott County,SCOTT,41.0
+1989-Sherburne County,SHERBURNE,25.0
+1989-Sibley County,SIBLEY,41.0
+1989-Stearns County,STEARNS,28.0
+1989-Steele County,STEELE,41.0
+1989-Stevens County,STEVENS,36.0
+1989-Swift County,SWIFT,33.0
+1989-Todd County,TODD,19.0
+1989-Traverse County,TRAVERSE,35.0
+1989-Waseca County,WASECA,42.0
+1989-Washington County,WASHINGTON,36.0
+1989-Watonwan County,WATONWAN,41.0
+1989-Wilkin County,WILKIN,24.0
+1989-Wright County,WRIGHT,34.0
+1989-Yellow Medicine County,YELLOW MEDICINE,35.0
+1990-Anoka County,ANOKA,27.0
+1990-Becker County,BECKER,29.0
+1990-Benton County,BENTON,31.0
+1990-Big Stone County,BIG STONE,34.0
+1990-Blue Earth County,BLUE EARTH,41.0
+1990-Brown County,BROWN,42.0
+1990-Carver County,CARVER,42.0
+1990-Chippewa County,CHIPPEWA,41.0
+1990-Chisago County,CHISAGO,28.0
+1990-Clay County,CLAY,26.0
+1990-Clearwater County,CLEARWATER,25.0
+1990-Cottonwood County,COTTONWOOD,43.0
+1990-Douglas County,DOUGLAS,31.0
+1990-Faribault County,FARIBAULT,41.0
+1990-Freeborn County,FREEBORN,41.0
+1990-Grant County,GRANT,31.0
+1990-Hennepin County,HENNEPIN,39.0
+1990-Isanti County,ISANTI,30.0
+1990-Jackson County,JACKSON,44.0
+1990-Kanabec County,KANABEC,28.0
+1990-Kandiyohi County,KANDIYOHI,37.0
+1990-Lac Qui Parle County,LAC QUI PARLE,39.0
+1990-Le Sueur County,LE SUEUR,40.0
+1990-Lincoln County,LINCOLN,39.0
+1990-Lyon County,LYON,40.0
+1990-Mahnomen County,MAHNOMEN,25.0
+1990-Marshall County,MARSHALL,13.0
+1990-Martin County,MARTIN,44.0
+1990-Mcleod County,MCLEOD,38.0
+1990-Meeker County,MEEKER,38.0
+1990-Mille Lacs County,MILLE LACS,30.0
+1990-Murray County,MURRAY,39.0
+1990-Nicollet County,NICOLLET,44.0
+1990-Nobles County,NOBLES,39.0
+1990-Norman County,NORMAN,27.0
+1990-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,25.0
+1990-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,27.8
+1990-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.3
+1990-Otter Tail County,OTTER TAIL,32.0
+1990-Pine County,PINE,32.0
+1990-Pipestone County,PIPESTONE,40.0
+1990-Polk County,POLK,23.0
+1990-Pope County,POPE,33.0
+1990-Red Lake County,RED LAKE,23.0
+1990-Redwood County,REDWOOD,44.0
+1990-Renville County,RENVILLE,43.0
+1990-Rice County,RICE,43.0
+1990-Rock County,ROCK,38.0
+1990-Roseau County,ROSEAU,22.0
+1990-Scott County,SCOTT,39.0
+1990-Sherburne County,SHERBURNE,30.0
+1990-Sibley County,SIBLEY,42.0
+1990-Stearns County,STEARNS,37.0
+1990-Steele County,STEELE,40.0
+1990-Stevens County,STEVENS,34.0
+1990-Swift County,SWIFT,36.0
+1990-Todd County,TODD,32.0
+1990-Traverse County,TRAVERSE,33.0
+1990-Waseca County,WASECA,41.0
+1990-Washington County,WASHINGTON,38.0
+1990-Watonwan County,WATONWAN,45.0
+1990-Wilkin County,WILKIN,23.0
+1990-Wright County,WRIGHT,39.0
+1990-Yellow Medicine County,YELLOW MEDICINE,42.0
+1991-Aitkin County,AITKIN,29.0
+1991-Anoka County,ANOKA,30.0
+1991-Becker County,BECKER,35.0
+1991-Benton County,BENTON,29.0
+1991-Big Stone County,BIG STONE,38.0
+1991-Blue Earth County,BLUE EARTH,30.0
+1991-Brown County,BROWN,37.0
+1991-Carver County,CARVER,41.0
+1991-Chippewa County,CHIPPEWA,40.0
+1991-Chisago County,CHISAGO,28.0
+1991-Clay County,CLAY,34.0
+1991-Cottonwood County,COTTONWOOD,34.0
+1991-Douglas County,DOUGLAS,34.0
+1991-Faribault County,FARIBAULT,31.0
+1991-Freeborn County,FREEBORN,37.0
+1991-Grant County,GRANT,37.0
+1991-Hennepin County,HENNEPIN,39.0
+1991-Isanti County,ISANTI,28.0
+1991-Jackson County,JACKSON,33.0
+1991-Kanabec County,KANABEC,32.0
+1991-Kandiyohi County,KANDIYOHI,37.0
+1991-Lac Qui Parle County,LAC QUI PARLE,37.0
+1991-Lake Of The Woods County,LAKE OF THE WOODS,25.0
+1991-Le Sueur County,LE SUEUR,37.0
+1991-Lincoln County,LINCOLN,39.0
+1991-Lyon County,LYON,41.0
+1991-Mahnomen County,MAHNOMEN,36.0
+1991-Marshall County,MARSHALL,34.0
+1991-Martin County,MARTIN,30.0
+1991-Mcleod County,MCLEOD,40.0
+1991-Meeker County,MEEKER,38.0
+1991-Mille Lacs County,MILLE LACS,32.0
+1991-Murray County,MURRAY,36.0
+1991-Nicollet County,NICOLLET,40.0
+1991-Nobles County,NOBLES,37.0
+1991-Norman County,NORMAN,36.0
+1991-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,32.9
+1991-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,30.0
+1991-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,34.9
+1991-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,31.1
+1991-Otter Tail County,OTTER TAIL,31.0
+1991-Pine County,PINE,28.0
+1991-Pipestone County,PIPESTONE,37.0
+1991-Polk County,POLK,37.0
+1991-Pope County,POPE,37.0
+1991-Red Lake County,RED LAKE,34.0
+1991-Redwood County,REDWOOD,38.0
+1991-Renville County,RENVILLE,40.0
+1991-Rice County,RICE,32.0
+1991-Rock County,ROCK,38.0
+1991-Roseau County,ROSEAU,26.0
+1991-Scott County,SCOTT,39.0
+1991-Sherburne County,SHERBURNE,30.0
+1991-Sibley County,SIBLEY,40.0
+1991-Stearns County,STEARNS,41.0
+1991-Steele County,STEELE,39.0
+1991-Stevens County,STEVENS,40.0
+1991-Swift County,SWIFT,38.0
+1991-Todd County,TODD,31.0
+1991-Traverse County,TRAVERSE,36.0
+1991-Waseca County,WASECA,36.0
+1991-Washington County,WASHINGTON,40.0
+1991-Watonwan County,WATONWAN,28.0
+1991-Wilkin County,WILKIN,34.0
+1991-Wright County,WRIGHT,41.0
+1991-Yellow Medicine County,YELLOW MEDICINE,40.0
+1992-Aitkin County,AITKIN,11.0
+1992-Anoka County,ANOKA,20.0
+1992-Becker County,BECKER,21.0
+1992-Benton County,BENTON,20.0
+1992-Big Stone County,BIG STONE,25.0
+1992-Blue Earth County,BLUE EARTH,39.0
+1992-Brown County,BROWN,38.0
+1992-Carver County,CARVER,31.0
+1992-Chippewa County,CHIPPEWA,31.0
+1992-Chisago County,CHISAGO,18.0
+1992-Clay County,CLAY,28.0
+1992-Cottonwood County,COTTONWOOD,36.0
+1992-Douglas County,DOUGLAS,18.0
+1992-Faribault County,FARIBAULT,39.0
+1992-Freeborn County,FREEBORN,36.0
+1992-Grant County,GRANT,28.0
+1992-Hennepin County,HENNEPIN,29.0
+1992-Isanti County,ISANTI,15.0
+1992-Jackson County,JACKSON,36.0
+1992-Kanabec County,KANABEC,18.0
+1992-Kandiyohi County,KANDIYOHI,29.0
+1992-Lac Qui Parle County,LAC QUI PARLE,28.0
+1992-Lake Of The Woods County,LAKE OF THE WOODS,7.0
+1992-Le Sueur County,LE SUEUR,35.0
+1992-Lincoln County,LINCOLN,25.0
+1992-Lyon County,LYON,36.0
+1992-Mahnomen County,MAHNOMEN,22.0
+1992-Marshall County,MARSHALL,19.0
+1992-Martin County,MARTIN,38.0
+1992-Mcleod County,MCLEOD,33.0
+1992-Meeker County,MEEKER,28.0
+1992-Mille Lacs County,MILLE LACS,18.0
+1992-Murray County,MURRAY,33.0
+1992-Nicollet County,NICOLLET,40.0
+1992-Nobles County,NOBLES,29.0
+1992-Norman County,NORMAN,25.0
+1992-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,20.0
+1992-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,15.1
+1992-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,15.5
+1992-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,
+1992-Otter Tail County,OTTER TAIL,22.0
+1992-Pennington County,PENNINGTON,20.0
+1992-Pine County,PINE,18.0
+1992-Pipestone County,PIPESTONE,23.0
+1992-Polk County,POLK,22.0
+1992-Pope County,POPE,25.0
+1992-Red Lake County,RED LAKE,18.0
+1992-Redwood County,REDWOOD,39.0
+1992-Renville County,RENVILLE,34.0
+1992-Rice County,RICE,37.0
+1992-Rock County,ROCK,28.0
+1992-Roseau County,ROSEAU,12.0
+1992-Scott County,SCOTT,33.0
+1992-Sherburne County,SHERBURNE,21.0
+1992-Sibley County,SIBLEY,37.0
+1992-Stearns County,STEARNS,23.0
+1992-Steele County,STEELE,33.0
+1992-Stevens County,STEVENS,26.0
+1992-Swift County,SWIFT,28.0
+1992-Todd County,TODD,15.0
+1992-Traverse County,TRAVERSE,30.0
+1992-Waseca County,WASECA,38.0
+1992-Washington County,WASHINGTON,30.0
+1992-Watonwan County,WATONWAN,39.0
+1992-Wilkin County,WILKIN,30.0
+1992-Wright County,WRIGHT,29.0
+1992-Yellow Medicine County,YELLOW MEDICINE,32.0
+1993-Anoka County,ANOKA,25.0
+1993-Becker County,BECKER,17.0
+1993-Benton County,BENTON,28.0
+1993-Big Stone County,BIG STONE,19.0
+1993-Blue Earth County,BLUE EARTH,31.0
+1993-Brown County,BROWN,25.0
+1993-Carver County,CARVER,29.0
+1993-Chippewa County,CHIPPEWA,21.0
+1993-Chisago County,CHISAGO,19.0
+1993-Clay County,CLAY,20.0
+1993-Cottonwood County,COTTONWOOD,19.0
+1993-Douglas County,DOUGLAS,21.0
+1993-Faribault County,FARIBAULT,25.0
+1993-Freeborn County,FREEBORN,24.0
+1993-Grant County,GRANT,20.0
+1993-Hennepin County,HENNEPIN,29.0
+1993-Isanti County,ISANTI,26.0
+1993-Jackson County,JACKSON,20.0
+1993-Kanabec County,KANABEC,28.0
+1993-Kandiyohi County,KANDIYOHI,21.0
+1993-Lac Qui Parle County,LAC QUI PARLE,20.0
+1993-Le Sueur County,LE SUEUR,31.0
+1993-Lincoln County,LINCOLN,13.0
+1993-Lyon County,LYON,17.0
+1993-Mahnomen County,MAHNOMEN,19.0
+1993-Marshall County,MARSHALL,24.0
+1993-Martin County,MARTIN,22.0
+1993-Mcleod County,MCLEOD,27.0
+1993-Meeker County,MEEKER,25.0
+1993-Mille Lacs County,MILLE LACS,25.0
+1993-Murray County,MURRAY,13.0
+1993-Nicollet County,NICOLLET,31.0
+1993-Nobles County,NOBLES,12.0
+1993-Norman County,NORMAN,28.0
+1993-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.1
+1993-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.3
+1993-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,19.5
+1993-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,23.0
+1993-Otter Tail County,OTTER TAIL,24.0
+1993-Pine County,PINE,25.0
+1993-Pipestone County,PIPESTONE,13.0
+1993-Polk County,POLK,28.0
+1993-Pope County,POPE,23.0
+1993-Red Lake County,RED LAKE,25.0
+1993-Redwood County,REDWOOD,23.0
+1993-Renville County,RENVILLE,22.0
+1993-Rice County,RICE,34.0
+1993-Rock County,ROCK,11.0
+1993-Roseau County,ROSEAU,13.0
+1993-Scott County,SCOTT,37.0
+1993-Sherburne County,SHERBURNE,26.0
+1993-Sibley County,SIBLEY,28.0
+1993-Stearns County,STEARNS,20.0
+1993-Steele County,STEELE,23.0
+1993-Stevens County,STEVENS,23.0
+1993-Swift County,SWIFT,22.0
+1993-Todd County,TODD,20.0
+1993-Traverse County,TRAVERSE,17.0
+1993-Waseca County,WASECA,26.0
+1993-Washington County,WASHINGTON,39.0
+1993-Watonwan County,WATONWAN,28.0
+1993-Wilkin County,WILKIN,21.0
+1993-Wright County,WRIGHT,33.0
+1993-Yellow Medicine County,YELLOW MEDICINE,23.0
+1994-Anoka County,ANOKA,32.0
+1994-Becker County,BECKER,26.0
+1994-Benton County,BENTON,35.0
+1994-Big Stone County,BIG STONE,29.0
+1994-Blue Earth County,BLUE EARTH,44.0
+1994-Brown County,BROWN,44.0
+1994-Carver County,CARVER,38.0
+1994-Chippewa County,CHIPPEWA,39.0
+1994-Chisago County,CHISAGO,28.0
+1994-Clay County,CLAY,29.0
+1994-Cottonwood County,COTTONWOOD,42.0
+1994-Douglas County,DOUGLAS,32.0
+1994-Faribault County,FARIBAULT,43.0
+1994-Freeborn County,FREEBORN,44.0
+1994-Grant County,GRANT,33.0
+1994-Hennepin County,HENNEPIN,42.0
+1994-Isanti County,ISANTI,32.0
+1994-Jackson County,JACKSON,40.0
+1994-Kanabec County,KANABEC,30.0
+1994-Kandiyohi County,KANDIYOHI,43.0
+1994-Lac Qui Parle County,LAC QUI PARLE,36.0
+1994-Le Sueur County,LE SUEUR,42.0
+1994-Lincoln County,LINCOLN,39.0
+1994-Lyon County,LYON,41.0
+1994-Mahnomen County,MAHNOMEN,31.0
+1994-Marshall County,MARSHALL,31.0
+1994-Martin County,MARTIN,43.0
+1994-Mcleod County,MCLEOD,42.0
+1994-Meeker County,MEEKER,44.0
+1994-Mille Lacs County,MILLE LACS,28.0
+1994-Murray County,MURRAY,42.0
+1994-Nicollet County,NICOLLET,44.0
+1994-Nobles County,NOBLES,41.0
+1994-Norman County,NORMAN,30.0
+1994-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,27.2
+1994-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,31.0
+1994-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,24.9
+1994-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,30.7
+1994-Otter Tail County,OTTER TAIL,35.0
+1994-Pine County,PINE,33.0
+1994-Pipestone County,PIPESTONE,40.0
+1994-Polk County,POLK,27.0
+1994-Pope County,POPE,34.0
+1994-Red Lake County,RED LAKE,28.0
+1994-Redwood County,REDWOOD,43.0
+1994-Renville County,RENVILLE,44.0
+1994-Rice County,RICE,44.0
+1994-Rock County,ROCK,44.0
+1994-Roseau County,ROSEAU,28.0
+1994-Scott County,SCOTT,43.0
+1994-Sherburne County,SHERBURNE,37.0
+1994-Sibley County,SIBLEY,43.0
+1994-Stearns County,STEARNS,35.0
+1994-Steele County,STEELE,44.0
+1994-Stevens County,STEVENS,33.0
+1994-Swift County,SWIFT,37.0
+1994-Todd County,TODD,30.0
+1994-Traverse County,TRAVERSE,27.0
+1994-Waseca County,WASECA,44.0
+1994-Washington County,WASHINGTON,40.0
+1994-Watonwan County,WATONWAN,43.0
+1994-Wilkin County,WILKIN,34.0
+1994-Wright County,WRIGHT,41.0
+1994-Yellow Medicine County,YELLOW MEDICINE,39.0
+1995-Aitkin County,AITKIN,33.0
+1995-Anoka County,ANOKA,33.0
+1995-Becker County,BECKER,31.0
+1995-Benton County,BENTON,34.0
+1995-Big Stone County,BIG STONE,29.0
+1995-Blue Earth County,BLUE EARTH,43.0
+1995-Brown County,BROWN,44.0
+1995-Carver County,CARVER,44.0
+1995-Chippewa County,CHIPPEWA,37.0
+1995-Chisago County,CHISAGO,28.0
+1995-Clay County,CLAY,31.0
+1995-Cottonwood County,COTTONWOOD,43.0
+1995-Douglas County,DOUGLAS,34.0
+1995-Faribault County,FARIBAULT,46.0
+1995-Freeborn County,FREEBORN,46.0
+1995-Grant County,GRANT,38.0
+1995-Hennepin County,HENNEPIN,40.0
+1995-Isanti County,ISANTI,33.0
+1995-Jackson County,JACKSON,42.0
+1995-Kanabec County,KANABEC,31.0
+1995-Kandiyohi County,KANDIYOHI,42.0
+1995-Lac Qui Parle County,LAC QUI PARLE,33.0
+1995-Le Sueur County,LE SUEUR,46.0
+1995-Lincoln County,LINCOLN,31.0
+1995-Lyon County,LYON,37.0
+1995-Mahnomen County,MAHNOMEN,31.0
+1995-Marshall County,MARSHALL,27.0
+1995-Martin County,MARTIN,46.0
+1995-Mcleod County,MCLEOD,44.0
+1995-Meeker County,MEEKER,39.0
+1995-Mille Lacs County,MILLE LACS,33.0
+1995-Murray County,MURRAY,40.0
+1995-Nicollet County,NICOLLET,48.0
+1995-Nobles County,NOBLES,41.0
+1995-Norman County,NORMAN,30.0
+1995-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,31.0
+1995-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,31.0
+1995-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,37.0
+1995-Otter Tail County,OTTER TAIL,38.0
+1995-Pine County,PINE,34.0
+1995-Pipestone County,PIPESTONE,35.0
+1995-Polk County,POLK,30.0
+1995-Pope County,POPE,38.0
+1995-Red Lake County,RED LAKE,25.0
+1995-Redwood County,REDWOOD,43.0
+1995-Renville County,RENVILLE,44.0
+1995-Rice County,RICE,47.0
+1995-Rock County,ROCK,41.0
+1995-Roseau County,ROSEAU,30.0
+1995-Scott County,SCOTT,43.0
+1995-Sherburne County,SHERBURNE,31.0
+1995-Sibley County,SIBLEY,47.0
+1995-Stearns County,STEARNS,37.0
+1995-Steele County,STEELE,46.0
+1995-Stevens County,STEVENS,39.0
+1995-Swift County,SWIFT,32.0
+1995-Todd County,TODD,32.0
+1995-Traverse County,TRAVERSE,34.0
+1995-Waseca County,WASECA,45.0
+1995-Washington County,WASHINGTON,41.0
+1995-Watonwan County,WATONWAN,46.0
+1995-Wilkin County,WILKIN,30.0
+1995-Wright County,WRIGHT,39.0
+1995-Yellow Medicine County,YELLOW MEDICINE,36.0
+1996-Aitkin County,AITKIN,28.0
+1996-Anoka County,ANOKA,20.0
+1996-Becker County,BECKER,30.0
+1996-Benton County,BENTON,27.0
+1996-Big Stone County,BIG STONE,32.0
+1996-Blue Earth County,BLUE EARTH,42.0
+1996-Brown County,BROWN,44.0
+1996-Carver County,CARVER,41.0
+1996-Chippewa County,CHIPPEWA,37.0
+1996-Chisago County,CHISAGO,21.0
+1996-Clay County,CLAY,30.0
+1996-Cottonwood County,COTTONWOOD,43.0
+1996-Douglas County,DOUGLAS,30.0
+1996-Faribault County,FARIBAULT,43.0
+1996-Freeborn County,FREEBORN,42.0
+1996-Grant County,GRANT,35.0
+1996-Hennepin County,HENNEPIN,36.0
+1996-Isanti County,ISANTI,21.0
+1996-Jackson County,JACKSON,43.0
+1996-Kanabec County,KANABEC,20.0
+1996-Kandiyohi County,KANDIYOHI,36.0
+1996-Kittson County,KITTSON,18.0
+1996-Lac Qui Parle County,LAC QUI PARLE,34.0
+1996-Le Sueur County,LE SUEUR,39.0
+1996-Lincoln County,LINCOLN,32.0
+1996-Lyon County,LYON,40.0
+1996-Mahnomen County,MAHNOMEN,34.0
+1996-Marshall County,MARSHALL,29.0
+1996-Martin County,MARTIN,43.0
+1996-Mcleod County,MCLEOD,38.0
+1996-Meeker County,MEEKER,35.0
+1996-Mille Lacs County,MILLE LACS,29.0
+1996-Murray County,MURRAY,38.0
+1996-Nicollet County,NICOLLET,42.0
+1996-Nobles County,NOBLES,40.0
+1996-Norman County,NORMAN,29.0
+1996-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,30.0
+1996-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,22.0
+1996-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,34.0
+1996-Otter Tail County,OTTER TAIL,32.0
+1996-Pennington County,PENNINGTON,25.0
+1996-Pine County,PINE,23.0
+1996-Pipestone County,PIPESTONE,36.0
+1996-Polk County,POLK,28.0
+1996-Pope County,POPE,33.0
+1996-Red Lake County,RED LAKE,25.0
+1996-Redwood County,REDWOOD,43.0
+1996-Renville County,RENVILLE,41.0
+1996-Rice County,RICE,39.0
+1996-Rock County,ROCK,42.0
+1996-Scott County,SCOTT,39.0
+1996-Sherburne County,SHERBURNE,27.0
+1996-Sibley County,SIBLEY,43.0
+1996-Stearns County,STEARNS,32.0
+1996-Steele County,STEELE,39.0
+1996-Stevens County,STEVENS,34.0
+1996-Swift County,SWIFT,36.0
+1996-Todd County,TODD,25.0
+1996-Traverse County,TRAVERSE,33.0
+1996-Waseca County,WASECA,41.0
+1996-Washington County,WASHINGTON,34.0
+1996-Watonwan County,WATONWAN,43.0
+1996-Wilkin County,WILKIN,30.0
+1996-Wright County,WRIGHT,34.0
+1996-Yellow Medicine County,YELLOW MEDICINE,38.0
+1997-Aitkin County,AITKIN,26.0
+1997-Anoka County,ANOKA,28.0
+1997-Becker County,BECKER,32.0
+1997-Benton County,BENTON,35.0
+1997-Big Stone County,BIG STONE,35.0
+1997-Blue Earth County,BLUE EARTH,43.0
+1997-Brown County,BROWN,43.0
+1997-Carver County,CARVER,40.0
+1997-Chippewa County,CHIPPEWA,37.0
+1997-Chisago County,CHISAGO,30.0
+1997-Clay County,CLAY,34.0
+1997-Clearwater County,CLEARWATER,28.0
+1997-Cottonwood County,COTTONWOOD,42.0
+1997-Douglas County,DOUGLAS,36.0
+1997-Faribault County,FARIBAULT,44.0
+1997-Freeborn County,FREEBORN,45.0
+1997-Grant County,GRANT,38.0
+1997-Hennepin County,HENNEPIN,38.0
+1997-Isanti County,ISANTI,27.0
+1997-Jackson County,JACKSON,41.0
+1997-Kanabec County,KANABEC,31.0
+1997-Kandiyohi County,KANDIYOHI,38.0
+1997-Kittson County,KITTSON,29.0
+1997-Lac Qui Parle County,LAC QUI PARLE,37.0
+1997-Le Sueur County,LE SUEUR,41.0
+1997-Lincoln County,LINCOLN,32.0
+1997-Lyon County,LYON,37.0
+1997-Mahnomen County,MAHNOMEN,33.0
+1997-Marshall County,MARSHALL,32.0
+1997-Martin County,MARTIN,44.0
+1997-Mcleod County,MCLEOD,36.0
+1997-Meeker County,MEEKER,35.0
+1997-Mille Lacs County,MILLE LACS,32.0
+1997-Morrison County,MORRISON,36.0
+1997-Murray County,MURRAY,37.0
+1997-Nicollet County,NICOLLET,42.0
+1997-Nobles County,NOBLES,39.0
+1997-Norman County,NORMAN,29.0
+1997-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,30.4
+1997-Otter Tail County,OTTER TAIL,35.0
+1997-Pennington County,PENNINGTON,29.0
+1997-Pine County,PINE,33.0
+1997-Pipestone County,PIPESTONE,35.0
+1997-Polk County,POLK,30.0
+1997-Pope County,POPE,38.0
+1997-Red Lake County,RED LAKE,29.0
+1997-Redwood County,REDWOOD,41.0
+1997-Renville County,RENVILLE,40.0
+1997-Rice County,RICE,43.0
+1997-Rock County,ROCK,40.0
+1997-Roseau County,ROSEAU,25.0
+1997-Scott County,SCOTT,42.0
+1997-Sherburne County,SHERBURNE,36.0
+1997-Sibley County,SIBLEY,38.0
+1997-Stearns County,STEARNS,39.0
+1997-Steele County,STEELE,42.0
+1997-Stevens County,STEVENS,39.0
+1997-Swift County,SWIFT,36.0
+1997-Todd County,TODD,34.0
+1997-Traverse County,TRAVERSE,37.0
+1997-Wadena County,WADENA,36.0
+1997-Waseca County,WASECA,43.0
+1997-Washington County,WASHINGTON,39.0
+1997-Watonwan County,WATONWAN,43.0
+1997-Wilkin County,WILKIN,34.0
+1997-Wright County,WRIGHT,38.0
+1997-Yellow Medicine County,YELLOW MEDICINE,37.0
+1998-Anoka County,ANOKA,31.0
+1998-Becker County,BECKER,28.0
+1998-Benton County,BENTON,37.0
+1998-Big Stone County,BIG STONE,37.0
+1998-Blue Earth County,BLUE EARTH,49.0
+1998-Brown County,BROWN,42.0
+1998-Carver County,CARVER,51.0
+1998-Chippewa County,CHIPPEWA,44.0
+1998-Chisago County,CHISAGO,36.0
+1998-Clay County,CLAY,31.0
+1998-Clearwater County,CLEARWATER,28.0
+1998-Cottonwood County,COTTONWOOD,46.0
+1998-Douglas County,DOUGLAS,35.0
+1998-Faribault County,FARIBAULT,46.0
+1998-Freeborn County,FREEBORN,46.0
+1998-Grant County,GRANT,36.0
+1998-Hennepin County,HENNEPIN,44.0
+1998-Isanti County,ISANTI,33.0
+1998-Jackson County,JACKSON,44.0
+1998-Kanabec County,KANABEC,29.0
+1998-Kandiyohi County,KANDIYOHI,45.0
+1998-Kittson County,KITTSON,29.0
+1998-Lac Qui Parle County,LAC QUI PARLE,40.0
+1998-Le Sueur County,LE SUEUR,47.0
+1998-Lincoln County,LINCOLN,41.0
+1998-Lyon County,LYON,44.0
+1998-Mahnomen County,MAHNOMEN,34.0
+1998-Marshall County,MARSHALL,29.0
+1998-Martin County,MARTIN,47.0
+1998-Mcleod County,MCLEOD,47.0
+1998-Meeker County,MEEKER,39.0
+1998-Mille Lacs County,MILLE LACS,29.0
+1998-Morrison County,MORRISON,26.0
+1998-Murray County,MURRAY,46.0
+1998-Nicollet County,NICOLLET,48.0
+1998-Nobles County,NOBLES,47.0
+1998-Norman County,NORMAN,31.0
+1998-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,29.7
+1998-Otter Tail County,OTTER TAIL,31.0
+1998-Pennington County,PENNINGTON,24.0
+1998-Pine County,PINE,28.0
+1998-Pipestone County,PIPESTONE,42.0
+1998-Polk County,POLK,31.0
+1998-Pope County,POPE,39.0
+1998-Red Lake County,RED LAKE,28.0
+1998-Redwood County,REDWOOD,43.0
+1998-Renville County,RENVILLE,45.0
+1998-Rice County,RICE,47.0
+1998-Rock County,ROCK,45.0
+1998-Roseau County,ROSEAU,25.0
+1998-Scott County,SCOTT,42.0
+1998-Sherburne County,SHERBURNE,31.0
+1998-Sibley County,SIBLEY,47.0
+1998-Stearns County,STEARNS,43.0
+1998-Steele County,STEELE,49.0
+1998-Stevens County,STEVENS,40.0
+1998-Swift County,SWIFT,39.0
+1998-Todd County,TODD,28.0
+1998-Traverse County,TRAVERSE,37.0
+1998-Wadena County,WADENA,28.0
+1998-Waseca County,WASECA,48.0
+1998-Washington County,WASHINGTON,41.0
+1998-Watonwan County,WATONWAN,45.0
+1998-Wilkin County,WILKIN,30.0
+1998-Wright County,WRIGHT,44.0
+1998-Yellow Medicine County,YELLOW MEDICINE,41.0
+1999-Anoka County,ANOKA,37.0
+1999-Becker County,BECKER,28.0
+1999-Benton County,BENTON,40.0
+1999-Big Stone County,BIG STONE,39.0
+1999-Blue Earth County,BLUE EARTH,45.0
+1999-Brown County,BROWN,45.0
+1999-Carver County,CARVER,50.0
+1999-Chippewa County,CHIPPEWA,45.0
+1999-Chisago County,CHISAGO,35.0
+1999-Clay County,CLAY,35.0
+1999-Clearwater County,CLEARWATER,29.0
+1999-Cottonwood County,COTTONWOOD,43.0
+1999-Douglas County,DOUGLAS,41.0
+1999-Faribault County,FARIBAULT,43.0
+1999-Freeborn County,FREEBORN,41.0
+1999-Grant County,GRANT,41.0
+1999-Hennepin County,HENNEPIN,41.0
+1999-Isanti County,ISANTI,33.0
+1999-Jackson County,JACKSON,42.0
+1999-Kanabec County,KANABEC,37.0
+1999-Kandiyohi County,KANDIYOHI,46.0
+1999-Kittson County,KITTSON,34.0
+1999-Lac Qui Parle County,LAC QUI PARLE,40.0
+1999-Le Sueur County,LE SUEUR,45.0
+1999-Lincoln County,LINCOLN,38.0
+1999-Lyon County,LYON,43.0
+1999-Mahnomen County,MAHNOMEN,28.0
+1999-Marshall County,MARSHALL,23.0
+1999-Martin County,MARTIN,42.0
+1999-Mcleod County,MCLEOD,48.0
+1999-Meeker County,MEEKER,43.0
+1999-Mille Lacs County,MILLE LACS,37.0
+1999-Morrison County,MORRISON,40.0
+1999-Murray County,MURRAY,43.0
+1999-Nicollet County,NICOLLET,49.0
+1999-Nobles County,NOBLES,43.0
+1999-Norman County,NORMAN,30.0
+1999-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,33.0
+1999-Otter Tail County,OTTER TAIL,41.0
+1999-Pennington County,PENNINGTON,26.0
+1999-Pine County,PINE,36.0
+1999-Pipestone County,PIPESTONE,42.0
+1999-Polk County,POLK,30.0
+1999-Pope County,POPE,43.0
+1999-Red Lake County,RED LAKE,26.0
+1999-Redwood County,REDWOOD,46.0
+1999-Renville County,RENVILLE,47.0
+1999-Rice County,RICE,48.0
+1999-Rock County,ROCK,49.0
+1999-Roseau County,ROSEAU,25.0
+1999-Scott County,SCOTT,43.0
+1999-Sherburne County,SHERBURNE,37.0
+1999-Sibley County,SIBLEY,48.0
+1999-Stearns County,STEARNS,42.0
+1999-Steele County,STEELE,43.0
+1999-Stevens County,STEVENS,41.0
+1999-Swift County,SWIFT,41.0
+1999-Todd County,TODD,39.0
+1999-Traverse County,TRAVERSE,40.0
+1999-Wadena County,WADENA,36.0
+1999-Waseca County,WASECA,45.0
+1999-Washington County,WASHINGTON,43.0
+1999-Watonwan County,WATONWAN,44.0
+1999-Wilkin County,WILKIN,39.0
+1999-Wright County,WRIGHT,43.0
+1999-Yellow Medicine County,YELLOW MEDICINE,43.0
+2000-Anoka County,ANOKA,27.0
+2000-Becker County,BECKER,30.0
+2000-Benton County,BENTON,33.0
+2000-Big Stone County,BIG STONE,39.0
+2000-Blue Earth County,BLUE EARTH,45.0
+2000-Brown County,BROWN,45.0
+2000-Carver County,CARVER,50.0
+2000-Chippewa County,CHIPPEWA,42.0
+2000-Chisago County,CHISAGO,30.0
+2000-Clay County,CLAY,33.0
+2000-Clearwater County,CLEARWATER,30.0
+2000-Cottonwood County,COTTONWOOD,42.0
+2000-Douglas County,DOUGLAS,37.0
+2000-Faribault County,FARIBAULT,46.0
+2000-Freeborn County,FREEBORN,45.0
+2000-Grant County,GRANT,38.0
+2000-Hennepin County,HENNEPIN,40.0
+2000-Isanti County,ISANTI,27.0
+2000-Jackson County,JACKSON,42.0
+2000-Kanabec County,KANABEC,33.0
+2000-Kandiyohi County,KANDIYOHI,42.0
+2000-Kittson County,KITTSON,31.0
+2000-Lac Qui Parle County,LAC QUI PARLE,38.0
+2000-Le Sueur County,LE SUEUR,48.0
+2000-Lincoln County,LINCOLN,39.0
+2000-Lyon County,LYON,40.0
+2000-Mahnomen County,MAHNOMEN,34.0
+2000-Marshall County,MARSHALL,31.0
+2000-Martin County,MARTIN,45.0
+2000-Mcleod County,MCLEOD,46.0
+2000-Meeker County,MEEKER,40.0
+2000-Mille Lacs County,MILLE LACS,34.0
+2000-Morrison County,MORRISON,34.0
+2000-Murray County,MURRAY,43.0
+2000-Nicollet County,NICOLLET,48.0
+2000-Nobles County,NOBLES,44.0
+2000-Norman County,NORMAN,32.0
+2000-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,26.5
+2000-Otter Tail County,OTTER TAIL,36.0
+2000-Pennington County,PENNINGTON,27.0
+2000-Pine County,PINE,32.0
+2000-Pipestone County,PIPESTONE,40.0
+2000-Polk County,POLK,32.0
+2000-Pope County,POPE,41.0
+2000-Red Lake County,RED LAKE,31.0
+2000-Redwood County,REDWOOD,43.0
+2000-Renville County,RENVILLE,45.0
+2000-Rice County,RICE,48.0
+2000-Rock County,ROCK,47.0
+2000-Roseau County,ROSEAU,30.0
+2000-Scott County,SCOTT,51.0
+2000-Sherburne County,SHERBURNE,31.0
+2000-Sibley County,SIBLEY,47.0
+2000-Stearns County,STEARNS,37.0
+2000-Steele County,STEELE,46.0
+2000-Stevens County,STEVENS,42.0
+2000-Swift County,SWIFT,39.0
+2000-Todd County,TODD,37.0
+2000-Traverse County,TRAVERSE,38.0
+2000-Wadena County,WADENA,28.0
+2000-Waseca County,WASECA,46.0
+2000-Washington County,WASHINGTON,42.0
+2000-Watonwan County,WATONWAN,43.0
+2000-Wilkin County,WILKIN,33.0
+2000-Wright County,WRIGHT,39.0
+2000-Yellow Medicine County,YELLOW MEDICINE,39.0
+2001-Anoka County,ANOKA,29.0
+2001-Becker County,BECKER,33.0
+2001-Benton County,BENTON,25.0
+2001-Big Stone County,BIG STONE,34.0
+2001-Blue Earth County,BLUE EARTH,38.0
+2001-Brown County,BROWN,42.0
+2001-Carver County,CARVER,41.0
+2001-Chippewa County,CHIPPEWA,40.0
+2001-Chisago County,CHISAGO,29.0
+2001-Clay County,CLAY,34.0
+2001-Clearwater County,CLEARWATER,30.0
+2001-Cottonwood County,COTTONWOOD,38.0
+2001-Douglas County,DOUGLAS,34.0
+2001-Faribault County,FARIBAULT,35.0
+2001-Freeborn County,FREEBORN,37.0
+2001-Grant County,GRANT,39.0
+2001-Hennepin County,HENNEPIN,39.0
+2001-Isanti County,ISANTI,26.0
+2001-Jackson County,JACKSON,36.0
+2001-Kanabec County,KANABEC,25.0
+2001-Kandiyohi County,KANDIYOHI,38.0
+2001-Kittson County,KITTSON,28.0
+2001-Lac Qui Parle County,LAC QUI PARLE,37.0
+2001-Le Sueur County,LE SUEUR,41.0
+2001-Lincoln County,LINCOLN,36.0
+2001-Lyon County,LYON,40.0
+2001-Mahnomen County,MAHNOMEN,35.0
+2001-Marshall County,MARSHALL,32.0
+2001-Martin County,MARTIN,35.0
+2001-Mcleod County,MCLEOD,39.0
+2001-Meeker County,MEEKER,35.0
+2001-Mille Lacs County,MILLE LACS,32.0
+2001-Morrison County,MORRISON,25.0
+2001-Murray County,MURRAY,39.0
+2001-Nicollet County,NICOLLET,42.0
+2001-Nobles County,NOBLES,38.0
+2001-Norman County,NORMAN,33.0
+2001-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,31.9
+2001-Otter Tail County,OTTER TAIL,33.0
+2001-Pennington County,PENNINGTON,30.0
+2001-Pine County,PINE,29.0
+2001-Pipestone County,PIPESTONE,39.0
+2001-Polk County,POLK,32.0
+2001-Pope County,POPE,38.0
+2001-Red Lake County,RED LAKE,29.0
+2001-Redwood County,REDWOOD,38.0
+2001-Renville County,RENVILLE,39.0
+2001-Rice County,RICE,41.0
+2001-Rock County,ROCK,43.0
+2001-Roseau County,ROSEAU,29.0
+2001-Scott County,SCOTT,40.0
+2001-Sherburne County,SHERBURNE,27.0
+2001-Sibley County,SIBLEY,41.0
+2001-Stearns County,STEARNS,31.0
+2001-Steele County,STEELE,40.0
+2001-Stevens County,STEVENS,39.0
+2001-Swift County,SWIFT,37.0
+2001-Todd County,TODD,34.0
+2001-Traverse County,TRAVERSE,39.0
+2001-Wadena County,WADENA,34.0
+2001-Waseca County,WASECA,41.0
+2001-Washington County,WASHINGTON,30.0
+2001-Watonwan County,WATONWAN,39.0
+2001-Wilkin County,WILKIN,33.0
+2001-Wright County,WRIGHT,37.0
+2001-Yellow Medicine County,YELLOW MEDICINE,39.0
+2002-Aitkin County,AITKIN,30.0
+2002-Anoka County,ANOKA,32.0
+2002-Becker County,BECKER,34.0
+2002-Beltrami County,BELTRAMI,34.0
+2002-Benton County,BENTON,38.0
+2002-Big Stone County,BIG STONE,39.0
+2002-Blue Earth County,BLUE EARTH,50.0
+2002-Brown County,BROWN,45.0
+2002-Carver County,CARVER,49.0
+2002-Cass County,CASS,42.0
+2002-Chippewa County,CHIPPEWA,45.0
+2002-Chisago County,CHISAGO,42.0
+2002-Clay County,CLAY,35.0
+2002-Clearwater County,CLEARWATER,33.0
+2002-Cottonwood County,COTTONWOOD,47.0
+2002-Douglas County,DOUGLAS,38.0
+2002-Faribault County,FARIBAULT,50.0
+2002-Freeborn County,FREEBORN,51.0
+2002-Grant County,GRANT,40.0
+2002-Hennepin County,HENNEPIN,47.0
+2002-Hubbard County,HUBBARD,50.0
+2002-Isanti County,ISANTI,34.0
+2002-Jackson County,JACKSON,46.0
+2002-Kanabec County,KANABEC,42.0
+2002-Kandiyohi County,KANDIYOHI,46.0
+2002-Kittson County,KITTSON,34.0
+2002-Koochiching County,KOOCHICHING,29.0
+2002-Lac Qui Parle County,LAC QUI PARLE,41.0
+2002-Le Sueur County,LE SUEUR,47.0
+2002-Lincoln County,LINCOLN,40.0
+2002-Lyon County,LYON,44.0
+2002-Mahnomen County,MAHNOMEN,29.0
+2002-Marshall County,MARSHALL,34.0
+2002-Martin County,MARTIN,49.0
+2002-Mcleod County,MCLEOD,44.0
+2002-Meeker County,MEEKER,44.0
+2002-Mille Lacs County,MILLE LACS,42.0
+2002-Morrison County,MORRISON,43.0
+2002-Murray County,MURRAY,45.0
+2002-Nicollet County,NICOLLET,46.0
+2002-Nobles County,NOBLES,44.0
+2002-Norman County,NORMAN,31.0
+2002-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,35.0
+2002-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,38.0
+2002-Otter Tail County,OTTER TAIL,35.0
+2002-Pennington County,PENNINGTON,30.0
+2002-Pine County,PINE,43.0
+2002-Pipestone County,PIPESTONE,43.0
+2002-Polk County,POLK,33.0
+2002-Pope County,POPE,41.0
+2002-Red Lake County,RED LAKE,30.0
+2002-Redwood County,REDWOOD,44.0
+2002-Renville County,RENVILLE,48.0
+2002-Rice County,RICE,49.0
+2002-Rock County,ROCK,44.0
+2002-Roseau County,ROSEAU,33.0
+2002-Scott County,SCOTT,48.0
+2002-Sherburne County,SHERBURNE,44.0
+2002-Sibley County,SIBLEY,47.0
+2002-Stearns County,STEARNS,45.0
+2002-Steele County,STEELE,51.0
+2002-Stevens County,STEVENS,43.0
+2002-Swift County,SWIFT,42.0
+2002-Todd County,TODD,42.0
+2002-Traverse County,TRAVERSE,40.0
+2002-Wadena County,WADENA,39.0
+2002-Waseca County,WASECA,51.0
+2002-Washington County,WASHINGTON,44.0
+2002-Watonwan County,WATONWAN,48.0
+2002-Wilkin County,WILKIN,37.0
+2002-Wright County,WRIGHT,44.0
+2002-Yellow Medicine County,YELLOW MEDICINE,42.0
+2003-Aitkin County,AITKIN,34.0
+2003-Anoka County,ANOKA,18.0
+2003-Becker County,BECKER,27.0
+2003-Beltrami County,BELTRAMI,25.0
+2003-Benton County,BENTON,24.0
+2003-Big Stone County,BIG STONE,27.0
+2003-Blue Earth County,BLUE EARTH,35.0
+2003-Brown County,BROWN,35.0
+2003-Carver County,CARVER,31.0
+2003-Cass County,CASS,36.0
+2003-Chippewa County,CHIPPEWA,35.0
+2003-Chisago County,CHISAGO,24.0
+2003-Clay County,CLAY,29.0
+2003-Clearwater County,CLEARWATER,28.0
+2003-Cottonwood County,COTTONWOOD,35.0
+2003-Douglas County,DOUGLAS,25.0
+2003-Faribault County,FARIBAULT,37.0
+2003-Freeborn County,FREEBORN,36.0
+2003-Grant County,GRANT,31.0
+2003-Hennepin County,HENNEPIN,28.0
+2003-Hubbard County,HUBBARD,36.0
+2003-Isanti County,ISANTI,19.0
+2003-Jackson County,JACKSON,39.0
+2003-Kanabec County,KANABEC,18.0
+2003-Kandiyohi County,KANDIYOHI,31.0
+2003-Kittson County,KITTSON,32.0
+2003-Koochiching County,KOOCHICHING,26.0
+2003-Lac Qui Parle County,LAC QUI PARLE,29.0
+2003-Le Sueur County,LE SUEUR,34.0
+2003-Lincoln County,LINCOLN,32.0
+2003-Lyon County,LYON,34.0
+2003-Mahnomen County,MAHNOMEN,29.0
+2003-Marshall County,MARSHALL,28.0
+2003-Martin County,MARTIN,37.0
+2003-Mcleod County,MCLEOD,28.0
+2003-Meeker County,MEEKER,25.0
+2003-Mille Lacs County,MILLE LACS,20.0
+2003-Morrison County,MORRISON,23.0
+2003-Murray County,MURRAY,36.0
+2003-Nicollet County,NICOLLET,34.0
+2003-Nobles County,NOBLES,37.0
+2003-Norman County,NORMAN,30.0
+2003-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,29.8
+2003-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,30.5
+2003-Otter Tail County,OTTER TAIL,30.0
+2003-Pennington County,PENNINGTON,27.0
+2003-Pine County,PINE,23.0
+2003-Pipestone County,PIPESTONE,36.0
+2003-Polk County,POLK,30.0
+2003-Pope County,POPE,30.0
+2003-Red Lake County,RED LAKE,28.0
+2003-Redwood County,REDWOOD,34.0
+2003-Renville County,RENVILLE,33.0
+2003-Rice County,RICE,32.0
+2003-Rock County,ROCK,39.0
+2003-Roseau County,ROSEAU,30.0
+2003-Scott County,SCOTT,31.0
+2003-Sherburne County,SHERBURNE,25.0
+2003-Sibley County,SIBLEY,30.0
+2003-Stearns County,STEARNS,26.0
+2003-Steele County,STEELE,31.0
+2003-Stevens County,STEVENS,34.0
+2003-Swift County,SWIFT,31.0
+2003-Todd County,TODD,22.0
+2003-Traverse County,TRAVERSE,31.0
+2003-Wadena County,WADENA,27.0
+2003-Waseca County,WASECA,36.0
+2003-Washington County,WASHINGTON,20.0
+2003-Watonwan County,WATONWAN,36.0
+2003-Wilkin County,WILKIN,30.0
+2003-Wright County,WRIGHT,24.0
+2003-Yellow Medicine County,YELLOW MEDICINE,33.0
+2004-Anoka County,ANOKA,19.0
+2004-Becker County,BECKER,13.0
+2004-Benton County,BENTON,30.0
+2004-Big Stone County,BIG STONE,33.0
+2004-Blue Earth County,BLUE EARTH,43.0
+2004-Brown County,BROWN,41.0
+2004-Carver County,CARVER,37.0
+2004-Chippewa County,CHIPPEWA,36.0
+2004-Chisago County,CHISAGO,25.0
+2004-Clay County,CLAY,21.0
+2004-Clearwater County,CLEARWATER,13.0
+2004-Cottonwood County,COTTONWOOD,40.0
+2004-Douglas County,DOUGLAS,29.0
+2004-Faribault County,FARIBAULT,42.0
+2004-Freeborn County,FREEBORN,38.0
+2004-Grant County,GRANT,34.0
+2004-Hennepin County,HENNEPIN,33.0
+2004-Hubbard County,HUBBARD,13.0
+2004-Isanti County,ISANTI,22.0
+2004-Jackson County,JACKSON,39.0
+2004-Kanabec County,KANABEC,21.0
+2004-Kandiyohi County,KANDIYOHI,35.0
+2004-Kittson County,KITTSON,14.0
+2004-Lac Qui Parle County,LAC QUI PARLE,32.0
+2004-Lake Of The Woods County,LAKE OF THE WOODS,14.0
+2004-Le Sueur County,LE SUEUR,39.0
+2004-Lincoln County,LINCOLN,34.0
+2004-Lyon County,LYON,38.0
+2004-Mahnomen County,MAHNOMEN,11.0
+2004-Marshall County,MARSHALL,7.0
+2004-Martin County,MARTIN,42.0
+2004-Mcleod County,MCLEOD,34.0
+2004-Meeker County,MEEKER,34.0
+2004-Mille Lacs County,MILLE LACS,29.0
+2004-Morrison County,MORRISON,27.0
+2004-Murray County,MURRAY,36.0
+2004-Nicollet County,NICOLLET,38.0
+2004-Nobles County,NOBLES,39.0
+2004-Norman County,NORMAN,14.0
+2004-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,26.0
+2004-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,7.9
+2004-Otter Tail County,OTTER TAIL,25.0
+2004-Pennington County,PENNINGTON,7.0
+2004-Pine County,PINE,31.0
+2004-Pipestone County,PIPESTONE,33.0
+2004-Polk County,POLK,12.0
+2004-Pope County,POPE,33.0
+2004-Red Lake County,RED LAKE,12.0
+2004-Redwood County,REDWOOD,39.0
+2004-Renville County,RENVILLE,34.0
+2004-Rice County,RICE,39.0
+2004-Rock County,ROCK,41.0
+2004-Roseau County,ROSEAU,10.0
+2004-Scott County,SCOTT,38.0
+2004-Sherburne County,SHERBURNE,32.0
+2004-Sibley County,SIBLEY,37.0
+2004-Stearns County,STEARNS,34.0
+2004-Steele County,STEELE,38.0
+2004-Stevens County,STEVENS,33.0
+2004-Swift County,SWIFT,30.0
+2004-Todd County,TODD,27.0
+2004-Traverse County,TRAVERSE,33.0
+2004-Wadena County,WADENA,26.0
+2004-Waseca County,WASECA,41.0
+2004-Washington County,WASHINGTON,28.0
+2004-Watonwan County,WATONWAN,44.0
+2004-Wilkin County,WILKIN,27.0
+2004-Wright County,WRIGHT,35.0
+2004-Yellow Medicine County,YELLOW MEDICINE,34.0
+2005-Anoka County,ANOKA,26.0
+2005-Becker County,BECKER,33.0
+2005-Benton County,BENTON,35.0
+2005-Big Stone County,BIG STONE,43.0
+2005-Blue Earth County,BLUE EARTH,53.0
+2005-Brown County,BROWN,52.0
+2005-Carver County,CARVER,49.0
+2005-Chippewa County,CHIPPEWA,47.0
+2005-Chisago County,CHISAGO,35.0
+2005-Clay County,CLAY,38.0
+2005-Clearwater County,CLEARWATER,31.0
+2005-Cottonwood County,COTTONWOOD,50.0
+2005-Douglas County,DOUGLAS,40.0
+2005-Faribault County,FARIBAULT,54.0
+2005-Freeborn County,FREEBORN,54.0
+2005-Grant County,GRANT,41.0
+2005-Hennepin County,HENNEPIN,37.0
+2005-Hubbard County,HUBBARD,41.0
+2005-Isanti County,ISANTI,30.0
+2005-Jackson County,JACKSON,55.0
+2005-Kanabec County,KANABEC,22.0
+2005-Kandiyohi County,KANDIYOHI,47.0
+2005-Kittson County,KITTSON,22.0
+2005-Lac Qui Parle County,LAC QUI PARLE,43.0
+2005-Lake Of The Woods County,LAKE OF THE WOODS,29.0
+2005-Le Sueur County,LE SUEUR,48.0
+2005-Lincoln County,LINCOLN,47.0
+2005-Lyon County,LYON,47.0
+2005-Mahnomen County,MAHNOMEN,30.0
+2005-Marshall County,MARSHALL,28.0
+2005-Martin County,MARTIN,51.0
+2005-Mcleod County,MCLEOD,46.0
+2005-Meeker County,MEEKER,40.0
+2005-Mille Lacs County,MILLE LACS,31.0
+2005-Morrison County,MORRISON,34.0
+2005-Murray County,MURRAY,50.0
+2005-Nicollet County,NICOLLET,50.0
+2005-Nobles County,NOBLES,54.0
+2005-Norman County,NORMAN,36.0
+2005-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,20.6
+2005-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,29.9
+2005-Otter Tail County,OTTER TAIL,36.0
+2005-Pennington County,PENNINGTON,28.0
+2005-Pine County,PINE,25.0
+2005-Pipestone County,PIPESTONE,47.0
+2005-Polk County,POLK,31.0
+2005-Pope County,POPE,42.0
+2005-Red Lake County,RED LAKE,32.0
+2005-Redwood County,REDWOOD,50.0
+2005-Renville County,RENVILLE,50.0
+2005-Rice County,RICE,50.0
+2005-Rock County,ROCK,54.0
+2005-Roseau County,ROSEAU,24.0
+2005-Scott County,SCOTT,51.0
+2005-Sherburne County,SHERBURNE,43.0
+2005-Sibley County,SIBLEY,51.0
+2005-Stearns County,STEARNS,36.0
+2005-Steele County,STEELE,53.0
+2005-Stevens County,STEVENS,41.0
+2005-Swift County,SWIFT,44.0
+2005-Todd County,TODD,38.0
+2005-Traverse County,TRAVERSE,35.0
+2005-Wadena County,WADENA,43.0
+2005-Waseca County,WASECA,55.0
+2005-Washington County,WASHINGTON,46.0
+2005-Watonwan County,WATONWAN,54.0
+2005-Wilkin County,WILKIN,37.0
+2005-Wright County,WRIGHT,40.0
+2005-Yellow Medicine County,YELLOW MEDICINE,43.0
+2006-Anoka County,ANOKA,30.0
+2006-Becker County,BECKER,36.0
+2006-Beltrami County,BELTRAMI,19.0
+2006-Benton County,BENTON,35.0
+2006-Big Stone County,BIG STONE,40.0
+2006-Blue Earth County,BLUE EARTH,55.0
+2006-Brown County,BROWN,52.0
+2006-Carver County,CARVER,51.0
+2006-Chippewa County,CHIPPEWA,47.0
+2006-Chisago County,CHISAGO,38.0
+2006-Clay County,CLAY,35.0
+2006-Clearwater County,CLEARWATER,25.0
+2006-Cottonwood County,COTTONWOOD,49.0
+2006-Crow Wing County,CROW WING,30.0
+2006-Douglas County,DOUGLAS,32.0
+2006-Faribault County,FARIBAULT,53.0
+2006-Freeborn County,FREEBORN,52.0
+2006-Grant County,GRANT,37.0
+2006-Hennepin County,HENNEPIN,46.0
+2006-Isanti County,ISANTI,30.0
+2006-Jackson County,JACKSON,49.0
+2006-Kanabec County,KANABEC,30.0
+2006-Kandiyohi County,KANDIYOHI,45.0
+2006-Kittson County,KITTSON,35.0
+2006-Lac Qui Parle County,LAC QUI PARLE,48.0
+2006-Le Sueur County,LE SUEUR,52.0
+2006-Lincoln County,LINCOLN,46.0
+2006-Lyon County,LYON,50.0
+2006-Mahnomen County,MAHNOMEN,36.0
+2006-Marshall County,MARSHALL,26.0
+2006-Martin County,MARTIN,52.0
+2006-Mcleod County,MCLEOD,52.0
+2006-Meeker County,MEEKER,43.0
+2006-Mille Lacs County,MILLE LACS,41.0
+2006-Morrison County,MORRISON,32.0
+2006-Murray County,MURRAY,49.0
+2006-Nicollet County,NICOLLET,54.0
+2006-Nobles County,NOBLES,52.0
+2006-Norman County,NORMAN,34.0
+2006-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,32.3
+2006-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,21.6
+2006-Otter Tail County,OTTER TAIL,33.0
+2006-Pennington County,PENNINGTON,25.0
+2006-Pine County,PINE,46.0
+2006-Pipestone County,PIPESTONE,49.0
+2006-Polk County,POLK,29.0
+2006-Pope County,POPE,33.0
+2006-Red Lake County,RED LAKE,28.0
+2006-Redwood County,REDWOOD,52.0
+2006-Renville County,RENVILLE,53.0
+2006-Rice County,RICE,52.0
+2006-Rock County,ROCK,54.0
+2006-Roseau County,ROSEAU,27.0
+2006-Scott County,SCOTT,52.0
+2006-Sherburne County,SHERBURNE,37.0
+2006-Sibley County,SIBLEY,56.0
+2006-Stearns County,STEARNS,36.0
+2006-Steele County,STEELE,52.0
+2006-Stevens County,STEVENS,39.0
+2006-Swift County,SWIFT,42.0
+2006-Todd County,TODD,31.0
+2006-Traverse County,TRAVERSE,41.0
+2006-Wadena County,WADENA,23.0
+2006-Waseca County,WASECA,55.0
+2006-Washington County,WASHINGTON,48.0
+2006-Watonwan County,WATONWAN,52.0
+2006-Wilkin County,WILKIN,37.0
+2006-Wright County,WRIGHT,42.0
+2006-Yellow Medicine County,YELLOW MEDICINE,46.0
+2007-Anoka County,ANOKA,27.0
+2007-Becker County,BECKER,35.0
+2007-Benton County,BENTON,19.0
+2007-Big Stone County,BIG STONE,39.0
+2007-Blue Earth County,BLUE EARTH,49.0
+2007-Brown County,BROWN,48.0
+2007-Carver County,CARVER,48.0
+2007-Chippewa County,CHIPPEWA,44.0
+2007-Chisago County,CHISAGO,27.0
+2007-Clay County,CLAY,35.0
+2007-Clearwater County,CLEARWATER,33.0
+2007-Cottonwood County,COTTONWOOD,48.0
+2007-Douglas County,DOUGLAS,31.0
+2007-Faribault County,FARIBAULT,53.0
+2007-Freeborn County,FREEBORN,52.0
+2007-Grant County,GRANT,38.0
+2007-Hennepin County,HENNEPIN,35.0
+2007-Isanti County,ISANTI,21.0
+2007-Jackson County,JACKSON,49.0
+2007-Kanabec County,KANABEC,22.0
+2007-Kandiyohi County,KANDIYOHI,42.0
+2007-Kittson County,KITTSON,38.0
+2007-Lac Qui Parle County,LAC QUI PARLE,39.0
+2007-Le Sueur County,LE SUEUR,48.0
+2007-Lincoln County,LINCOLN,46.0
+2007-Lyon County,LYON,47.0
+2007-Mahnomen County,MAHNOMEN,35.0
+2007-Marshall County,MARSHALL,37.0
+2007-Martin County,MARTIN,49.0
+2007-Mcleod County,MCLEOD,45.0
+2007-Meeker County,MEEKER,37.0
+2007-Mille Lacs County,MILLE LACS,20.0
+2007-Morrison County,MORRISON,17.0
+2007-Murray County,MURRAY,46.0
+2007-Nicollet County,NICOLLET,47.0
+2007-Nobles County,NOBLES,48.0
+2007-Norman County,NORMAN,36.0
+2007-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,22.7
+2007-Otter Tail County,OTTER TAIL,30.0
+2007-Pennington County,PENNINGTON,32.0
+2007-Pine County,PINE,32.0
+2007-Pipestone County,PIPESTONE,44.0
+2007-Polk County,POLK,38.0
+2007-Pope County,POPE,33.0
+2007-Red Lake County,RED LAKE,34.0
+2007-Redwood County,REDWOOD,47.0
+2007-Renville County,RENVILLE,45.0
+2007-Rice County,RICE,45.0
+2007-Rock County,ROCK,51.0
+2007-Roseau County,ROSEAU,31.0
+2007-Scott County,SCOTT,38.0
+2007-Sherburne County,SHERBURNE,35.0
+2007-Sibley County,SIBLEY,49.0
+2007-Stearns County,STEARNS,31.0
+2007-Steele County,STEELE,52.0
+2007-Stevens County,STEVENS,41.0
+2007-Swift County,SWIFT,39.0
+2007-Todd County,TODD,26.0
+2007-Traverse County,TRAVERSE,37.0
+2007-Wadena County,WADENA,30.0
+2007-Waseca County,WASECA,52.0
+2007-Washington County,WASHINGTON,31.0
+2007-Watonwan County,WATONWAN,48.0
+2007-Wilkin County,WILKIN,31.0
+2007-Wright County,WRIGHT,37.0
+2007-Yellow Medicine County,YELLOW MEDICINE,45.0
+2008-Becker County,BECKER,27.0
+2008-Benton County,BENTON,34.0
+2008-Big Stone County,BIG STONE,36.0
+2008-Blue Earth County,BLUE EARTH,43.5
+2008-Brown County,BROWN,44.5
+2008-Carver County,CARVER,42.5
+2008-Chippewa County,CHIPPEWA,37.0
+2008-Chisago County,CHISAGO,27.5
+2008-Clay County,CLAY,35.5
+2008-Cottonwood County,COTTONWOOD,43.0
+2008-Douglas County,DOUGLAS,37.5
+2008-Faribault County,FARIBAULT,46.0
+2008-Freeborn County,FREEBORN,43.5
+2008-Grant County,GRANT,35.5
+2008-Hennepin County,HENNEPIN,36.0
+2008-Isanti County,ISANTI,25.0
+2008-Jackson County,JACKSON,42.5
+2008-Kandiyohi County,KANDIYOHI,40.5
+2008-Kittson County,KITTSON,32.5
+2008-Lac Qui Parle County,LAC QUI PARLE,30.5
+2008-Le Sueur County,LE SUEUR,41.5
+2008-Lincoln County,LINCOLN,35.0
+2008-Lyon County,LYON,37.0
+2008-Mahnomen County,MAHNOMEN,31.0
+2008-Marshall County,MARSHALL,27.0
+2008-Martin County,MARTIN,45.5
+2008-Mcleod County,MCLEOD,43.5
+2008-Meeker County,MEEKER,41.0
+2008-Mille Lacs County,MILLE LACS,25.5
+2008-Morrison County,MORRISON,28.5
+2008-Murray County,MURRAY,42.5
+2008-Nicollet County,NICOLLET,45.5
+2008-Nobles County,NOBLES,41.5
+2008-Norman County,NORMAN,29.0
+2008-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,24.0
+2008-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,28.0
+2008-Otter Tail County,OTTER TAIL,32.5
+2008-Pennington County,PENNINGTON,28.5
+2008-Pine County,PINE,26.0
+2008-Pipestone County,PIPESTONE,38.0
+2008-Polk County,POLK,28.5
+2008-Pope County,POPE,37.0
+2008-Redwood County,REDWOOD,42.5
+2008-Renville County,RENVILLE,44.0
+2008-Rice County,RICE,42.0
+2008-Rock County,ROCK,47.0
+2008-Roseau County,ROSEAU,27.0
+2008-Scott County,SCOTT,42.0
+2008-Sherburne County,SHERBURNE,34.5
+2008-Sibley County,SIBLEY,45.5
+2008-Stearns County,STEARNS,36.0
+2008-Steele County,STEELE,41.5
+2008-Stevens County,STEVENS,38.0
+2008-Swift County,SWIFT,39.0
+2008-Todd County,TODD,28.5
+2008-Traverse County,TRAVERSE,30.5
+2008-Wadena County,WADENA,30.5
+2008-Waseca County,WASECA,45.5
+2008-Washington County,WASHINGTON,32.0
+2008-Watonwan County,WATONWAN,44.0
+2008-Wilkin County,WILKIN,32.0
+2008-Wright County,WRIGHT,34.5
+2008-Yellow Medicine County,YELLOW MEDICINE,35.5
+2009-Becker County,BECKER,28.0
+2009-Benton County,BENTON,38.0
+2009-Big Stone County,BIG STONE,39.0
+2009-Blue Earth County,BLUE EARTH,47.0
+2009-Brown County,BROWN,44.5
+2009-Carver County,CARVER,46.5
+2009-Chippewa County,CHIPPEWA,43.0
+2009-Chisago County,CHISAGO,27.5
+2009-Clay County,CLAY,29.0
+2009-Clearwater County,CLEARWATER,20.0
+2009-Cottonwood County,COTTONWOOD,47.0
+2009-Douglas County,DOUGLAS,33.0
+2009-Faribault County,FARIBAULT,49.0
+2009-Freeborn County,FREEBORN,42.5
+2009-Grant County,GRANT,36.5
+2009-Hennepin County,HENNEPIN,47.5
+2009-Isanti County,ISANTI,25.5
+2009-Jackson County,JACKSON,49.0
+2009-Kanabec County,KANABEC,30.5
+2009-Kandiyohi County,KANDIYOHI,44.0
+2009-Kittson County,KITTSON,27.5
+2009-Lac Qui Parle County,LAC QUI PARLE,42.5
+2009-Le Sueur County,LE SUEUR,45.0
+2009-Lincoln County,LINCOLN,40.0
+2009-Lyon County,LYON,41.0
+2009-Mahnomen County,MAHNOMEN,25.0
+2009-Marshall County,MARSHALL,26.5
+2009-Martin County,MARTIN,50.0
+2009-Mcleod County,MCLEOD,43.5
+2009-Meeker County,MEEKER,42.5
+2009-Mille Lacs County,MILLE LACS,37.5
+2009-Morrison County,MORRISON,37.0
+2009-Murray County,MURRAY,47.0
+2009-Nicollet County,NICOLLET,44.0
+2009-Nobles County,NOBLES,47.5
+2009-Norman County,NORMAN,28.5
+2009-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,33.0
+2009-Otter Tail County,OTTER TAIL,33.0
+2009-Pennington County,PENNINGTON,23.5
+2009-Pine County,PINE,34.0
+2009-Pipestone County,PIPESTONE,44.0
+2009-Polk County,POLK,29.0
+2009-Pope County,POPE,37.5
+2009-Red Lake County,RED LAKE,27.5
+2009-Redwood County,REDWOOD,45.5
+2009-Renville County,RENVILLE,46.0
+2009-Rice County,RICE,47.5
+2009-Rock County,ROCK,49.5
+2009-Roseau County,ROSEAU,24.5
+2009-Scott County,SCOTT,46.5
+2009-Sherburne County,SHERBURNE,35.5
+2009-Sibley County,SIBLEY,46.0
+2009-Stearns County,STEARNS,42.5
+2009-Steele County,STEELE,43.0
+2009-Stevens County,STEVENS,36.5
+2009-Swift County,SWIFT,40.0
+2009-Todd County,TODD,32.5
+2009-Traverse County,TRAVERSE,36.5
+2009-Wadena County,WADENA,36.5
+2009-Waseca County,WASECA,47.5
+2009-Washington County,WASHINGTON,46.5
+2009-Watonwan County,WATONWAN,48.0
+2009-Wilkin County,WILKIN,29.0
+2009-Wright County,WRIGHT,44.0
+2009-Yellow Medicine County,YELLOW MEDICINE,41.0
+2010-Aitkin County,AITKIN,39.6
+2010-Anoka County,ANOKA,40.7
+2010-Becker County,BECKER,33.7
+2010-Benton County,BENTON,42.8
+2010-Big Stone County,BIG STONE,41.1
+2010-Blue Earth County,BLUE EARTH,48.1
+2010-Brown County,BROWN,51.3
+2010-Carver County,CARVER,51.6
+2010-Chippewa County,CHIPPEWA,48.6
+2010-Chisago County,CHISAGO,43.1
+2010-Clay County,CLAY,36.0
+2010-Clearwater County,CLEARWATER,30.1
+2010-Cottonwood County,COTTONWOOD,46.5
+2010-Crow Wing County,CROW WING,32.3
+2010-Douglas County,DOUGLAS,41.0
+2010-Faribault County,FARIBAULT,50.3
+2010-Freeborn County,FREEBORN,49.1
+2010-Grant County,GRANT,41.2
+2010-Hennepin County,HENNEPIN,46.5
+2010-Isanti County,ISANTI,37.2
+2010-Jackson County,JACKSON,48.7
+2010-Kanabec County,KANABEC,42.3
+2010-Kandiyohi County,KANDIYOHI,47.6
+2010-Kittson County,KITTSON,34.1
+2010-Lac Qui Parle County,LAC QUI PARLE,45.4
+2010-Le Sueur County,LE SUEUR,49.5
+2010-Lincoln County,LINCOLN,44.8
+2010-Lyon County,LYON,48.2
+2010-Mahnomen County,MAHNOMEN,32.9
+2010-Marshall County,MARSHALL,31.7
+2010-Martin County,MARTIN,49.1
+2010-Mcleod County,MCLEOD,48.9
+2010-Meeker County,MEEKER,48.5
+2010-Mille Lacs County,MILLE LACS,42.5
+2010-Morrison County,MORRISON,45.8
+2010-Murray County,MURRAY,50.3
+2010-Nicollet County,NICOLLET,51.0
+2010-Nobles County,NOBLES,50.8
+2010-Norman County,NORMAN,33.9
+2010-Otter Tail County,OTTER TAIL,39.5
+2010-Pennington County,PENNINGTON,29.4
+2010-Pine County,PINE,42.3
+2010-Pipestone County,PIPESTONE,48.8
+2010-Polk County,POLK,34.4
+2010-Pope County,POPE,41.9
+2010-Red Lake County,RED LAKE,32.5
+2010-Redwood County,REDWOOD,51.3
+2010-Renville County,RENVILLE,51.8
+2010-Rice County,RICE,53.8
+2010-Rock County,ROCK,54.3
+2010-Roseau County,ROSEAU,29.7
+2010-Scott County,SCOTT,51.1
+2010-Sherburne County,SHERBURNE,39.8
+2010-Sibley County,SIBLEY,52.2
+2010-Stearns County,STEARNS,45.8
+2010-Steele County,STEELE,51.6
+2010-Stevens County,STEVENS,44.8
+2010-Swift County,SWIFT,46.8
+2010-Todd County,TODD,39.5
+2010-Traverse County,TRAVERSE,40.2
+2010-Wadena County,WADENA,41.1
+2010-Waseca County,WASECA,51.2
+2010-Washington County,WASHINGTON,47.8
+2010-Watonwan County,WATONWAN,48.3
+2010-Wilkin County,WILKIN,36.7
+2010-Wright County,WRIGHT,47.2
+2010-Yellow Medicine County,YELLOW MEDICINE,46.2
+2011-Aitkin County,AITKIN,30.8
+2011-Becker County,BECKER,33.3
+2011-Benton County,BENTON,33.7
+2011-Big Stone County,BIG STONE,33.4
+2011-Blue Earth County,BLUE EARTH,47.6
+2011-Brown County,BROWN,42.0
+2011-Carver County,CARVER,36.8
+2011-Chippewa County,CHIPPEWA,40.6
+2011-Chisago County,CHISAGO,34.6
+2011-Clay County,CLAY,33.5
+2011-Clearwater County,CLEARWATER,29.9
+2011-Cottonwood County,COTTONWOOD,44.1
+2011-Douglas County,DOUGLAS,34.7
+2011-Faribault County,FARIBAULT,46.5
+2011-Freeborn County,FREEBORN,45.8
+2011-Grant County,GRANT,37.6
+2011-Hennepin County,HENNEPIN,37.5
+2011-Isanti County,ISANTI,31.9
+2011-Jackson County,JACKSON,45.7
+2011-Kanabec County,KANABEC,29.9
+2011-Kandiyohi County,KANDIYOHI,37.7
+2011-Kittson County,KITTSON,29.1
+2011-Lac Qui Parle County,LAC QUI PARLE,38.4
+2011-Le Sueur County,LE SUEUR,37.6
+2011-Lincoln County,LINCOLN,34.9
+2011-Lyon County,LYON,35.2
+2011-Mahnomen County,MAHNOMEN,31.6
+2011-Marshall County,MARSHALL,31.9
+2011-Martin County,MARTIN,48.5
+2011-Mcleod County,MCLEOD,35.4
+2011-Meeker County,MEEKER,34.7
+2011-Mille Lacs County,MILLE LACS,30.2
+2011-Morrison County,MORRISON,37.1
+2011-Murray County,MURRAY,46.1
+2011-Nicollet County,NICOLLET,42.5
+2011-Nobles County,NOBLES,45.8
+2011-Norman County,NORMAN,31.3
+2011-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,32.5
+2011-Otter Tail County,OTTER TAIL,39.7
+2011-Pennington County,PENNINGTON,30.4
+2011-Pine County,PINE,36.9
+2011-Pipestone County,PIPESTONE,38.8
+2011-Polk County,POLK,33.7
+2011-Pope County,POPE,35.8
+2011-Red Lake County,RED LAKE,32.2
+2011-Redwood County,REDWOOD,37.8
+2011-Renville County,RENVILLE,37.0
+2011-Rice County,RICE,38.9
+2011-Rock County,ROCK,49.5
+2011-Roseau County,ROSEAU,30.3
+2011-Scott County,SCOTT,37.7
+2011-Sherburne County,SHERBURNE,44.6
+2011-Sibley County,SIBLEY,38.7
+2011-Stearns County,STEARNS,36.9
+2011-Steele County,STEELE,41.6
+2011-Stevens County,STEVENS,37.5
+2011-Swift County,SWIFT,38.4
+2011-Todd County,TODD,35.2
+2011-Traverse County,TRAVERSE,33.4
+2011-Wadena County,WADENA,43.2
+2011-Waseca County,WASECA,45.8
+2011-Washington County,WASHINGTON,43.7
+2011-Watonwan County,WATONWAN,45.0
+2011-Wilkin County,WILKIN,31.0
+2011-Wright County,WRIGHT,35.2
+2011-Yellow Medicine County,YELLOW MEDICINE,39.8
+2012-Aitkin County,AITKIN,28.4
+2012-Anoka County,ANOKA,35.5
+2012-Becker County,BECKER,35.0
+2012-Benton County,BENTON,40.6
+2012-Big Stone County,BIG STONE,44.1
+2012-Blue Earth County,BLUE EARTH,50.7
+2012-Brown County,BROWN,43.2
+2012-Carver County,CARVER,49.5
+2012-Chippewa County,CHIPPEWA,47.6
+2012-Chisago County,CHISAGO,36.8
+2012-Clay County,CLAY,37.0
+2012-Cottonwood County,COTTONWOOD,44.4
+2012-Douglas County,DOUGLAS,41.0
+2012-Faribault County,FARIBAULT,52.6
+2012-Freeborn County,FREEBORN,47.9
+2012-Grant County,GRANT,44.7
+2012-Hennepin County,HENNEPIN,43.2
+2012-Isanti County,ISANTI,32.1
+2012-Jackson County,JACKSON,48.0
+2012-Kanabec County,KANABEC,33.6
+2012-Kandiyohi County,KANDIYOHI,46.4
+2012-Kittson County,KITTSON,36.1
+2012-Lac Qui Parle County,LAC QUI PARLE,43.3
+2012-Le Sueur County,LE SUEUR,48.4
+2012-Lincoln County,LINCOLN,40.2
+2012-Lyon County,LYON,42.5
+2012-Marshall County,MARSHALL,36.2
+2012-Martin County,MARTIN,49.0
+2012-Mcleod County,MCLEOD,47.6
+2012-Meeker County,MEEKER,44.7
+2012-Mille Lacs County,MILLE LACS,36.5
+2012-Morrison County,MORRISON,38.7
+2012-Murray County,MURRAY,45.7
+2012-Nicollet County,NICOLLET,41.2
+2012-Nobles County,NOBLES,47.1
+2012-Norman County,NORMAN,32.7
+2012-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,36.5
+2012-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,33.8
+2012-Otter Tail County,OTTER TAIL,38.7
+2012-Pennington County,PENNINGTON,34.7
+2012-Pine County,PINE,36.3
+2012-Pipestone County,PIPESTONE,40.9
+2012-Polk County,POLK,35.7
+2012-Pope County,POPE,46.0
+2012-Red Lake County,RED LAKE,35.4
+2012-Redwood County,REDWOOD,45.5
+2012-Renville County,RENVILLE,45.8
+2012-Rice County,RICE,52.7
+2012-Rock County,ROCK,46.0
+2012-Roseau County,ROSEAU,32.4
+2012-Scott County,SCOTT,48.4
+2012-Sherburne County,SHERBURNE,35.3
+2012-Sibley County,SIBLEY,43.0
+2012-Stearns County,STEARNS,42.8
+2012-Steele County,STEELE,50.3
+2012-Stevens County,STEVENS,47.2
+2012-Swift County,SWIFT,46.9
+2012-Todd County,TODD,33.5
+2012-Traverse County,TRAVERSE,48.2
+2012-Wadena County,WADENA,35.9
+2012-Waseca County,WASECA,51.6
+2012-Washington County,WASHINGTON,36.4
+2012-Watonwan County,WATONWAN,48.9
+2012-Wilkin County,WILKIN,41.7
+2012-Wright County,WRIGHT,45.9
+2012-Yellow Medicine County,YELLOW MEDICINE,41.4
+2013-Anoka County,ANOKA,22.0
+2013-Becker County,BECKER,34.8
+2013-Benton County,BENTON,25.5
+2013-Big Stone County,BIG STONE,39.1
+2013-Blue Earth County,BLUE EARTH,49.4
+2013-Brown County,BROWN,47.1
+2013-Carver County,CARVER,41.7
+2013-Chippewa County,CHIPPEWA,49.5
+2013-Chisago County,CHISAGO,24.2
+2013-Clay County,CLAY,36.1
+2013-Clearwater County,CLEARWATER,27.8
+2013-Cottonwood County,COTTONWOOD,49.5
+2013-Douglas County,DOUGLAS,32.3
+2013-Faribault County,FARIBAULT,45.3
+2013-Freeborn County,FREEBORN,42.8
+2013-Grant County,GRANT,38.9
+2013-Hennepin County,HENNEPIN,35.2
+2013-Isanti County,ISANTI,25.4
+2013-Jackson County,JACKSON,47.1
+2013-Kandiyohi County,KANDIYOHI,47.1
+2013-Kittson County,KITTSON,40.1
+2013-Lac Qui Parle County,LAC QUI PARLE,47.9
+2013-Le Sueur County,LE SUEUR,44.8
+2013-Lincoln County,LINCOLN,44.2
+2013-Lyon County,LYON,45.9
+2013-Mahnomen County,MAHNOMEN,34.3
+2013-Marshall County,MARSHALL,35.5
+2013-Martin County,MARTIN,50.5
+2013-Mcleod County,MCLEOD,43.3
+2013-Meeker County,MEEKER,43.7
+2013-Mille Lacs County,MILLE LACS,27.7
+2013-Morrison County,MORRISON,21.1
+2013-Murray County,MURRAY,51.1
+2013-Nicollet County,NICOLLET,52.1
+2013-Nobles County,NOBLES,48.5
+2013-Norman County,NORMAN,32.8
+2013-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,22.3
+2013-Otter Tail County,OTTER TAIL,32.9
+2013-Pennington County,PENNINGTON,33.1
+2013-Pine County,PINE,28.2
+2013-Pipestone County,PIPESTONE,50.2
+2013-Polk County,POLK,36.6
+2013-Pope County,POPE,37.9
+2013-Red Lake County,RED LAKE,32.4
+2013-Redwood County,REDWOOD,48.4
+2013-Renville County,RENVILLE,49.3
+2013-Rice County,RICE,41.4
+2013-Rock County,ROCK,52.7
+2013-Roseau County,ROSEAU,35.5
+2013-Scott County,SCOTT,41.3
+2013-Sherburne County,SHERBURNE,29.8
+2013-Sibley County,SIBLEY,47.0
+2013-Stearns County,STEARNS,31.9
+2013-Steele County,STEELE,44.5
+2013-Stevens County,STEVENS,41.9
+2013-Swift County,SWIFT,38.5
+2013-Todd County,TODD,23.5
+2013-Traverse County,TRAVERSE,37.3
+2013-Wadena County,WADENA,33.8
+2013-Waseca County,WASECA,48.4
+2013-Washington County,WASHINGTON,26.2
+2013-Watonwan County,WATONWAN,53.5
+2013-Wilkin County,WILKIN,32.2
+2013-Wright County,WRIGHT,36.1
+2013-Yellow Medicine County,YELLOW MEDICINE,48.8
+2014-Becker County,BECKER,32.3
+2014-Benton County,BENTON,27.0
+2014-Big Stone County,BIG STONE,42.5
+2014-Blue Earth County,BLUE EARTH,43.2
+2014-Brown County,BROWN,48.6
+2014-Carver County,CARVER,34.3
+2014-Chippewa County,CHIPPEWA,49.7
+2014-Chisago County,CHISAGO,27.8
+2014-Clay County,CLAY,35.2
+2014-Cottonwood County,COTTONWOOD,50.5
+2014-Crow Wing County,CROW WING,28.1
+2014-Douglas County,DOUGLAS,37.1
+2014-Faribault County,FARIBAULT,45.1
+2014-Freeborn County,FREEBORN,49.2
+2014-Grant County,GRANT,42.5
+2014-Hennepin County,HENNEPIN,40.4
+2014-Isanti County,ISANTI,21.5
+2014-Jackson County,JACKSON,46.9
+2014-Kanabec County,KANABEC,33.5
+2014-Kandiyohi County,KANDIYOHI,41.2
+2014-Kittson County,KITTSON,29.5
+2014-Lac Qui Parle County,LAC QUI PARLE,48.8
+2014-Le Sueur County,LE SUEUR,43.9
+2014-Lincoln County,LINCOLN,47.0
+2014-Lyon County,LYON,44.4
+2014-Mahnomen County,MAHNOMEN,32.8
+2014-Marshall County,MARSHALL,28.9
+2014-Martin County,MARTIN,46.0
+2014-Mcleod County,MCLEOD,32.6
+2014-Meeker County,MEEKER,38.9
+2014-Mille Lacs County,MILLE LACS,26.6
+2014-Morrison County,MORRISON,35.8
+2014-Murray County,MURRAY,45.0
+2014-Nicollet County,NICOLLET,45.8
+2014-Nobles County,NOBLES,44.2
+2014-Norman County,NORMAN,35.7
+2014-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,34.7
+2014-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,27.9
+2014-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,32.1
+2014-Otter Tail County,OTTER TAIL,33.6
+2014-Pennington County,PENNINGTON,29.3
+2014-Pine County,PINE,32.0
+2014-Pipestone County,PIPESTONE,42.2
+2014-Polk County,POLK,36.3
+2014-Pope County,POPE,44.4
+2014-Redwood County,REDWOOD,46.3
+2014-Renville County,RENVILLE,42.2
+2014-Rice County,RICE,46.8
+2014-Rock County,ROCK,46.9
+2014-Roseau County,ROSEAU,29.5
+2014-Scott County,SCOTT,40.2
+2014-Sibley County,SIBLEY,40.5
+2014-Stearns County,STEARNS,35.7
+2014-Steele County,STEELE,48.1
+2014-Stevens County,STEVENS,47.1
+2014-Swift County,SWIFT,43.8
+2014-Todd County,TODD,32.2
+2014-Traverse County,TRAVERSE,38.7
+2014-Waseca County,WASECA,43.2
+2014-Washington County,WASHINGTON,42.6
+2014-Watonwan County,WATONWAN,52.3
+2014-Wilkin County,WILKIN,37.0
+2014-Wright County,WRIGHT,34.7
+2014-Yellow Medicine County,YELLOW MEDICINE,44.4
+2015-Aitkin County,AITKIN,32.0
+2015-Anoka County,ANOKA,42.5
+2015-Benton County,BENTON,47.3
+2015-Big Stone County,BIG STONE,46.9
+2015-Blue Earth County,BLUE EARTH,59.8
+2015-Brown County,BROWN,56.5
+2015-Carver County,CARVER,58.5
+2015-Chippewa County,CHIPPEWA,50.3
+2015-Chisago County,CHISAGO,45.8
+2015-Clay County,CLAY,40.6
+2015-Cottonwood County,COTTONWOOD,56.8
+2015-Douglas County,DOUGLAS,47.4
+2015-Faribault County,FARIBAULT,61.3
+2015-Freeborn County,FREEBORN,58.6
+2015-Grant County,GRANT,47.4
+2015-Hennepin County,HENNEPIN,54.8
+2015-Isanti County,ISANTI,43.8
+2015-Jackson County,JACKSON,56.7
+2015-Kandiyohi County,KANDIYOHI,54.0
+2015-Kittson County,KITTSON,31.8
+2015-Lac Qui Parle County,LAC QUI PARLE,50.5
+2015-Le Sueur County,LE SUEUR,56.2
+2015-Lyon County,LYON,54.7
+2015-Mahnomen County,MAHNOMEN,37.2
+2015-Marshall County,MARSHALL,32.4
+2015-Martin County,MARTIN,61.7
+2015-Mcleod County,MCLEOD,52.5
+2015-Meeker County,MEEKER,51.0
+2015-Mille Lacs County,MILLE LACS,48.3
+2015-Morrison County,MORRISON,51.0
+2015-Murray County,MURRAY,55.4
+2015-Nicollet County,NICOLLET,60.1
+2015-Nobles County,NOBLES,57.1
+2015-Norman County,NORMAN,40.0
+2015-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,46.8
+2015-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,50.9
+2015-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,49.2
+2015-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,35.8
+2015-Otter Tail County,OTTER TAIL,43.9
+2015-Pennington County,PENNINGTON,35.2
+2015-Pine County,PINE,49.1
+2015-Polk County,POLK,35.6
+2015-Pope County,POPE,49.5
+2015-Red Lake County,RED LAKE,35.5
+2015-Redwood County,REDWOOD,54.5
+2015-Renville County,RENVILLE,55.3
+2015-Rice County,RICE,56.8
+2015-Rock County,ROCK,58.2
+2015-Roseau County,ROSEAU,30.9
+2015-Scott County,SCOTT,57.9
+2015-Sibley County,SIBLEY,55.7
+2015-Stearns County,STEARNS,52.4
+2015-Steele County,STEELE,58.0
+2015-Stevens County,STEVENS,47.3
+2015-Swift County,SWIFT,49.6
+2015-Todd County,TODD,47.8
+2015-Traverse County,TRAVERSE,45.6
+2015-Waseca County,WASECA,60.1
+2015-Washington County,WASHINGTON,53.6
+2015-Watonwan County,WATONWAN,59.0
+2015-Wilkin County,WILKIN,40.2
+2015-Wright County,WRIGHT,55.6
+2015-Yellow Medicine County,YELLOW MEDICINE,53.1
+2016-Anoka County,ANOKA,50.0
+2016-Becker County,BECKER,44.8
+2016-Benton County,BENTON,49.4
+2016-Big Stone County,BIG STONE,51.3
+2016-Blue Earth County,BLUE EARTH,58.8
+2016-Brown County,BROWN,53.2
+2016-Carver County,CARVER,58.1
+2016-Chippewa County,CHIPPEWA,52.3
+2016-Chisago County,CHISAGO,45.6
+2016-Clay County,CLAY,44.0
+2016-Clearwater County,CLEARWATER,42.8
+2016-Cottonwood County,COTTONWOOD,59.3
+2016-Douglas County,DOUGLAS,52.0
+2016-Faribault County,FARIBAULT,63.5
+2016-Freeborn County,FREEBORN,59.2
+2016-Grant County,GRANT,50.3
+2016-Isanti County,ISANTI,43.3
+2016-Jackson County,JACKSON,56.9
+2016-Kanabec County,KANABEC,49.0
+2016-Kandiyohi County,KANDIYOHI,53.0
+2016-Kittson County,KITTSON,33.9
+2016-Lac Qui Parle County,LAC QUI PARLE,56.0
+2016-Le Sueur County,LE SUEUR,56.9
+2016-Lincoln County,LINCOLN,58.2
+2016-Lyon County,LYON,58.9
+2016-Mahnomen County,MAHNOMEN,44.5
+2016-Marshall County,MARSHALL,35.9
+2016-Martin County,MARTIN,60.8
+2016-Mcleod County,MCLEOD,51.5
+2016-Meeker County,MEEKER,48.3
+2016-Mille Lacs County,MILLE LACS,49.4
+2016-Morrison County,MORRISON,50.4
+2016-Murray County,MURRAY,57.6
+2016-Nicollet County,NICOLLET,61.1
+2016-Nobles County,NOBLES,54.3
+2016-Norman County,NORMAN,41.4
+2016-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,49.8
+2016-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,41.8
+2016-Otter Tail County,OTTER TAIL,47.9
+2016-Pennington County,PENNINGTON,39.8
+2016-Pipestone County,PIPESTONE,57.7
+2016-Polk County,POLK,43.6
+2016-Pope County,POPE,51.7
+2016-Red Lake County,RED LAKE,44.5
+2016-Redwood County,REDWOOD,56.1
+2016-Renville County,RENVILLE,54.8
+2016-Rice County,RICE,57.9
+2016-Rock County,ROCK,61.3
+2016-Roseau County,ROSEAU,35.3
+2016-Scott County,SCOTT,58.7
+2016-Sibley County,SIBLEY,57.4
+2016-Stearns County,STEARNS,54.6
+2016-Steele County,STEELE,59.2
+2016-Stevens County,STEVENS,52.2
+2016-Swift County,SWIFT,55.5
+2016-Todd County,TODD,48.5
+2016-Traverse County,TRAVERSE,50.3
+2016-Waseca County,WASECA,61.0
+2016-Washington County,WASHINGTON,58.7
+2016-Watonwan County,WATONWAN,58.5
+2016-Wilkin County,WILKIN,44.1
+2016-Wright County,WRIGHT,54.3
+2016-Yellow Medicine County,YELLOW MEDICINE,55.8
+2017-Aitkin County,AITKIN,30.5
+2017-Anoka County,ANOKA,35.5
+2017-Becker County,BECKER,38.0
+2017-Benton County,BENTON,40.6
+2017-Big Stone County,BIG STONE,45.5
+2017-Blue Earth County,BLUE EARTH,58.0
+2017-Brown County,BROWN,54.8
+2017-Carver County,CARVER,53.5
+2017-Chippewa County,CHIPPEWA,49.8
+2017-Chisago County,CHISAGO,37.3
+2017-Clay County,CLAY,41.1
+2017-Clearwater County,CLEARWATER,32.4
+2017-Cottonwood County,COTTONWOOD,56.5
+2017-Crow Wing County,CROW WING,40.9
+2017-Douglas County,DOUGLAS,40.2
+2017-Faribault County,FARIBAULT,59.4
+2017-Freeborn County,FREEBORN,56.0
+2017-Grant County,GRANT,46.7
+2017-Hennepin County,HENNEPIN,45.7
+2017-Isanti County,ISANTI,36.8
+2017-Jackson County,JACKSON,55.9
+2017-Kandiyohi County,KANDIYOHI,47.3
+2017-Kittson County,KITTSON,35.2
+2017-Lac Qui Parle County,LAC QUI PARLE,49.1
+2017-Le Sueur County,LE SUEUR,55.5
+2017-Lincoln County,LINCOLN,47.6
+2017-Lyon County,LYON,50.3
+2017-Mahnomen County,MAHNOMEN,37.4
+2017-Marshall County,MARSHALL,29.7
+2017-Martin County,MARTIN,59.6
+2017-Mcleod County,MCLEOD,48.9
+2017-Meeker County,MEEKER,46.5
+2017-Mille Lacs County,MILLE LACS,36.4
+2017-Morrison County,MORRISON,40.3
+2017-Murray County,MURRAY,54.5
+2017-Nicollet County,NICOLLET,56.9
+2017-Nobles County,NOBLES,53.2
+2017-Norman County,NORMAN,36.6
+2017-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,44.8
+2017-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,36.3
+2017-Otter Tail County,OTTER TAIL,42.1
+2017-Pennington County,PENNINGTON,25.7
+2017-Pipestone County,PIPESTONE,53.7
+2017-Polk County,POLK,38.4
+2017-Pope County,POPE,46.1
+2017-Red Lake County,RED LAKE,38.6
+2017-Redwood County,REDWOOD,55.1
+2017-Renville County,RENVILLE,52.5
+2017-Rice County,RICE,53.5
+2017-Rock County,ROCK,58.7
+2017-Roseau County,ROSEAU,28.4
+2017-Scott County,SCOTT,52.7
+2017-Sibley County,SIBLEY,54.6
+2017-Stearns County,STEARNS,49.1
+2017-Steele County,STEELE,55.9
+2017-Stevens County,STEVENS,46.4
+2017-Swift County,SWIFT,46.3
+2017-Todd County,TODD,36.6
+2017-Traverse County,TRAVERSE,46.0
+2017-Waseca County,WASECA,56.9
+2017-Washington County,WASHINGTON,47.7
+2017-Watonwan County,WATONWAN,60.9
+2017-Wilkin County,WILKIN,39.3
+2017-Wright County,WRIGHT,49.3
+2017-Yellow Medicine County,YELLOW MEDICINE,52.7
+2018-Aitkin County,AITKIN,28.6
+2018-Anoka County,ANOKA,31.6
+2018-Becker County,BECKER,44.5
+2018-Benton County,BENTON,45.6
+2018-Big Stone County,BIG STONE,51.5
+2018-Blue Earth County,BLUE EARTH,52.9
+2018-Brown County,BROWN,51.9
+2018-Carver County,CARVER,54.5
+2018-Chippewa County,CHIPPEWA,52.6
+2018-Chisago County,CHISAGO,37.3
+2018-Clay County,CLAY,45.6
+2018-Clearwater County,CLEARWATER,39.3
+2018-Cottonwood County,COTTONWOOD,51.8
+2018-Faribault County,FARIBAULT,51.9
+2018-Freeborn County,FREEBORN,51.8
+2018-Hennepin County,HENNEPIN,49.2
+2018-Isanti County,ISANTI,36.7
+2018-Jackson County,JACKSON,49.3
+2018-Kanabec County,KANABEC,38.3
+2018-Kandiyohi County,KANDIYOHI,53.8
+2018-Kittson County,KITTSON,31.5
+2018-Lac Qui Parle County,LAC QUI PARLE,55.8
+2018-Le Sueur County,LE SUEUR,50.4
+2018-Lyon County,LYON,53.8
+2018-Marshall County,MARSHALL,34.0
+2018-Martin County,MARTIN,49.8
+2018-Mcleod County,MCLEOD,50.3
+2018-Morrison County,MORRISON,44.6
+2018-Murray County,MURRAY,49.9
+2018-Nicollet County,NICOLLET,53.4
+2018-Nobles County,NOBLES,49.4
+2018-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,50.6
+2018-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,52.0
+2018-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,49.4
+2018-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,40.5
+2018-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,41.1
+2018-Otter Tail County,OTTER TAIL,44.3
+2018-Polk County,POLK,42.7
+2018-Pope County,POPE,50.8
+2018-Red Lake County,RED LAKE,38.0
+2018-Redwood County,REDWOOD,50.3
+2018-Renville County,RENVILLE,54.3
+2018-Rice County,RICE,55.8
+2018-Rock County,ROCK,55.6
+2018-Roseau County,ROSEAU,33.9
+2018-Sibley County,SIBLEY,54.6
+2018-Stearns County,STEARNS,50.8
+2018-Steele County,STEELE,53.7
+2018-Stevens County,STEVENS,51.2
+2018-Swift County,SWIFT,53.8
+2018-Traverse County,TRAVERSE,51.9
+2018-Waseca County,WASECA,58.9
+2018-Washington County,WASHINGTON,49.4
+2018-Watonwan County,WATONWAN,52.5
+2018-Wilkin County,WILKIN,46.0
+2018-Yellow Medicine County,YELLOW MEDICINE,53.0
+2019-Becker County,BECKER,35.2
+2019-Beltrami County,BELTRAMI,32.8
+2019-Big Stone County,BIG STONE,42.1
+2019-Blue Earth County,BLUE EARTH,51.0
+2019-Brown County,BROWN,47.1
+2019-Carver County,CARVER,51.7
+2019-Chippewa County,CHIPPEWA,47.9
+2019-Chisago County,CHISAGO,35.0
+2019-Clay County,CLAY,38.8
+2019-Clearwater County,CLEARWATER,40.2
+2019-Cottonwood County,COTTONWOOD,47.3
+2019-Douglas County,DOUGLAS,41.5
+2019-Faribault County,FARIBAULT,53.6
+2019-Freeborn County,FREEBORN,49.9
+2019-Grant County,GRANT,43.3
+2019-Hennepin County,HENNEPIN,39.9
+2019-Isanti County,ISANTI,30.9
+2019-Jackson County,JACKSON,46.7
+2019-Kittson County,KITTSON,30.1
+2019-Koochiching County,KOOCHICHING,32.3
+2019-Lac Qui Parle County,LAC QUI PARLE,49.9
+2019-Lake Of The Woods County,LAKE OF THE WOODS,34.8
+2019-Lincoln County,LINCOLN,41.8
+2019-Lyon County,LYON,47.9
+2019-Marshall County,MARSHALL,33.9
+2019-Martin County,MARTIN,53.9
+2019-Mcleod County,MCLEOD,47.8
+2019-Mille Lacs County,MILLE LACS,33.6
+2019-Morrison County,MORRISON,40.5
+2019-Murray County,MURRAY,41.8
+2019-Nicollet County,NICOLLET,53.1
+2019-Nobles County,NOBLES,44.4
+2019-Norman County,NORMAN,35.1
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,48.7
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,34.8
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,40.8
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,33.2
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,40.8
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,34.6
+2019-Other (Combined) Counties County,OTHER (COMBINED) COUNTIES,35.0
+2019-Otter Tail County,OTTER TAIL,41.0
+2019-Pine County,PINE,35.4
+2019-Pipestone County,PIPESTONE,44.8
+2019-Polk County,POLK,35.3
+2019-Red Lake County,RED LAKE,36.7
+2019-Redwood County,REDWOOD,50.1
+2019-Renville County,RENVILLE,49.5
+2019-Rock County,ROCK,48.8
+2019-Roseau County,ROSEAU,35.6
+2019-Sibley County,SIBLEY,49.8
+2019-Stearns County,STEARNS,44.4
+2019-Steele County,STEELE,46.6
+2019-Stevens County,STEVENS,43.1
+2019-Swift County,SWIFT,42.8
+2019-Todd County,TODD,38.9
+2019-Traverse County,TRAVERSE,38.8
+2019-Wadena County,WADENA,42.7
+2019-Waseca County,WASECA,52.4
+2019-Washington County,WASHINGTON,51.0
+2019-Watonwan County,WATONWAN,48.1
+2019-Yellow Medicine County,YELLOW MEDICINE,44.1
+2020-Aitkin County,AITKIN,38.6
+2020-Anoka County,ANOKA,45.7
+2020-Becker County,BECKER,39.1
+2020-Beltrami County,BELTRAMI,36.1
+2020-Benton County,BENTON,52.8
+2020-Big Stone County,BIG STONE,47.7
+2020-Blue Earth County,BLUE EARTH,60.3
+2020-Brown County,BROWN,62.1
+2020-Carver County,CARVER,58.4
+2020-Cass County,CASS,32.5
+2020-Chippewa County,CHIPPEWA,55.8
+2020-Chisago County,CHISAGO,43.8
+2020-Clay County,CLAY,40.0
+2020-Clearwater County,CLEARWATER,43.7
+2020-Cottonwood County,COTTONWOOD,59.0
+2020-Crow Wing County,CROW WING,38.8
+2020-Douglas County,DOUGLAS,45.6
+2020-Faribault County,FARIBAULT,64.5
+2020-Freeborn County,FREEBORN,58.5
+2020-Grant County,GRANT,44.5
+2020-Hennepin County,HENNEPIN,54.0
+2020-Isanti County,ISANTI,41.9
+2020-Jackson County,JACKSON,54.3
+2020-Kandiyohi County,KANDIYOHI,50.6
+2020-Kittson County,KITTSON,32.3
+2020-Koochiching County,KOOCHICHING,33.7
+2020-Lac Qui Parle County,LAC QUI PARLE,50.4
+2020-Lake Of The Woods County,LAKE OF THE WOODS,34.1
+2020-Le Sueur County,LE SUEUR,59.1
+2020-Lincoln County,LINCOLN,49.1
+2020-Lyon County,LYON,53.8
+2020-Mahnomen County,MAHNOMEN,38.7
+2020-Marshall County,MARSHALL,32.1
+2020-Martin County,MARTIN,60.1
+2020-Mcleod County,MCLEOD,53.7
+2020-Meeker County,MEEKER,51.2
+2020-Mille Lacs County,MILLE LACS,41.8
+2020-Morrison County,MORRISON,51.9
+2020-Murray County,MURRAY,55.3
+2020-Nicollet County,NICOLLET,63.0
+2020-Nobles County,NOBLES,54.0
+2020-Norman County,NORMAN,34.7
+2020-Otter Tail County,OTTER TAIL,45.1
+2020-Pennington County,PENNINGTON,35.1
+2020-Pine County,PINE,47.9
+2020-Pipestone County,PIPESTONE,52.0
+2020-Polk County,POLK,36.7
+2020-Pope County,POPE,46.0
+2020-Red Lake County,RED LAKE,36.0
+2020-Redwood County,REDWOOD,57.0
+2020-Renville County,RENVILLE,53.2
+2020-Rice County,RICE,57.2
+2020-Rock County,ROCK,58.3
+2020-Roseau County,ROSEAU,28.0
+2020-Scott County,SCOTT,58.5
+2020-Sherburne County,SHERBURNE,51.0
+2020-Sibley County,SIBLEY,56.9
+2020-Stearns County,STEARNS,51.3
+2020-Steele County,STEELE,60.6
+2020-Stevens County,STEVENS,48.3
+2020-Swift County,SWIFT,51.2
+2020-Todd County,TODD,43.7
+2020-Traverse County,TRAVERSE,44.3
+2020-Wadena County,WADENA,47.8
+2020-Waseca County,WASECA,64.4
+2020-Washington County,WASHINGTON,51.8
+2020-Watonwan County,WATONWAN,61.8
+2020-Wilkin County,WILKIN,37.1
+2020-Wright County,WRIGHT,54.7
+2020-Yellow Medicine County,YELLOW MEDICINE,49.4
+2021-Anoka County,ANOKA,34.4
+2021-Becker County,BECKER,38.1
+2021-Beltrami County,BELTRAMI,26.0
+2021-Benton County,BENTON,34.8
+2021-Big Stone County,BIG STONE,49.6
+2021-Blue Earth County,BLUE EARTH,61.9
+2021-Brown County,BROWN,59.8
+2021-Carver County,CARVER,57.6
+2021-Cass County,CASS,39.2
+2021-Chippewa County,CHIPPEWA,52.6
+2021-Chisago County,CHISAGO,42.7
+2021-Clay County,CLAY,42.4
+2021-Clearwater County,CLEARWATER,24.3
+2021-Cottonwood County,COTTONWOOD,56.2
+2021-Crow Wing County,CROW WING,20.6
+2021-Douglas County,DOUGLAS,37.2
+2021-Faribault County,FARIBAULT,60.5
+2021-Freeborn County,FREEBORN,60.4
+2021-Grant County,GRANT,46.7
+2021-Hennepin County,HENNEPIN,51.3
+2021-Isanti County,ISANTI,36.5
+2021-Itasca County,ITASCA,37.3
+2021-Jackson County,JACKSON,57.8
+2021-Kanabec County,KANABEC,25.5
+2021-Kittson County,KITTSON,23.5
+2021-Lake Of The Woods County,LAKE OF THE WOODS,28.8
+2021-Le Sueur County,LE SUEUR,62.0
+2021-Lincoln County,LINCOLN,46.0
+2021-Lyon County,LYON,45.1
+2021-Marshall County,MARSHALL,29.7
+2021-Martin County,MARTIN,60.0
+2021-Mcleod County,MCLEOD,53.1
+2021-Meeker County,MEEKER,45.2
+2021-Mille Lacs County,MILLE LACS,37.8
+2021-Morrison County,MORRISON,30.8
+2021-Murray County,MURRAY,56.3
+2021-Nicollet County,NICOLLET,63.0
+2021-Nobles County,NOBLES,63.3
+2021-Norman County,NORMAN,24.3
+2021-Otter Tail County,OTTER TAIL,27.6
+2021-Pennington County,PENNINGTON,19.8
+2021-Pine County,PINE,41.2
+2021-Pipestone County,PIPESTONE,49.4
+2021-Polk County,POLK,24.1
+2021-Pope County,POPE,37.5
+2021-Red Lake County,RED LAKE,18.4
+2021-Redwood County,REDWOOD,52.2
+2021-Renville County,RENVILLE,52.2
+2021-Rice County,RICE,57.3
+2021-Rock County,ROCK,61.5
+2021-Roseau County,ROSEAU,23.6
+2021-Scott County,SCOTT,62.5
+2021-Sherburne County,SHERBURNE,33.9
+2021-Sibley County,SIBLEY,60.3
+2021-Steele County,STEELE,61.9
+2021-Stevens County,STEVENS,45.7
+2021-Swift County,SWIFT,50.2
+2021-Todd County,TODD,36.8
+2021-Traverse County,TRAVERSE,46.6
+2021-Wadena County,WADENA,35.9
+2021-Waseca County,WASECA,67.4
+2021-Washington County,WASHINGTON,51.1
+2021-Watonwan County,WATONWAN,62.7
+2021-Wilkin County,WILKIN,35.8
+2021-Wright County,WRIGHT,46.1
