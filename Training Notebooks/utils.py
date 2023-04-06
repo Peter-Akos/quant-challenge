@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import torch
 
 county_station_df = pd.read_csv('../data/county-station.csv', index_col=0)
 columns = np.load('../data/columns.npy')
@@ -77,7 +78,7 @@ def unite_stations(station_data, county_name=''):
     return final_data
 
 
-def get_data_pred(file_name):
+def get_data_pred(file_name, model=None, adjust=False):
     df = pd.read_csv('../data/weather/prediction_targets_daily/' + file_name + ".csv",
                      names=['avg', 'min', 'max', 'prec'], header=None)
 
@@ -97,6 +98,19 @@ def get_data_pred(file_name):
                     current_year.append(None)
 
         data[year] = np.asarray(current_year)
+
+    if model is not None:
+        with torch.no_grad():
+            inputs = pd.DataFrame(index=data.keys(), data=data.values(), columns=columns).fillna(0)
+            weather = torch.tensor(inputs.to_numpy(), dtype=torch.float32)
+            weather = weather.reshape(-1, 4, 222)
+            outputs = model(weather)
+            i = 0
+            for year in range(first_year, last_year + 1):
+                outputs[i] -= (1950-year)*1.96966271
+                i += 1
+            return outputs
+
 
     return pd.DataFrame(index=data.keys(), data=data.values(), columns=columns)
     # return data
