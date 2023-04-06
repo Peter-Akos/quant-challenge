@@ -78,7 +78,7 @@ def unite_stations(station_data, county_name=''):
     return final_data
 
 
-def get_data_pred(file_name, model=None, adjust=False):
+def get_data_pred(file_name, model=None, adjust=False, crop='corn'):
     df = pd.read_csv('../data/weather/prediction_targets_daily/' + file_name + ".csv",
                      names=['avg', 'min', 'max', 'prec'], header=None)
 
@@ -105,10 +105,18 @@ def get_data_pred(file_name, model=None, adjust=False):
             weather = torch.tensor(inputs.to_numpy(), dtype=torch.float32)
             weather = weather.reshape(-1, 4, 222)
             outputs = model(weather)
-            i = 0
-            for year in range(first_year, last_year + 1):
-                outputs[i] -= (1950-year)*1.96966271
-                i += 1
+            if adjust:
+                val = 0
+                if crop == 'corn':
+                    val = 1.96966271
+                if crop == 'oats':
+                    val = 0.35535245
+                if crop == 'soybeans':
+                    val = 0.47105142
+                i = 0
+                for year in range(first_year, last_year + 1):
+                    outputs[i] -= (1950-year)*val
+                    i += 1
             return outputs
 
 
