@@ -115,6 +115,12 @@ def get_data_pred(file_name, model=None, adjust=False, crop='corn', sklearn=Fals
                     val = 0.47105142
                 i = 0
                 for year in range(first_year, last_year + 1):
+                    if year < 1938:
+                        outputs[i] -= (1950 - 1938) * 0.8
+                    if year >= 1938 and year < 1950:
+                        outputs[i] -= (1950 - year) * 0.8
+                    if year > 1950:
+                        outputs[i] -= (1950 - year) * val
                     outputs[i] -= (1950-year)*val
                     i += 1
             return outputs, first_year, last_year
