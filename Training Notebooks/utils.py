@@ -78,7 +78,7 @@ def unite_stations(station_data, county_name=''):
     return final_data
 
 
-def get_data_pred(file_name, model=None, adjust=False, crop='corn'):
+def get_data_pred(file_name, model=None, adjust=False, crop='corn', sklearn=False):
     df = pd.read_csv('../data/weather/prediction_targets_daily/' + file_name + ".csv",
                      names=['avg', 'min', 'max', 'prec'], header=None)
 
@@ -117,7 +117,7 @@ def get_data_pred(file_name, model=None, adjust=False, crop='corn'):
                 for year in range(first_year, last_year + 1):
                     outputs[i] -= (1950-year)*val
                     i += 1
-            return outputs
+            return outputs, first_year, last_year
 
 
     return pd.DataFrame(index=data.keys(), data=data.values(), columns=columns)
