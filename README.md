@@ -18,6 +18,6 @@ Develop a model to predict crop yield based on weather data in Minnesota for cor
 
 We matched the weather stations to counties, managed to get the techincal improvements over the years out ot the equation by fitting a linear regression on the yearly average yield and trained a LSTM on the yearly weather data to predict the yield.
 
-For more detailed information about our approach and methodology please read the [paper](https://drive.google.com/file/d/1uYFck13EBt0yTMGcFjFRf3ExtCFT6LX8/view?usp=sharing).
+For more detailed information about our approach and methodology please read the [paper](https://drive.google.com/file/d/1uYFck13EBt0yTMGcFjFRf3ExtCFT6LX8/view?usp=sharing){:target="_blank"}.
 
 
