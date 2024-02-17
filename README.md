@@ -2,8 +2,8 @@
 
 Morgan Stanley’s Quant Challenge is a chance to experience first-hand how quantitative analytics teams work within a global investment bank.
 
-Read more about the challenge at:
- [https://www.quantchallenge.hu/](https://www.quantchallenge.hu/)
+Read more about the challenge at the [official site](https://www.quantchallenge.hu/).
+
 
 # Our team - Compacto
  - Péter Ákos
